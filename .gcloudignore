@@ -1,0 +1,13 @@
+.gcloudignore
+.git
+.gitignore
+.venv
+.vscode
+docs/
+notebooks/
+
+Dockerfile
+docker-compose.*
+README.md
+requirements-local.txt
+tasks.py

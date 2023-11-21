@@ -1,0 +1,3893 @@
+employee_id,ssg,compensation,gender,city,years_of_experience
+2977,HR,92313.79723,female,Los Angeles,4
+2666,Finance,91261.14162,female,Seattle,5.760796421
+5547,XYZ Division,52424.19504,female,Austin,12.02
+1841,Buyers,110625.4845,female,Chicago,41.51365018
+1618,Administrative Support,44926.42635,female,Austin,13.50798865
+2963,HR,100062.6103,female,Chicago,4
+2648,Finance,76508.52,female,Seattle,3.233334403
+3097,IT,121847.4032,female,Chicago,21.3796703
+1413,ABC Division,93174,female,Pittsburgh,1.85
+1341,ABC Division,60105.76,female,Pittsburgh,22.51
+5267,Warehouse,81859.4223,female,Ithaca,32.3520484
+4369,Production,66827.904,female,Austin,2.17
+2025,Buyers,135416.7565,female,Chicago,5.046090685
+5197,Warehouse,87521.72688,female,Ithaca,24.57229046
+4490,QRS Division,53203.36736,female,Austin,2.23
+1616,Administrative Support,44752.81842,female,Seattle,20.57296818
+1506,ABC Division,109836.48,female,Pittsburgh,7.43
+4445,Production,148349.76,female,Austin,2.17
+1964,Buyers,123725.0136,female,Chicago,5.888251795
+5342,Warehouse,70117.6875,female,Ithaca,1.299445059
+5081,Technicians,142314.2595,female,San Francisco,13
+2529,Finance,118631.5997,female,Seattle,19.97640213
+2610,Finance,91207.35399,female,Seattle,8.209410203
+2631,Finance,86644.16875,female,Austin,25.04192201
+3767,LMNOP Division Operators,65622.63307,female,Seattle,11.41
+5472,Warehouse Leadership,100125.8504,female,Ithaca,33.20572524
+2696,Finance,126502.8162,female,Austin,19.2595633
+2698,Finance,126411.7854,female,Austin,10.41126705
+2125,Call Center,75888.74,female,New York,17.3528771
+1605,Administrative Support,42639.11998,female,Austin,0.229541
+5324,Warehouse,106003.2036,female,Ithaca,0.595813719
+4368,Production,66233.024,female,Austin,18.55
+1967,Buyers,124508.7462,female,Chicago,7.196333492
+5205,Warehouse,82474.18687,female,Ithaca,22.27146637
+2286,Call Center,114574.44,female,New York,28.72609925
+3153,IT,123584.4035,female,Chicago,10.65911435
+1834,Buyers,110244.199,female,Austin,15.03896775
+3467,LMNOP Division Operators,59682.01055,female,Seattle,7.57
+1790,Buyers,102791.4425,female,Chicago,15.36341949
+3091,IT,131556.9098,female,Chicago,22.37917444
+3555,LMNOP Division Operators,56651.27559,female,Austin,5.25
+2505,Finance,130149.8771,female,Seattle,8.272966837
+3141,IT,116261.3879,female,Chicago,1.833686634
+3500,LMNOP Division Operators,45876.06846,female,Seattle,5.4
+3128,IT,117072.3713,female,Chicago,12.23422159
+2074,Call Center,55940.59,female,New York,14.95369336
+1769,Buyers,100920.8068,female,Chicago,5.96990416
+2556,Finance,108596.4478,female,Seattle,7.964229599
+1951,Buyers,121552.0898,female,Austin,25.3564671
+2013,Buyers,132194.0806,female,Chicago,10.19201026
+3108,IT,158918.0375,female,Austin,18.04854585
+1988,Buyers,128089.5941,female,Austin,18.85425827
+2239,Call Center,106282.02,female,New York,9.198155225
+2208,Call Center,97826.79,female,New York,8.668233006
+3104,IT,130718.9965,female,Chicago,2.424442114
+2273,Call Center,113191.71,female,New York,8.901760484
+2344,Call Center,142079.39,female,New York,18.23116254
+2081,Call Center,58710.36,female,New York,12.44559627
+2793,Finance,108855.1776,female,Seattle,37.58501093
+1424,ABC Division,94069,female,Pittsburgh,5.76
+3027,IT,129649.1771,female,Chicago,2.828640511
+1576,Administrative Support,39659.25098,female,Seattle,25.40405541
+10003,Administrative Support,39659.25098,female,Seattle,25.40405541
+2148,Call Center,82782.88,female,New York,22.77300745
+5330,Warehouse,94499.13829,female,Ithaca,21.56115209
+2802,Finance,107830.7461,female,Seattle,21.95347289
+2904,Finance,91801.87829,female,Seattle,17.01145878
+1747,Buyers,,female,Chicago,6.83489913
+1984,Buyers,127770.2745,female,Chicago,1.777591884
+2596,Finance,93407.88406,female,Seattle,7.840113747
+1643,Administrative Support,48780.1495,female,Seattle,14.93221879
+2026,Buyers,135425.4318,female,Chicago,18.60894321
+1652,Administrative Support,50218.00778,female,Seattle,10.15248709
+2201,Call Center,96352.62,female,New York,5.880218629
+2150,Call Center,83275.4,female,New York,21.41026977
+2501,Finance,93269.84697,female,Seattle,16.83714925
+2661,Finance,153822.3511,female,Seattle,14.37568989
+2580,Finance,96990.65162,female,Austin,15.905728
+1418,ABC Division,70586,female,Pittsburgh,11.96
+2841,Finance,99062.38036,female,Seattle,3.772593144
+5128,Technicians,188920.2531,female,New York,23
+2300,Call Center,118144.05,female,New York,4.912953886
+2982,IT,117465.203,female,Austin,11.58603358
+1604,Administrative Support,42525.46225,female,Seattle,6.285823176
+3012,IT,98211.06342,female,Chicago,10.30591603
+1837,Buyers,110429.8295,female,Austin,22.34409757
+2252,Call Center,109255.78,female,New York,10.41203877
+2305,Call Center,120004.75,female,New York,11.84371284
+2571,Finance,103118.8855,female,Seattle,7.629924479
+2105,Call Center,70574.04,female,New York,14.41926724
+2423,Engineering,121297.6718,female,Chicago,5.41
+5513,XYZ Division,57210.43992,female,Austin,17.13
+3101,IT,121481.0947,female,Austin,2.393750646
+2600,Finance,93166.41513,female,Seattle,10.25601703
+1579,Administrative Support,39659.25098,female,Austin,12.58417047
+10009,Administrative Support,39659.25098,female,Austin,12.58417047
+1712,Buyers,93024.19358,female,Chicago,28.62832196
+1612,Administrative Support,44171.14258,female,Seattle,17.01322908
+5190,Warehouse,63079.59317,female,Ithaca,17.89228316
+2985,IT,123874.7654,female,Chicago,12.36779503
+2965,HR,104583.6014,female,Los Angeles,4
+2972,HR,123288.9167,female,Los Angeles,7
+3177,IT,113874.1217,female,Chicago,1.910600898
+1641,Administrative Support,48568.43767,female,Seattle,4.366897112
+2204,Call Center,97293.69,female,New York,0.357961008
+5533,XYZ Division,61302.11368,female,Austin,5.42
+2654,Finance,70875.7,female,Austin,11.46806451
+2278,Call Center,113587.89,female,New York,16.60105193
+2930,Finance,85702.95205,female,Austin,21.96276864
+2635,Finance,86302.80479,female,Seattle,11.94331771
+5237,Warehouse Leadership,94094.48676,female,Ithaca,7.403683263
+1852,Buyers,111133.1665,female,Chicago,19.79451397
+5271,Warehouse,75475.25442,female,Ithaca,7.982074416
+3311,IT,108004.9292,female,Chicago,19.66086047
+5147,Technicians,176491.6658,female,Los Angeles,14.2
+5087,Technicians,154642.493,female,Palo Alto,16.21
+2095,Call Center,58710.36,female,New York,16.09294488
+4757,Research and Development,97288.97049,female,Los Angeles,7
+10024,Administrative Support,42408.23437,female,Seattle,1.71148901
+2947,HR,72279.60117,female,Santa Cruz,26
+1709,Buyers,93734.41768,female,Chicago,28.40543236
+1617,Administrative Support,44912.43319,female,Seattle,3.679950325
+2777,Finance,112566.8234,female,Seattle,19.49007563
+1954,Buyers,121931.849,female,Chicago,12.57208666
+5211,Warehouse,67460.87608,female,Ithaca,14.05037982
+4809,Sales Support,51465,female,Houston,14
+3485,LMNOP Division Operators,70333.21996,female,Seattle,3.78
+2655,Finance,70613.76,female,Seattle,25.43864033
+2815,Finance,105762.5351,female,Seattle,9.10998161
+5338,Warehouse,93800.14266,female,Ithaca,3.613210412
+2577,Finance,97612.8422,female,Seattle,9.308822549
+5402,Warehouse,46385.13969,female,Ithaca,9.034118783
+2703,Finance,125371.6398,female,Seattle,20.25071445
+5384,Warehouse,86564.28497,female,Ithaca,15.70279925
+2069,Call Center,48573.15,female,New York,6.402103944
+2855,Finance,96614.89274,female,Seattle,1.988630655
+5395,Warehouse,81936.89155,female,Ithaca,5.010054371
+1637,Administrative Support,47906.21144,female,Seattle,8.227318465
+1651,Administrative Support,50129.48192,female,Austin,15.74596316
+2708,Finance,124414.2478,female,Seattle,14.61531539
+1636,Administrative Support,47235.641,female,Seattle,9.221035513
+5401,Warehouse,71707.36628,female,Ithaca,7.949379297
+1619,Administrative Support,44953.09404,female,Seattle,19.88056318
+2357,Call Center,176089.97,female,New York,19.84903633
+4488,QRS Division,66809.49683,female,Austin,21.59
+4484,QRS Division,70840.53267,female,Austin,12.5
+2850,Finance,97578.98881,female,Austin,11.40173164
+1772,Buyers,101228.1174,female,Chicago,17.12463164
+2604,Finance,91945.4598,female,Seattle,8.110930187
+1635,Administrative Support,47214.43803,female,Austin,9.121513876
+1620,Administrative Support,45017.8802,female,Seattle,4.222773624
+5162,Warehouse Leadership,93251.3843,female,Ithaca,0.794863823
+3513,LMNOP Division Operators,65921.73981,female,Austin,18.33
+2664,Finance,88942.21789,female,Austin,22.71639376
+2706,Finance,124881.5385,female,Austin,17.34084169
+2816,Finance,105733.7836,female,Austin,31.39265133
+1642,Administrative Support,48732.79982,female,Seattle,14.44703232
+2701,Finance,125731.3998,female,Austin,4.71704345
+2652,Finance,72950.79,female,Austin,4.017941104
+2616,Finance,90125.5029,female,Seattle,16.96493516
+1419,ABC Division,82973,female,Pittsburgh,1.4
+4175,LMNOP Division Operators,57566.45613,female,Seattle,10.58
+2217,Call Center,99528.86,female,New York,11.60757512
+5214,Warehouse,83491.2632,female,Ithaca,19.95167029
+2188,Call Center,94391.08,female,New York,21.95073816
+3147,IT,121719.8945,female,Chicago,13.81417647
+1358,ABC Division,59115.056,female,Pittsburgh,8.71
+5063,Technicians,,female,Houston,4
+5702,XYZ Division,67271.7012,female,Seattle,3.2
+2023,Buyers,135296.9616,female,Chicago,11.49072786
+1615,Administrative Support,44727.38089,female,Seattle,25.35823075
+2922,Finance,88971.84645,female,Seattle,25.07247531
+2022,Buyers,134960.3342,female,Chicago,12.59268262
+4700,QRS Division,51673.8976,female,Austin,28.58
+1830,Buyers,109795.3066,female,Chicago,10.09166218
+3511,LMNOP Division Operators,67199.01059,female,Seattle,6.55
+1944,Buyers,119973.4997,female,Chicago,14.90111829
+1578,Administrative Support,39659.25098,female,Austin,18.71108969
+10007,Administrative Support,39659.25098,female,Austin,18.71108969
+4794,Sales Support,55959,female,Denver,1.71
+14800,Sales Support,49657,female,Denver,1.71
+3310,IT,104654.0492,female,Austin,14.19223862
+2246,Call Center,107743.57,female,New York,27.57067137
+2663,Finance,88942.21789,female,Austin,1.291530842
+3477,LMNOP Division Operators,45059.32723,female,Seattle,18.55
+2971,HR,121606.345,female,Los Angeles,15
+1497,ABC Division,81748,female,Pittsburgh,20.18
+2677,Finance,98056.57554,female,Austin,13.66665159
+5332,Warehouse,80661.08944,female,Ithaca,13.35776622
+2507,Finance,127227.1655,female,Seattle,19.83720883
+5336,Warehouse,75217.24075,female,Ithaca,14.66812893
+2306,Call Center,120917.23,female,New York,2.827668934
+1741,Buyers,97471.45091,female,Chicago,3.710342592
+1387,ABC Division,66500.72,female,Pittsburgh,21.28
+5126,Technicians,223641.685,female,Palo Alto,19.5
+2642,Finance,85397.35003,female,Austin,3.55416829
+1979,Buyers,127054.261,female,Chicago,23.93308449
+1989,Buyers,128425.5712,female,Chicago,11.47513999
+4839,Sales Support,49657,female,Chicago,3.41
+1704,Administrative Support,92424.99602,female,Seattle,35.1884777
+5168,Warehouse,54494.87759,female,Ithaca,18.65299685
+2548,Finance,111782.2694,female,Austin,17.331182
+2155,Call Center,84494.92,female,New York,19.01679496
+1646,Administrative Support,49410.11939,female,Austin,20.20725602
+5341,Warehouse,95758.5504,female,Ithaca,7.967341335
+2255,Call Center,109564.35,female,New York,24.50194429
+2497,Finance,85809.26964,female,Austin,6.11158449
+1705,Buyers,91854.37632,female,Chicago,6.920634369
+1938,Buyers,119360.3444,female,Chicago,17.84176361
+2196,Call Center,95605.9,female,New York,21.04273952
+3546,LMNOP Division Operators,47006.5448,female,Seattle,7.11
+1369,ABC Division,66045.408,female,Pittsburgh,7.75
+1627,Administrative Support,45376.77492,female,Seattle,28.60160724
+4482,QRS Division,59957.77216,female,Austin,12.01
+2649,Finance,75911.45,female,Austin,18.2525619
+2503,Finance,93269.84697,female,Austin,17.84659221
+3172,IT,135139.3162,female,Chicago,4.112360105
+2645,Finance,78663.16,female,Seattle,11.67395855
+1873,Buyers,112804.8885,female,Chicago,8.318681264
+5277,Warehouse,67629.8777,female,Ithaca,17.18429564
+2928,Finance,86674.58543,female,Seattle,20.00748688
+5294,Warehouse,66533.13339,female,Ithaca,12.29950217
+1580,Administrative Support,39659.25098,female,Seattle,23.12580976
+10011,Administrative Support,39659.25098,female,Seattle,23.12580976
+1776,Buyers,101705.7442,female,Chicago,17.56582624
+1816,Buyers,105654.9023,female,Chicago,13.50998245
+5166,Warehouse Leadership,94477.72156,female,Ithaca,21.95366981
+2578,Finance,97533.75431,female,Austin,12.66876347
+4048,LMNOP Division Operators,60003.04332,female,Seattle,5.9
+2857,Finance,96509.8662,female,Seattle,3.25522094
+2564,Finance,105471.3186,female,Seattle,6.128707847
+3417,LMNOP Division Operators,69739.56712,female,Seattle,0.39
+2007,Buyers,131382.884,female,Austin,9.969989454
+1629,Administrative Support,45660.15135,female,Austin,1.048423207
+1952,Buyers,121589.5833,female,Austin,7.579550298
+4355,Production,84677,female,Austin,5.1
+2951,HR,79358.76514,female,Santa Cruz,4
+4848,Sales Support,43582,female,Chicago,2
+5216,Warehouse,75421.19017,female,Ithaca,19.91057288
+1778,Buyers,102081.9612,female,Chicago,0.793100921
+2534,Finance,117735.1567,female,Seattle,3.069321894
+4806,Sales Support,53660,female,Santa Cruz,9
+2492,Finance,88942.21789,female,Seattle,0.992197583
+1753,Buyers,99178.8162,female,Chicago,7.377658032
+2830,Finance,103156.4974,female,Seattle,15.99091457
+1887,Buyers,113836.9773,female,Chicago,26.34313641
+5525,XYZ Division,51402.56224,female,Austin,19.66
+5337,Warehouse,59848.36297,female,Ithaca,0.700690319
+3036,IT,111797.7235,female,Austin,6.824624881
+10026,Administrative Support,42423.06794,female,Seattle,21.88603015
+2499,Finance,85809.26964,female,Seattle,14.91933223
+2553,Finance,109418.3005,female,Seattle,5.431909379
+10018,Administrative Support,42300.68282,female,Seattle,0.479103865
+2151,Call Center,83402.44,female,New York,8.870954676
+2871,Finance,94956.54602,female,Seattle,17.59143704
+2893,Finance,92749.03488,female,Austin,15.88297728
+3198,IT,120633.6791,female,Chicago,2.795626683
+4360,Production,95930,female,Austin,1.43
+3111,IT,124338.0672,female,Chicago,11.08492605
+3318,IT,127000.4552,female,Chicago,23.18551991
+2500,Finance,85809.26964,female,Seattle,20.53051949
+1791,Buyers,102892.93,female,Austin,1.890046877
+2929,Finance,85850.46034,female,Seattle,22.99822378
+2572,Finance,99475.77148,female,Seattle,2.335797138
+2657,Finance,164186.7999,female,Austin,23.08229617
+2798,Finance,108508.1261,female,Austin,10.04457701
+2917,Finance,89535.93281,female,Seattle,21.25348197
+1581,Administrative Support,39659.25098,female,Seattle,20.23491196
+10013,Administrative Support,39659.25098,female,Seattle,20.23491196
+1758,Buyers,99334.24858,female,Chicago,11.26550718
+1786,Buyers,102496.6117,female,Chicago,21.58455468
+5200,Warehouse,52504.26529,female,Ithaca,2.745350479
+3420,LMNOP Division Operators,54944.33305,female,Austin,1.55
+2694,Finance,127565.5156,female,Austin,15.56229436
+1783,Buyers,102455.2475,female,Chicago,14.32722488
+5763,XYZ Division,,female,Seattle,3.15
+2940,Finance,74078.64,female,Seattle,21.50402272
+2643,Finance,70875.7,female,Seattle,9.420347155
+2637,Finance,85993.39504,female,Seattle,18.34147679
+5317,Warehouse,74963.55312,female,Ithaca,6.276118035
+5333,Warehouse,74093.80968,female,Ithaca,0.545334146
+2525,Finance,119612.5209,female,Austin,24.58968609
+5207,Warehouse,91378.93317,female,Ithaca,8.241612928
+5476,Warehouse,73323.85149,female,Ithaca,18.93187338
+3150,IT,115506.4301,female,Austin,17.65810858
+4477,Production,64447.3024,female,Austin,26.52
+3194,IT,115921.6634,female,Chicago,7.563676701
+1963,Buyers,123681.2576,female,Austin,11.38268785
+2510,Finance,125028.3283,female,Seattle,5.287943821
+2144,Call Center,81231.11,female,New York,7.014775274
+5213,Warehouse,83718.12417,female,Ithaca,18.62696563
+2852,Finance,96940.60411,female,Austin,9.974294388
+2185,Call Center,93502.5,female,New York,8.91971746
+1396,ABC Division,68429.45824,female,Pittsburgh,7.48
+2117,Call Center,74410.35,female,New York,19.90524603
+2804,Finance,107683.6282,female,Austin,4.468379072
+2620,Finance,88706.87176,female,Seattle,27.3764122
+4733,Research and Development,60771.35861,female,Los Angeles,9.98
+3191,IT,104712.8695,female,Chicago,17.38827438
+3261,IT,125355.7998,female,Chicago,21.48534766
+3203,IT,116952.79,female,Austin,3.068826073
+2639,Finance,85819.12463,female,Seattle,2.354602858
+2146,Call Center,82132.61,female,New York,28.50260179
+2828,Finance,103603.793,female,Austin,3.794793654
+2612,Finance,91050.93232,female,Seattle,8.688186918
+1980,Buyers,127377.0092,female,Chicago,3.363577869
+1762,Buyers,100115.5907,female,Chicago,22.75413803
+2184,Call Center,93063.33,female,New York,1.711065656
+2969,HR,119756.3742,female,Chicago,3
+2178,Call Center,91237.75,female,New York,33.60173464
+2651,Finance,73904.16,female,Seattle,2.208420974
+1501,ABC Division,77651,female,Pittsburgh,34.58
+3000,IT,127469.578,female,Chicago,18.70155083
+2522,Finance,120073.3984,female,Seattle,28.3749599
+1990,Buyers,128466.9031,female,Chicago,7.473678166
+2707,Finance,124420.9977,female,Austin,18.20500942
+2241,Call Center,106943.06,female,New York,18.38583126
+5388,Warehouse,61929.01929,female,Ithaca,35.30219425
+2628,Finance,87375.32761,female,Seattle,5.016680798
+4766,Research and Development,165157.7957,female,Palo Alto,13.5
+2512,Finance,89679.8966,female,Seattle,13.86512034
+1609,Administrative Support,43710.00521,female,Austin,10.29981383
+4590,QRS Division,64762.25184,female,Austin,29.02
+4787,Sales Support,46272,female,Ithaca,1
+47857,Sales Support,59944,female,Ithaca,1
+2006,Buyers,131109.1699,female,Austin,11.14447021
+2590,Finance,94948.93349,female,Austin,0.799478004
+2102,Call Center,69400.39,female,New York,15.63263931
+5326,Warehouse,53829.28352,female,Ithaca,5.153730498
+1820,Buyers,106050.5431,female,Austin,2.789848077
+2788,Finance,110315.2877,female,Seattle,21.05467612
+1710,Buyers,93870.11822,female,Austin,8.229581006
+2989,IT,127914.0307,female,Chicago,26.93832414
+5541,XYZ Division,65307.19405,female,Austin,27.22
+2591,Finance,94769.25,female,Seattle,1.205753461
+2093,Call Center,58710.36,female,New York,14.12495277
+3156,IT,114821.9161,female,Austin,5.063101045
+4720,Research and Development,64565.66607,female,Los Angeles,9.81
+4478,Production,50541.92,female,Austin,24.87
+2242,Call Center,107000.73,female,New York,22.72127494
+3088,IT,111823.5568,female,Chicago,21.014584
+4374,Production,64126.6496,female,Austin,15.15
+2202,Call Center,96888.81,female,New York,18.0529243
+1806,Buyers,104568.3981,female,Chicago,26.24023657
+2256,Call Center,109688.49,female,New York,3.091246371
+2697,Finance,126424.4875,female,Austin,7.040093005
+5329,Warehouse,,female,Ithaca,0.50648416
+1789,Buyers,102770.2841,female,Austin,3.343551557
+4728,Research and Development,57384.47836,female,Los Angeles,5.1
+5477,Warehouse,84472.3422,female,Ithaca,21.31709423
+2229,Call Center,102863.37,female,New York,17.9922048
+5161,Warehouse,91709.33599,female,Ithaca,3.955750183
+3195,IT,123773.2028,female,Chicago,6.080240378
+4695,QRS Division,53060.7168,female,Austin,19.07
+2847,Finance,98422.80923,female,Austin,8.135600072
+5328,Warehouse,65352.92905,female,Ithaca,11.06171252
+2215,Call Center,99412.85,female,New York,4.405691491
+10012,Administrative Support,42038.1199,female,Seattle,4.097868788
+4807,Sales Support,46272,female,Santa Cruz,17
+4713,Research and Development,58571.40582,female,Los Angeles,5
+1349,ABC Division,66599.9776,female,Pittsburgh,2.24
+5160,Warehouse Leadership,92696.50158,female,Ithaca,8.001233046
+1654,Administrative Support,51025.05098,female,Austin,10.05987905
+1774,Buyers,101520.7196,female,Chicago,1.900354229
+5516,XYZ Division,50297.23616,female,Austin,10.41
+5266,Warehouse Leadership,100155.2342,female,Ithaca,12.59243019
+5387,Warehouse,74346.78793,female,Ithaca,19.84831333
+1361,ABC Division,58271.2,female,Pittsburgh,2.45
+1982,Buyers,127564.5216,female,Chicago,11.27946375
+1978,Buyers,127038.5059,female,Chicago,23.11835511
+4805,Sales Support,56746,female,Santa Cruz,19
+2576,Finance,97654.36416,female,Austin,30.75136304
+1764,Buyers,100260.7057,female,Chicago,14.90199826
+2623,Finance,88286.63039,female,Seattle,0.193011146
+1583,Administrative Support,39659.25098,female,Seattle,26.30827012
+10017,Administrative Support,39659.25098,female,Seattle,26.30827012
+2808,Finance,107182.6185,female,Austin,5.347482836
+3496,LMNOP Division Operators,53565.37214,female,Seattle,2.33
+2399,Engineering,117949.834,female,Houston,2
+1653,Administrative Support,50323.03962,female,Austin,21.36311595
+2809,Finance,107119.3232,female,Seattle,3.774631889
+4754,Research and Development,111206.9888,female,Palo Alto,21.11
+2461,Facility Services,32087.74484,female,New York,6.41
+2954,HR,85066.03026,female,Chicago,3
+2466,Facility Services,34201.297,female,Denver,2
+2832,Finance,103013.99,female,Seattle,5.816205697
+2106,Call Center,70831.19,female,New York,23.0954753
+2136,Call Center,79341.58,female,New York,23.85778802
+10006,Administrative Support,40907.0978,female,Seattle,11.79778797
+5193,Warehouse,91253.34099,female,Ithaca,10.92021247
+4800,Sales Support,44859,female,Santa Cruz,15
+3081,IT,136049.9502,female,Chicago,12.46259774
+3114,IT,117075.4747,female,Chicago,17.17109638
+3068,IT,112571.2871,female,Chicago,1.426117075
+2629,Finance,87355.40698,female,Seattle,14.5066495
+1577,Administrative Support,39659.25098,female,Seattle,30.04371095
+10005,Administrative Support,39659.25098,female,Seattle,30.04371095
+3017,IT,124455.2667,female,Chicago,3.537143366
+1382,ABC Division,66678.56,female,Pittsburgh,10.82
+1956,Buyers,122422.9879,female,Chicago,1.036892367
+1950,Buyers,121318.6636,female,Chicago,10.22868738
+2078,Call Center,57034.47,female,New York,8.550393739
+2762,Finance,115424.7709,female,Seattle,13.21925422
+10010,Administrative Support,41845.19635,female,Austin,26.45838304
+2343,Call Center,141717.26,female,New York,18.6340032
+2288,Call Center,115032.49,female,New York,11.32782191
+3401,LMNOP Division Operators,46826.35445,female,Seattle,7.49
+2551,Finance,110691.6328,female,Seattle,14.03305071
+2475,Facility Services,36780.01,female,Miami,4.31
+2393,Engineering,114661.428,female,Chicago,3
+4748,Research and Development,80804.36773,female,Los Angeles,6
+1785,Buyers,102486.7322,female,Chicago,20.7271517
+2595,Finance,93419.26431,female,Austin,15.00806414
+3117,IT,113510.2883,female,Chicago,5.251048482
+2316,Call Center,123470.25,female,New York,19.40262332
+1959,Buyers,123160.6118,female,Chicago,19.43611019
+3954,LMNOP Division Operators,48419.99972,female,Seattle,1.36
+3524,LMNOP Division Operators,56411.10952,female,Seattle,17.55
+3243,IT,136899.8066,female,Austin,5.093455289
+3120,IT,117998.7381,female,Austin,25.85817577
+4768,Research and Development,145489.162,female,Los Angeles,12.31
+2614,Finance,90673.81433,female,Austin,24.38769446
+2764,Finance,115141.2956,female,Seattle,14.5105436
+2101,Call Center,69263.52,female,New York,12.5700003
+3293,IT,101385.0817,female,Chicago,22.22609926
+5682,XYZ Division,65049.59408,female,Austin,20.89
+2009,Buyers,131815.9775,female,Chicago,5.517218681
+1763,Buyers,100154.4557,female,Chicago,11.6142367
+2763,Finance,115361.589,female,Austin,6.418802809
+2506,Finance,,female,Seattle,25.83258548
+2539,Finance,114464.6047,female,Seattle,15.19089389
+5170,Warehouse,83324.25262,female,Ithaca,28.47700136
+2327,Call Center,127252.45,female,New York,6.858458953
+2566,Finance,103761.1473,female,Seattle,11.10793346
+2163,Call Center,87769.11,female,New York,6.975959044
+2268,Call Center,112195.52,female,New York,13.07217218
+4732,Research and Development,60035.568,female,Los Angeles,12.5
+4716,Research and Development,61790.88178,female,Los Angeles,1
+4738,Research and Development,75676.48904,female,Los Angeles,4
+2396,Engineering,125659.8616,female,Miami,9.5
+2944,HR,70027.06682,female,San Francisco,12.9
+4819,Sales Support,50806,female,New York,1.61
+4852,Sales Support,49706,female,San Francisco,2.71
+4881,Sales Support,48308,female,Chicago,11.31
+4886,Sales Support,58248,female,Chicago,1.8
+4872,Sales Support,47814,female,San Francisco,4.31
+4876,Sales Support,58248,female,Houston,4.91
+4849,Sales Support,50806,female,San Francisco,2.1
+4873,Sales Support,51465,female,Santa Cruz,4.6
+4878,Sales Support,50806,female,Houston,5.2
+4862,Sales Support,43582,female,Los Angeles,6.2
+4858,Sales Support,47346,female,Los Angeles,5.2
+2415,Engineering,136005.7673,female,Houston,3.5
+2411,Engineering,135077.6493,female,Denver,16.8
+5136,Technicians,207219.1261,female,Palo Alto,20.11
+5045,Technicians,85814.87773,female,Denver,7
+5010,Technicians,39116.00875,female,Santa Cruz,1
+5112,Technicians,208343.3765,female,Los Angeles,21.9
+5139,Technicians,240932.495,female,Palo Alto,16
+5079,Technicians,164694.2872,female,New York,16
+5118,Technicians,181024.4647,female,Palo Alto,15.9
+5121,Technicians,217874.9942,female,Palo Alto,22.61
+5082,Technicians,203815.7682,female,New York,20
+5085,Technicians,153256.7545,female,Los Angeles,16.21
+5044,Technicians,85812.26837,female,Houston,9.9
+4919,Sales Operations,77516.02439,female,Denver,12.81
+5899,Sales Operations,77516.02439,female,Denver,12.81
+5945,Sales Operations,77516.02439,female,Denver,12.81
+5135,Technicians,207106.7744,female,Los Angeles,24.11
+5011,Technicians,40120,female,Ithaca,2
+5098,Technicians,168404.656,female,Palo Alto,23.11
+5089,Technicians,155939.1212,female,New York,11
+4746,Research and Development,89551.58471,female,Los Angeles,11
+4900,Sales Operations,61796.7647,female,New York,2.71
+5880,Sales Operations,61796.7647,female,New York,2.71
+5926,Sales Operations,61796.7647,female,New York,2.71
+4939,Sales Operations,41121.99847,female,Miami,1.61
+5919,Sales Operations,,female,Miami,1.61
+5965,Sales Operations,41121.99847,female,Miami,1.61
+4914,Sales Operations,89459.65546,female,New York,10
+5894,Sales Operations,89459.65546,female,New York,10
+5940,Sales Operations,89459.65546,female,New York,10
+5901,Sales Operations,81240.55519,female,Chicago,3
+4921,Sales Operations,80340.55519,female,Chicago,3
+5947,Sales Operations,81240.55519,female,Chicago,3
+4905,Sales Operations,58601.23882,female,Miami,2
+5885,Sales Operations,58601.23882,female,Miami,2
+5931,Sales Operations,58601.23882,female,Miami,2
+5049,Technicians,88662.21451,female,Santa Cruz,6.1
+4730,Research and Development,58709.8645,female,Los Angeles,8
+4932,Sales Operations,99825.54298,female,Miami,9
+5912,Sales Operations,99825.54298,female,Miami,9
+5958,Sales Operations,99825.54298,female,Miami,9
+4710,Research and Development,64112.6338,female,Los Angeles,3
+4834,Sales Support,49706,female,New York,1.4
+4866,Sales Support,58337,female,Houston,6.31
+4832,Sales Support,41282,female,Chicago,1.4
+4818,Sales Support,58248,female,Chicago,1.4
+4824,Sales Support,51465,female,Santa Cruz,4.1
+5875,Sales Operations,45802.62706,female,Los Angeles,1.8
+4895,Sales Operations,45802.62706,female,Los Angeles,1.8
+5921,Sales Operations,45802.62706,female,Los Angeles,1.8
+2408,Engineering,123021.3703,female,Los Angeles,21.5
+2377,Engineering,121264.1636,female,Miami,19.61
+2389,Engineering,114147.4767,female,Denver,9.5
+2400,Engineering,128590.939,female,New York,2.6
+2406,Engineering,133513.9061,female,Miami,10.2
+2418,Engineering,115992.8361,female,Los Angeles,14.4
+5017,Technicians,79622.89157,female,Santa Cruz,7
+5032,Technicians,78836.99106,female,Denver,14.7
+5035,Technicians,80486.91039,female,Los Angeles,10.81
+5033,Technicians,79081.16671,female,Houston,10.7
+4874,Sales Support,43582,female,Santa Cruz,5.41
+5027,Technicians,74259.93377,female,Denver,6.5
+5141,Technicians,53339.8984,female,Houston,3
+5024,Technicians,71994.9482,female,Santa Cruz,7
+5066,Technicians,135599.9351,female,Miami,13.81
+4804,Sales Support,41282,female,San Francisco,1.9
+4814,Sales Support,56775,female,Santa Cruz,2.3
+4799009,Sales,103422.4078,female,Chicago,4.91
+4799013,Sales,115241.7291,female,Chicago,4.91
+4799015,Sales,140207.6421,female,Chicago,4.91
+4799029,Sales,103451.1594,female,Chicago,4.91
+4799039,Sales,115829.651,female,Chicago,4.91
+4799041,Sales,145246.2995,female,Chicago,4.91
+4799049,Sales,89184.87351,female,Chicago,4.91
+4799059,Sales,132850.9665,female,Chicago,4.91
+4799063,Sales,110874.7242,female,Chicago,4.91
+4799065,Sales,107457.0817,female,Chicago,4.91
+4799071,Sales,133332.6302,female,Chicago,4.91
+4799073,Sales,145688.8549,female,Chicago,4.91
+4799075,Sales,110355.8424,female,Chicago,4.91
+4799091,Sales,116007.2347,female,Chicago,4.91
+4799105,Sales,141865.0807,female,Chicago,4.91
+4799109,Sales,109393.4284,female,Chicago,4.91
+4799117,Sales,103612.5546,female,Chicago,4.91
+4799119,Sales,111643.5479,female,Chicago,4.91
+4799121,Sales,126934.4582,female,Chicago,4.91
+4799133,Sales,130386.6188,female,Chicago,4.91
+4799139,Sales,121908.6801,female,Chicago,4.91
+4799161,Sales,99261.43123,female,Chicago,4.91
+4799163,Sales,127030.4934,female,Chicago,4.91
+4799167,Sales,110088.4775,female,Chicago,4.91
+4799171,Sales,120241.8039,female,Chicago,4.91
+4799173,Sales,112430.1769,female,Chicago,4.91
+4799185,Sales,130535.8701,female,Chicago,4.91
+4799187,Sales,140611.8422,female,Chicago,4.91
+4799189,Sales,112293.1189,female,Chicago,4.91
+4799193,Sales,106119.0069,female,Chicago,4.91
+4798999,Sales,136889.4094,female,Chicago,4.91
+4799001,Sales,98594.12005,female,Chicago,4.91
+4799003,Sales,137735.6411,female,Chicago,4.91
+4799005,Sales,110986.5752,female,Chicago,4.91
+4799007,Sales,125506.7722,female,Chicago,4.91
+4799017,Sales,138669.9118,female,Chicago,4.91
+4799019,Sales,111520.429,female,Chicago,4.91
+4799021,Sales,108560.5108,female,Chicago,4.91
+4799023,Sales,117630.3209,female,Chicago,4.91
+4799027,Sales,111156.4152,female,Chicago,4.91
+4799031,Sales,110772.733,female,Chicago,4.91
+4799033,Sales,100477.4195,female,Chicago,4.91
+4799035,Sales,114929.7874,female,Chicago,4.91
+4799037,Sales,118625.4317,female,Chicago,4.91
+4799043,Sales,88072.58829,female,Chicago,4.91
+4799045,Sales,135033.4657,female,Chicago,4.91
+4799047,Sales,104282.7531,female,Chicago,4.91
+4799051,Sales,139770.0261,female,Chicago,4.91
+4799053,Sales,133005.129,female,Chicago,4.91
+4799055,Sales,120670.931,female,Chicago,4.91
+4799057,Sales,115298.6597,female,Chicago,4.91
+4799061,Sales,112069.6193,female,Chicago,4.91
+4799067,Sales,,female,Chicago,4.91
+4799069,Sales,99372.37652,female,Chicago,4.91
+4799077,Sales,121111.1327,female,Chicago,4.91
+4799079,Sales,102805.3253,female,Chicago,4.91
+4799081,Sales,113757.4007,female,Chicago,4.91
+4799083,Sales,103491.6312,female,Chicago,4.91
+4799085,Sales,109479.7392,female,Chicago,4.91
+4799087,Sales,109363.2026,female,Chicago,4.91
+4799089,Sales,148561.9906,female,Chicago,4.91
+4799093,Sales,129609.3132,female,Chicago,4.91
+4799095,Sales,146607.4034,female,Chicago,4.91
+4799097,Sales,114302.1754,female,Chicago,4.91
+4799099,Sales,120259.9229,female,Chicago,4.91
+4799101,Sales,137537.6137,female,Chicago,4.91
+4799103,Sales,132102.696,female,Chicago,4.91
+4799107,Sales,110674.8587,female,Chicago,4.91
+4799111,Sales,154536.6401,female,Chicago,4.91
+4799113,Sales,124035.1162,female,Chicago,4.91
+4799115,Sales,144473.4931,female,Chicago,4.91
+4799123,Sales,128134.0148,female,Chicago,4.91
+4799125,Sales,109693.9745,female,Chicago,4.91
+4799127,Sales,99559.08487,female,Chicago,4.91
+4799129,Sales,125034.1937,female,Chicago,4.91
+4799131,Sales,120898.8392,female,Chicago,4.91
+4799135,Sales,127511.6811,female,Chicago,4.91
+4799137,Sales,137973.7681,female,Chicago,4.91
+4799141,Sales,125506.4418,female,Chicago,4.91
+4799143,Sales,108956.9466,female,Chicago,4.91
+4799145,Sales,101150.6532,female,Chicago,4.91
+4799147,Sales,130530.6713,female,Chicago,4.91
+4799149,Sales,122285.6115,female,Chicago,4.91
+4799151,Sales,109591.3204,female,Chicago,4.91
+4799153,Sales,123022.9962,female,Chicago,4.91
+4799155,Sales,130484.6831,female,Chicago,4.91
+4799157,Sales,110366.3246,female,Chicago,4.91
+4799159,Sales,131251.923,female,Chicago,4.91
+4799165,Sales,105259.3353,female,Chicago,4.91
+4799175,Sales,162672.2546,female,Chicago,4.91
+4799177,Sales,147655.7162,female,Chicago,4.91
+4799179,Sales,103571.3306,female,Chicago,4.91
+4799181,Sales,102508.0278,female,Chicago,4.91
+4799183,Sales,115645.6691,female,Chicago,4.91
+4798,Sales Support,50806,female,Chicago,4.91
+4915,Sales Operations,123532.5977,female,San Francisco,17
+5895,Sales Operations,123532.5977,female,San Francisco,17
+5941,Sales Operations,123532.5977,female,San Francisco,17
+4922,Sales Operations,121106.9764,female,Miami,11
+5902,Sales Operations,121106.9764,female,Miami,11
+5948,Sales Operations,121106.9764,female,Miami,11
+4918,Sales Operations,134931.0369,female,San Francisco,17
+5898,Sales Operations,134931.0369,female,San Francisco,17
+5944,Sales Operations,134931.0369,female,San Francisco,17
+4926,Sales Operations,125966.2808,female,Miami,15
+5906,Sales Operations,125966.2808,female,Miami,15
+5952,Sales Operations,125966.2808,female,Miami,15
+4788,Sales Support,47814,female,Ithaca,2
+14802,Sales Support,44859,female,Ithaca,2
+4822,Sales Support,53127,female,Santa Cruz,3
+4802,Sales Support,41282,female,Santa Cruz,2.91
+2420,Engineering,163567.0992,female,San Francisco,17
+4708,Research and Development,61855.94926,female,Los Angeles,11
+5091,Technicians,158240.7085,female,New York,8.11
+5042,Technicians,84964.23187,female,Los Angeles,9.61
+5150,Technicians,195884.1096,female,Palo Alto,15
+5076,Technicians,128445.1595,female,Denver,10
+5030,Technicians,92437.3731,female,Miami,9.7
+5023,Technicians,99235.55179,female,Miami,8.4
+4907,Sales Operations,84485.0773,female,New York,10.7
+5887,Sales Operations,84485.0773,female,New York,10.7
+5933,Sales Operations,84485.0773,female,New York,10.7
+4925,Sales Operations,83531.66164,female,Houston,2.3
+5905,Sales Operations,83531.66164,female,Houston,2.3
+5951,Sales Operations,83531.66164,female,Houston,2.3
+4909,Sales Operations,87255.07984,female,Miami,5.1
+5889,Sales Operations,87255.07984,female,Miami,5.1
+5935,Sales Operations,87255.07984,female,Miami,5.1
+4896,Sales Operations,49266.36645,female,Denver,2.1
+5876,Sales Operations,,female,Denver,2.1
+5922,Sales Operations,49266.36645,female,Denver,2.1
+4722,Research and Development,54477.67466,female,Los Angeles,6.6
+4937,Sales Operations,92574.11824,female,Miami,15
+5917,Sales Operations,92574.11824,female,Miami,15
+5963,Sales Operations,92574.11824,female,Miami,15
+4723,Research and Development,54795.76671,female,Los Angeles,3.8
+2474,Facility Services,36641.79582,female,Los Angeles,6
+5251,Warehouse,100512.6296,female,Ithaca,17.00175614
+4741,Research and Development,65195,female,Los Angeles,5
+47044,Research and Development,46955.63869,female,Ithaca,3.71
+2262,Call Center,111619.71,female,New York,12.06869095
+2011,Buyers,131891.3512,female,Chicago,19.46743548
+2646,Finance,78103.01,female,Seattle,25.27907397
+3181,IT,145261.843,female,Chicago,2.219462325
+2110,Call Center,71842.53,female,New York,6.511999789
+3042,IT,84883.28,female,Chicago,6.254486411
+1975,Buyers,126029.1599,female,Chicago,10.39078688
+2680,Finance,93269.84697,female,Austin,0.291083523
+1795,Buyers,103105.4236,female,Chicago,14.99656899
+2679,Finance,93269.84697,female,Seattle,14.43005666
+1766,Buyers,100662.0312,female,Chicago,12.08976447
+2931,Finance,85678.25915,female,Seattle,16.15800761
+2508,Finance,126119.1541,female,Austin,36.878398
+1794,Buyers,103046.6628,female,Chicago,14.95885438
+4500,QRS Division,54500.89216,female,Austin,7.03
+2061,Buyers,176166.7142,female,Chicago,21.1097328
+2693,Finance,127571.9246,female,Seattle,15.57683273
+1607,Administrative Support,43447.94223,female,Seattle,13.63707348
+2543,Finance,113654.0041,female,Seattle,2.758533123
+2924,Finance,88440.91376,female,Seattle,10.76892393
+5377,Warehouse,77661.60475,female,Ithaca,11.2309505
+2836,Finance,99592.11934,female,Seattle,4.804146103
+2103,Call Center,69887.87,female,New York,26.28246213
+5212,Warehouse,94876.52043,female,Ithaca,0.632166084
+5191,Warehouse,64922.39377,female,Ithaca,20.38950097
+3249,IT,99287.99458,female,Chicago,12.8658173
+5262,Warehouse,65170.36255,female,Ithaca,8.620770699
+5725,XYZ Division,59428.9756,female,Seattle,12.96
+2827,Finance,103686.8712,female,Seattle,15.63739103
+1817,Buyers,105882.1963,female,Chicago,17.38343791
+2531,Finance,118559.2326,female,Seattle,11.1501306
+3155,IT,121154.5736,female,Chicago,0.753809926
+2844,Finance,98855.51206,female,Austin,23.89635936
+1748,Buyers,98365.58378,female,Chicago,18.17827117
+4847,Sales Support,47814,female,Santa Cruz,2
+2076,Call Center,56709.8,female,New York,2.722950704
+2790,Finance,109923.0173,female,Seattle,8.957034974
+1624,Administrative Support,45241.08943,female,Seattle,2.236813944
+5255,Warehouse Leadership,96189.69027,female,Ithaca,8.120763505
+2032,Buyers,137040.3447,female,Chicago,10.25700085
+2593,Finance,94302.04237,female,Austin,3.646805449
+3743,LMNOP Division Operators,61020.60427,female,Seattle,16.66
+2532,Finance,118221.3034,female,Seattle,10.3729562
+2057,Buyers,167143.4016,female,Austin,23.1759505
+3122,IT,102061.733,female,Chicago,30.19233486
+3129,IT,,female,Chicago,2.312836399
+3176,IT,123277.9509,female,Chicago,18.65219907
+3180,IT,144582.5026,female,Chicago,7.584524515
+2550,Finance,110921.9252,female,Seattle,14.61455567
+1746,Buyers,98110.97476,female,Chicago,2.280958044
+1784,Buyers,102464.6111,female,Chicago,24.27506511
+4821,Sales Support,48308,female,Los Angeles,2.71
+1630,Administrative Support,45893.93863,female,Seattle,6.993048919
+5080,Technicians,166701.9866,female,New York,9
+2812,Finance,106753.2166,female,Seattle,13.75669866
+2967,HR,110430.7702,female,Los Angeles,20
+4024,LMNOP Division Operators,58593.79134,female,Seattle,25.15
+1798,Buyers,103451.1546,female,Chicago,13.87023755
+1,HR,81000,female,Santa Cruz,5
+2,HR,81000,female,Santa Cruz,5
+888,HR,81000,female,Santa Cruz,5
+889,HR,81000,female,Santa Cruz,5
+890,HR,81000,female,Santa Cruz,5
+891,HR,81000,female,Santa Cruz,5
+892,HR,81000,female,Santa Cruz,5
+893,HR,81000,female,Santa Cruz,5
+894,HR,81000,female,Santa Cruz,5
+895,HR,81000,female,Santa Cruz,5
+896,HR,81000,female,Santa Cruz,5
+897,HR,81000,female,Santa Cruz,5
+898,HR,81000,female,Santa Cruz,5
+899,HR,81000,female,Santa Cruz,5
+900,HR,81000,female,Santa Cruz,5
+901,HR,81000,female,Santa Cruz,5
+902,HR,81000,female,Santa Cruz,5
+903,HR,81000,female,Santa Cruz,5
+904,HR,81000,female,Santa Cruz,5
+905,HR,81000,female,Santa Cruz,5
+906,HR,81000,female,Santa Cruz,5
+907,HR,81000,female,Santa Cruz,5
+908,HR,81000,female,Santa Cruz,5
+909,HR,81000,female,Santa Cruz,5
+910,HR,81000,female,Santa Cruz,5
+911,HR,81000,female,Santa Cruz,5
+912,HR,81000,female,Santa Cruz,5
+913,HR,81000,female,Santa Cruz,5
+914,HR,81000,female,Santa Cruz,5
+915,HR,81000,female,Santa Cruz,5
+916,HR,81000,female,Santa Cruz,5
+917,HR,81000,female,Santa Cruz,5
+918,HR,81000,female,Santa Cruz,5
+919,HR,81000,female,Santa Cruz,5
+920,HR,81000,female,Santa Cruz,5
+921,HR,81000,female,Santa Cruz,5
+927,HR,81000,female,Santa Cruz,5
+928,HR,81000,female,Santa Cruz,5
+929,HR,81000,female,Santa Cruz,5
+930,HR,81000,female,Santa Cruz,5
+931,HR,81000,female,Santa Cruz,5
+932,HR,81000,female,Santa Cruz,5
+933,HR,81000,female,Santa Cruz,5
+934,HR,81000,female,Santa Cruz,5
+936,HR,81000,female,Santa Cruz,5
+937,HR,81000,female,Santa Cruz,5
+938,HR,81000,female,Santa Cruz,5
+939,HR,81000,female,Santa Cruz,5
+940,HR,81000,female,Santa Cruz,5
+941,HR,81000,female,Santa Cruz,5
+942,HR,81000,female,Santa Cruz,5
+943,HR,81000,female,Santa Cruz,5
+944,HR,81000,female,Santa Cruz,5
+945,HR,81000,female,Santa Cruz,5
+946,HR,81000,female,Santa Cruz,5
+947,HR,81000,female,Santa Cruz,5
+948,HR,81000,female,Santa Cruz,5
+949,HR,81000,female,Santa Cruz,5
+950,HR,81000,female,Santa Cruz,5
+951,HR,81000,female,Santa Cruz,5
+952,HR,81000,female,Santa Cruz,5
+953,HR,,female,Santa Cruz,5
+954,HR,81000,female,Santa Cruz,5
+955,HR,81000,female,Santa Cruz,5
+956,HR,81000,female,Santa Cruz,5
+957,HR,81000,female,Santa Cruz,5
+958,HR,81000,female,Santa Cruz,5
+959,HR,81000,female,Santa Cruz,5
+960,HR,81000,female,Santa Cruz,5
+961,HR,81000,female,Santa Cruz,5
+962,HR,81000,female,Santa Cruz,5
+963,HR,81000,female,Santa Cruz,5
+964,HR,81000,female,Santa Cruz,5
+965,HR,81000,female,Santa Cruz,5
+966,HR,81000,female,Santa Cruz,5
+967,HR,81000,female,Santa Cruz,5
+969,HR,81000,female,Santa Cruz,5
+970,HR,81000,female,Santa Cruz,5
+971,HR,81000,female,Santa Cruz,5
+972,HR,81000,female,Santa Cruz,5
+973,HR,81000,female,Santa Cruz,5
+974,HR,81000,female,Santa Cruz,5
+975,HR,81000,female,Santa Cruz,5
+976,HR,81000,female,Santa Cruz,5
+977,HR,81000,female,Santa Cruz,5
+978,HR,81000,female,Santa Cruz,5
+979,HR,81000,female,Santa Cruz,5
+980,HR,81000,female,Santa Cruz,5
+981,HR,81000,female,Santa Cruz,5
+982,HR,81000,female,Santa Cruz,5
+983,HR,81000,female,Santa Cruz,5
+984,HR,81000,female,Santa Cruz,5
+985,HR,81000,female,Santa Cruz,5
+986,HR,81000,female,Santa Cruz,5
+987,HR,81000,female,Santa Cruz,5
+988,HR,81000,female,Santa Cruz,5
+989,HR,81000,female,Santa Cruz,5
+990,HR,81000,female,Santa Cruz,5
+991,HR,81000,female,Santa Cruz,5
+992,HR,81000,female,Santa Cruz,5
+993,HR,81000,female,Santa Cruz,5
+994,HR,81000,female,Santa Cruz,5
+995,HR,81000,female,Santa Cruz,5
+996,HR,81000,female,Santa Cruz,5
+997,HR,81000,female,Santa Cruz,5
+998,HR,81000,female,Santa Cruz,5
+999,HR,81000,female,Santa Cruz,5
+1002,HR,81000,female,Santa Cruz,5
+1003,HR,81000,female,Santa Cruz,5
+1004,HR,81000,female,Santa Cruz,5
+1005,HR,81000,female,Santa Cruz,5
+1006,HR,81000,female,Santa Cruz,5
+1007,HR,81000,female,Santa Cruz,5
+1008,HR,81000,female,Santa Cruz,5
+1009,HR,81000,female,Santa Cruz,5
+1010,HR,81000,female,Santa Cruz,5
+1011,HR,81000,female,Santa Cruz,5
+1012,HR,81000,female,Santa Cruz,5
+1013,HR,81000,female,Santa Cruz,5
+1014,HR,81000,female,Santa Cruz,5
+1015,HR,81000,female,Santa Cruz,5
+1016,HR,81000,female,Santa Cruz,5
+1017,HR,81000,female,Santa Cruz,5
+1018,HR,81000,female,Santa Cruz,5
+1019,HR,81000,female,Santa Cruz,5
+1020,HR,81000,female,Santa Cruz,5
+1021,HR,81000,female,Santa Cruz,5
+1022,HR,81000,female,Santa Cruz,5
+1023,HR,81000,female,Santa Cruz,5
+1024,HR,81000,female,Santa Cruz,5
+1025,HR,81000,female,Santa Cruz,5
+1026,HR,81000,female,Santa Cruz,5
+1027,HR,81000,female,Santa Cruz,5
+1028,HR,81000,female,Santa Cruz,5
+1029,HR,81000,female,Santa Cruz,5
+1030,HR,81000,female,Santa Cruz,5
+1031,HR,81000,female,Santa Cruz,5
+1032,HR,81000,female,Santa Cruz,5
+1033,HR,,female,Santa Cruz,5
+1034,HR,81000,female,Santa Cruz,5
+1035,HR,81000,female,Santa Cruz,5
+1036,HR,81000,female,Santa Cruz,5
+1037,HR,81000,female,Santa Cruz,5
+1038,HR,81000,female,Santa Cruz,5
+1042,HR,81000,female,Santa Cruz,5
+1043,HR,81000,female,Santa Cruz,5
+1044,HR,81000,female,Santa Cruz,5
+1045,HR,81000,female,Santa Cruz,5
+1046,HR,81000,female,Santa Cruz,5
+1047,HR,81000,female,Santa Cruz,5
+1058,HR,81000,female,Santa Cruz,5
+1059,HR,81000,female,Santa Cruz,5
+1060,HR,81000,female,Santa Cruz,5
+1061,HR,81000,female,Santa Cruz,5
+1062,HR,81000,female,Santa Cruz,5
+1063,HR,81000,female,Santa Cruz,5
+1064,HR,81000,female,Santa Cruz,5
+1065,HR,81000,female,Santa Cruz,5
+1066,HR,81000,female,Santa Cruz,5
+1067,HR,81000,female,Santa Cruz,5
+1068,HR,81000,female,Santa Cruz,5
+1069,HR,81000,female,Santa Cruz,5
+1070,HR,81000,female,Santa Cruz,5
+1071,HR,81000,female,Santa Cruz,5
+1072,HR,81000,female,Santa Cruz,5
+1073,HR,81000,female,Santa Cruz,5
+1074,HR,81000,female,Santa Cruz,5
+1075,HR,81000,female,Santa Cruz,5
+1076,HR,81000,female,Santa Cruz,5
+1077,HR,81000,female,Santa Cruz,5
+1078,HR,81000,female,Santa Cruz,5
+1079,HR,81000,female,Santa Cruz,5
+1080,HR,81000,female,Santa Cruz,5
+1081,HR,81000,female,Santa Cruz,5
+1082,HR,81000,female,Santa Cruz,5
+1083,HR,81000,female,Santa Cruz,5
+1084,HR,81000,female,Santa Cruz,5
+1085,HR,81000,female,Santa Cruz,5
+1086,HR,81000,female,Santa Cruz,5
+1087,HR,81000,female,Santa Cruz,5
+1088,HR,81000,female,Santa Cruz,5
+2975,HR,83026.06699,female,Santa Cruz,5
+4363,Production,76185,female,Austin,4.38
+3084,IT,115818.4351,female,Chicago,20.80207069
+4764,Research and Development,125375,female,Los Angeles,4
+3358,LMNOP Division Operators,52272.40905,female,Austin,10.74
+1623,Administrative Support,45143.62425,female,Seattle,17.1397403
+1633,Administrative Support,46448.16161,female,Seattle,31.5935931
+2927,Finance,86964.70185,female,Seattle,15.29047262
+2899,Finance,92376.36315,female,Seattle,18.03855701
+5861,Sales Operations,126149.2963,female,Denver,11
+5857,Sales Operations,162668.8849,female,Chicago,11
+2974,HR,129186.0866,female,Denver,8.61
+4823,Sales Support,47814,female,Chicago,2.1
+4883,Sales Support,56746,female,Los Angeles,5.91
+4871,Sales Support,46272,female,Denver,3.8
+5836,Sales Operations,56930.85202,female,Santa Cruz,4
+4875,Sales Support,49706,female,Miami,3
+4854,Sales Support,58337,female,Houston,3.91
+2431,Engineering,133772.9504,female,Houston,17.61
+5862,Sales Operations,173662.0823,female,New York,11
+4785,Sales Support,56746,female,Ithaca,2.1
+47855,Sales Support,47346,female,Ithaca,2.1
+5864,Sales Operations,99168.23729,female,Los Angeles,18
+5865,Sales Operations,99825.54298,female,Houston,17.4
+5846,Sales Operations,70016.78929,female,Los Angeles,2.91
+5842,Sales Operations,72659.46471,female,Denver,4
+5838,Sales Operations,79793.41581,female,Denver,4.1
+5835,Sales Operations,66996.51357,female,Denver,2.91
+5863,Sales Operations,134836.44,female,San Francisco,18
+5851,Sales Operations,108521.5231,female,New York,9
+4808,Sales Support,,female,Denver,1.9
+4863,Sales Support,56775,female,San Francisco,5.41
+4868,Sales Support,50806,female,Santa Cruz,7.91
+4791,Sales Support,58248,female,Denver,2.91
+14797,Sales Support,48308,female,Denver,2.91
+4867,Sales Support,49657,female,New York,5.81
+4861,Sales Support,59944,female,New York,4.91
+4810,Sales Support,55959,female,Santa Cruz,2.1
+4860,Sales Support,55959,female,Denver,3.1
+4815,Sales Support,55959,female,Santa Cruz,1.71
+4803,Sales Support,41282,female,Los Angeles,3
+4790,Sales Support,51465,female,Denver,2.71
+14796,Sales Support,58337,female,Denver,2.71
+4793,Sales Support,56775,female,Los Angeles,2.91
+14799,Sales Support,53127,female,Los Angeles,2.91
+2959,HR,116464.2454,female,Miami,10
+1575,Administrative Support,39659.25098,female,Denver,21.5
+10001,Administrative Support,39659.25098,female,Denver,21.5
+1573,Administrative Support,39659.25098,female,Denver,21.5
+157333,Administrative Support,39659.25098,female,Denver,21.5
+5858,Sales Operations,167226.2595,female,Denver,12
+5868,Sales Operations,100018.6492,female,Los Angeles,2.3
+5872,Sales Operations,94910.52838,female,Chicago,10
+5844,Sales Operations,80566.32966,female,Denver,3
+5867,Sales Operations,99979.1452,female,New York,6
+5874,Sales Operations,99795.06002,female,Los Angeles,11
+5850,Sales Operations,91264.95249,female,New York,11
+5501,XYZ Division,57957.17336,female,Austin,19.97
+5203,Warehouse,89197.21226,female,Ithaca,7.738488762
+2621,Finance,88635.56092,female,Austin,7.448272523
+1765,Buyers,100274.3258,female,Chicago,3.640275711
+2678,Finance,93269.84697,female,Seattle,17.9495969
+4000,LMNOP Division Operators,61074.58872,female,Seattle,3.79
+3060,IT,100356.4227,female,Chicago,13.47912075
+2667,Finance,91261.14162,female,Seattle,17.28450272
+1871,Buyers,112737.8373,female,Austin,15.41929346
+2552,Finance,110201.4847,female,Seattle,25.44592197
+3361,LMNOP Division Operators,55118.9974,female,Seattle,15.55
+5046,Technicians,102022.0735,female,Denver,7.2
+2615,Finance,90469.03396,female,Seattle,19.77347721
+2562,Finance,106688.5933,female,Seattle,14.91644973
+5195,Warehouse,44054.69112,female,Ithaca,11.15743363
+2709,Finance,124336.1635,female,Seattle,11.67747507
+2355,Call Center,158102.09,female,New York,25.25532473
+5331,Warehouse,86934.10984,female,Ithaca,12.22637349
+5293,Warehouse,80374.48804,female,Ithaca,4.783665793
+3557,LMNOP Division Operators,71546.18369,female,Seattle,29.19
+5840,Sales Operations,70315.75517,female,Denver,1.8
+4885,Sales Support,49657,female,Miami,5.81
+5729,XYZ Division,65230.0768,female,Austin,16.71
+4664,QRS Division,67177.78221,female,Austin,5.51
+2699,Finance,126308.1188,female,Seattle,23.01264461
+10020,Administrative Support,44912.43319,female,Seattle,3.553397591
+2524,Finance,119752.6767,female,Seattle,11.61922825
+2498,Finance,85809.26964,female,Seattle,0.609712047
+5199,Warehouse,87396.95581,female,Ithaca,12.64633149
+2581,Finance,96874.68237,female,Austin,1.998892835
+1614,Administrative Support,44569.53849,female,Seattle,13.72204314
+2010,Buyers,131836.3392,female,Chicago,7.762802962
+2874,Finance,94586.10893,female,Seattle,33.71376455
+2527,Finance,119262.9498,female,Seattle,12.68284975
+2939,Finance,,female,Seattle,25.75284057
+2807,Finance,107344.7207,female,Seattle,9.250875481
+5345,Warehouse,79037.77832,female,Ithaca,7.319246388
+3410,LMNOP Division Operators,52429.52515,female,Austin,21.8
+2063,Buyers,178210.1563,female,Austin,20.88150255
+5313,Warehouse,69495.26706,female,Ithaca,6.413575268
+2805,Finance,107543.8759,female,Seattle,1.117572042
+5380,Warehouse,86314.93714,female,Ithaca,1.94103114
+2197,Call Center,95647.32,female,New York,5.048185946
+2668,Finance,85809.26964,female,Seattle,4.394013647
+4891,Sales Support,58337,female,Houston,2.71
+4714,Research and Development,59421.62869,female,Los Angeles,7.5
+2559,Finance,107171.0956,female,Austin,16.8036233
+1574,Administrative Support,39659.25098,female,Austin,24.3500827
+9999,Administrative Support,39659.25098,female,Austin,24.3500827
+2075,Call Center,56150.48,female,New York,6.948315946
+2565,Finance,105289.5067,female,Seattle,14.78337266
+1713,Buyers,93195.39216,female,Chicago,26.45830673
+3011,IT,96541.67837,female,Austin,17.98312211
+2918,Finance,89427.3581,female,Austin,21.98421396
+2386,Engineering,142084.879,female,Miami,2.21
+2789,Finance,110244.5105,female,Austin,18.69902269
+5527,XYZ Division,66980.3124,female,Austin,23.13
+3119,IT,128872.383,female,Chicago,11.24727259
+2097,Call Center,58710.36,female,New York,15.96514635
+2033,Buyers,137305.5061,female,Austin,10.37337408
+1870,Buyers,112483.0784,female,Austin,8.22025437
+1702,Administrative Support,63424.06011,female,Seattle,12.81937822
+2981,IT,134296.3466,female,Chicago,7.249912292
+2901,Finance,92214.51715,female,Seattle,15.1318202
+1409,ABC Division,66095.744,female,Pittsburgh,10.93
+2088,Call Center,58710.36,female,New York,9.974799299
+2851,Finance,97281.96607,female,Seattle,18.06815848
+2222,Call Center,101092.94,female,New York,5.645840315
+2191,Call Center,95073.9,female,New York,1.041201691
+2496,Finance,138371.6346,female,Austin,17.32332407
+3051,IT,122496.1013,female,Chicago,2.908511949
+4760,Research and Development,137925.8165,female,Los Angeles,7
+2964,HR,101929.781,female,Los Angeles,26
+2220,Call Center,100738.07,female,New York,20.62508367
+2987,IT,126879.4782,female,Chicago,13.83936543
+3252,IT,131851.6323,female,Austin,0.437758577
+2979,HR,94135.78403,female,Los Angeles,5
+3248,IT,131477.6922,female,Chicago,16.18352396
+5320,Warehouse,83546.15555,female,Ithaca,5.921980893
+3184,IT,127077.6415,female,Chicago,5.479475318
+2848,Finance,98406.88381,female,Seattle,9.222744282
+3224,IT,133435.1279,female,Chicago,0.261183623
+4377,Production,104985.92,female,Austin,16.05
+3765,LMNOP Division Operators,69520.99094,female,Seattle,1.99
+5381,Warehouse,85955.60866,female,Ithaca,9.033146081
+2592,Finance,94388.48266,female,Seattle,27.05695096
+2307,Call Center,120957.7,female,New York,20.62337633
+2132,Call Center,77892.01,female,New York,16.36496863
+2198,Call Center,95770.59,female,New York,10.64362338
+3085,IT,127988.4055,female,Chicago,3.199455411
+2139,Call Center,80676.2,female,New York,22.74926143
+1357,ABC Division,63716.0576,female,Pittsburgh,1.53
+1707,Buyers,93528.20466,female,Chicago,8.319222214
+2318,Call Center,124006.57,female,New York,2.638340907
+1655,Administrative Support,51188.56819,female,Seattle,11.24114873
+2776,Finance,112966.5566,female,Seattle,11.03551831
+2834,Finance,102935.144,female,Seattle,5.204836678
+3159,IT,145907.947,female,Chicago,8.577186194
+2335,Call Center,132737.31,female,New York,22.6326443
+1740,Buyers,97401.59479,female,Chicago,27.72722533
+2325,Call Center,125345.46,female,New York,12.26233157
+1739,Buyers,97255.2629,female,Chicago,14.302345
+1644,Administrative Support,48968.48398,female,Seattle,4.67184023
+3145,IT,106500.6869,female,Chicago,11.56560307
+3556,LMNOP Division Operators,52838.61324,female,Seattle,5.94
+3041,IT,,female,Chicago,13.29283096
+3537,LMNOP Division Operators,68782.55234,female,Seattle,7.64
+3020,IT,125965.5808,female,Chicago,3.226404925
+5650,XYZ Division,67617.88056,female,Seattle,2.02
+2813,Finance,106747.0583,female,Seattle,2.052191768
+2203,Call Center,96928.69,female,New York,20.63576526
+1823,Buyers,106228.8418,female,Austin,27.32056612
+1985,Buyers,127807.1641,female,Chicago,4.546367368
+2636,Finance,86061.48838,female,Seattle,19.00315813
+4739,Research and Development,89471.08187,female,Los Angeles,16.05
+2526,Finance,119474.9699,female,Seattle,11.52951724
+2611,Finance,91171.53773,female,Seattle,20.48468437
+2656,Finance,164186.7999,female,Seattle,2.227134206
+1703,Administrative Support,75945.94903,female,Seattle,22.86113009
+3035,IT,131617.0926,female,Chicago,12.94449509
+1775,Buyers,101577.1299,female,Chicago,24.46989709
+3165,IT,116677.3214,female,Chicago,8.71804055
+3138,IT,100422.6711,female,Chicago,23.67700274
+2998,IT,139832.4472,female,Austin,24.20343653
+3105,IT,127921.1515,female,Chicago,5.698625216
+2780,Finance,112100.709,female,Seattle,21.9565997
+3148,IT,142759.4316,female,Chicago,12.47548392
+3192,IT,100092.8737,female,Austin,14.0572004
+2952,HR,79812.09215,female,Chicago,4
+4361,Production,76647,female,Austin,3.72
+1508,ABC Division,72238,female,Pittsburgh,8.71
+5231,Warehouse,49009.32951,female,Ithaca,16.59421323
+5813,XYZ Division,166558.08,female,Austin,17.66
+5509,XYZ Division,62511.62648,female,Austin,9.61
+3469,LMNOP Division Operators,71332.029,female,Seattle,2.46
+2594,Finance,93896.72557,female,Seattle,27.28903476
+2266,Call Center,111862.16,female,New York,21.87514804
+1582,Administrative Support,39659.25098,female,Seattle,23.03775564
+10015,Administrative Support,39659.25098,female,Seattle,23.03775564
+2597,Finance,93396.254,female,Seattle,16.69107188
+3161,IT,136642.1322,female,Chicago,6.450341547
+2228,Call Center,102780.35,female,New York,17.68519438
+2821,Finance,104889.7141,female,Seattle,12.93665626
+2143,Call Center,81014.46,female,New York,8.291717051
+1922,Buyers,117458.7212,female,Chicago,9.944568674
+2260,Call Center,110783.89,female,New York,17.3134693
+3066,IT,114675.6375,female,Austin,17.89539452
+2583,Finance,96423.07226,female,Seattle,6.291202352
+1855,Buyers,111595.7612,female,Chicago,11.73708931
+5068,Technicians,118281.2041,female,Chicago,11
+1610,Administrative Support,43819.34814,female,Seattle,1.084630626
+4364,Production,97824,female,Austin,4.05
+1403,ABC Division,68433.9552,female,Pittsburgh,16.45
+3061,IT,129723.889,female,Chicago,6.535422001
+1960,Buyers,123305.7742,female,Chicago,17.4270979
+4758,Research and Development,98294,female,Los Angeles,10
+2513,Finance,89679.8966,female,Seattle,2.002190197
+2175,Call Center,90420.29,female,New York,11.41715262
+2169,Call Center,88963.81,female,New York,15.97316302
+5327,Warehouse,74413.50133,female,Ithaca,8.114971317
+3143,IT,107466.3785,female,Chicago,0.850418622
+2640,Finance,85809.26964,female,Austin,6.894585755
+2937,Finance,77712.16,female,Seattle,22.06076832
+2293,Call Center,115922.47,female,New York,19.07659805
+2630,Finance,87143.52433,female,Seattle,26.77347799
+3478,LMNOP Division Operators,61436.53187,female,Seattle,3.78
+4898,Sales Operations,,female,Santa Cruz,16
+5924,Sales Operations,48708.52848,female,Santa Cruz,16
+5878,Sales Operations,48708.52848,female,Santa Cruz,16
+4783,Research and Development,82243.99694,female,Los Angeles,15
+5034,Technicians,111173.3376,female,Houston,6.1
+4483,QRS Division,63826.09376,female,Austin,0.73
+2192,Call Center,95099.37,female,New York,13.16705397
+2618,Finance,89146.92326,female,Seattle,5.323340094
+3109,IT,128668.0821,female,Austin,2.287489259
+4825,Sales Support,41282,female,Chicago,26
+1585,Administrative Support,39659.25098,female,Seattle,3.735043844
+10021,Administrative Support,39659.25098,female,Seattle,3.735043844
+2319,Call Center,124152.9,female,New York,12.58851884
+5196,Warehouse,68894.35651,female,Ithaca,23.375355
+2280,Call Center,113621.06,female,New York,4.160938526
+10008,Administrative Support,44912.43319,female,Seattle,22.49226938
+2568,Finance,103739.2521,female,Seattle,14.76071282
+3134,IT,143082.3553,female,Chicago,6.006816114
+1714,Buyers,93338.12126,female,Chicago,11.21166158
+5475,Warehouse,50645.40865,female,Ithaca,25.46968691
+4735,Research and Development,61311.55639,female,Los Angeles,19.5
+5833,Sales Operations,61530.37546,female,Denver,4
+2557,Finance,108048.7987,female,Seattle,7.196078543
+5094,Technicians,193292.6498,female,Miami,23
+4889,Sales Support,46272,female,Denver,2.8
+3186,IT,158191.228,female,Austin,20.27801281
+2161,Call Center,86560.96,female,New York,17.2727643
+3182,IT,115364.8259,female,Chicago,14.4405439
+2900,Finance,92281.68118,female,Seattle,13.93606542
+2276,Call Center,113520.24,female,New York,8.776688406
+2358,Call Center,230790.97,female,New York,42.6832838
+2455,Facility Services,27983.7,female,Chicago,3
+1809,Buyers,104873.2394,female,Chicago,13.22516336
+2932,Finance,85427.46925,female,Seattle,18.77658756
+4936,Sales Operations,90547.8159,female,New York,11
+5916,Sales Operations,90547.8159,female,New York,11
+5962,Sales Operations,90547.8159,female,New York,11
+3262,IT,95449.49596,female,Austin,8.417397354
+5039,Technicians,97566.91618,female,Los Angeles,7.2
+5847,Sales Operations,103379.7147,female,Los Angeles,3.91
+1362,ABC Division,54290.08,female,Pittsburgh,7.13
+2970,HR,120239.6087,female,Chicago,9
+3473,LMNOP Division Operators,45495.68864,female,Seattle,9.86
+2180,Call Center,91717.34,female,New York,18.15588688
+2973,HR,125171.297,female,Chicago,5
+2091,Call Center,58710.36,female,New York,18.47972268
+2632,Finance,86569.5677,female,Seattle,30.81549395
+5496,XYZ Division,55654.92928,female,Austin,27.69
+1768,Buyers,100843.1295,female,Chicago,22.20228488
+2943,Finance,70323.8,female,Seattle,28.72574628
+4711,Research and Development,56173.92106,female,Los Angeles,6.81
+5536,XYZ Division,65649.90544,female,Austin,13.44
+5043,Technicians,85189.36619,female,Chicago,5.31
+3127,IT,115331.9555,female,Chicago,1.20682367
+1001,ABC Division,61302.384,female,Pittsburgh,25.24
+4378,Production,82704.96,female,Austin,13.19
+2402,Engineering,129624.4914,female,Chicago,3.21
+4359,Production,94387,female,Austin,13.1
+5071,Technicians,119716.693,female,San Francisco,14
+3315,IT,122113.2989,female,Chicago,23.53379827
+1632,Administrative Support,46233.29984,female,Seattle,20.52453123
+2853,Finance,96876.24171,female,Seattle,18.94003775
+2606,Finance,91532.23138,female,Seattle,17.94321093
+2941,Finance,71705.74,female,Seattle,25.18316298
+5182,Warehouse,73479.59172,female,Ithaca,6.62759664
+4721,Research and Development,54420.6643,female,Los Angeles,11.11
+2976,HR,84045.65209,female,Chicago,7
+10028,Administrative Support,42519.24079,female,Seattle,8.905419919
+2251,Call Center,,female,New York,10.51497223
+1631,Administrative Support,45979.94505,female,Seattle,6.83544599
+5165,Warehouse Leadership,93623.73728,female,Ithaca,10.40835044
+2261,Call Center,111302.57,female,New York,24.27979228
+3144,IT,126867.1099,female,Chicago,8.473093487
+2849,Finance,97996.23788,female,Seattle,0.662187647
+4712,Research and Development,67392.60706,female,Los Angeles,6
+5542,XYZ Division,52868.43536,female,Austin,14.36
+2799,Finance,108436.7738,female,Seattle,19.06076683
+1965,Buyers,124110.3297,female,Austin,10.09472054
+1813,Buyers,105301.0319,female,Austin,15.30361361
+2923,Finance,88937.66065,female,Seattle,17.41365495
+3163,IT,106682.0046,female,Chicago,27.97273033
+2028,Buyers,135823.7087,female,Chicago,30.7701612
+3360,LMNOP Division Operators,59579.58491,female,Seattle,15.29
+5167,Warehouse,69477.37424,female,Ithaca,20.23832237
+2873,Finance,94678.7272,female,Seattle,9.692903469
+2905,Finance,91741.79196,female,Seattle,13.01461949
+10016,Administrative Support,42290.95643,female,Seattle,24.016583
+2675,Finance,98056.57554,female,Seattle,22.88741147
+1792,Buyers,102928.9954,female,Chicago,11.96532273
+3789,LMNOP Division Operators,54252.28954,female,Seattle,2.63
+1822,Buyers,106182.1171,female,Chicago,17.69376628
+1787,Buyers,102633.035,female,Chicago,16.03357947
+2949,HR,74396.07739,female,Chicago,6
+5339,Warehouse,71193.15967,female,Ithaca,18.78520285
+1759,Buyers,99339.42903,female,Chicago,2.281499229
+1647,Administrative Support,49524.34424,female,Austin,17.03212211
+3301,IT,132185.4093,female,Austin,5.953654092
+4935,Sales Operations,84223.18726,female,Miami,2
+5915,Sales Operations,84223.18726,female,Miami,2
+5961,Sales Operations,84223.18726,female,Miami,2
+2154,Call Center,84479.21,female,New York,24.70218192
+2984,IT,113854.5204,female,Austin,10.36438481
+2314,Call Center,122817.44,female,New York,5.188253293
+2845,Finance,98587.85851,female,Seattle,3.58449366
+1771,Buyers,101067.9086,female,Chicago,23.76012573
+2230,Call Center,103034.38,female,New York,5.954621697
+5396,Warehouse,92464.76904,female,Ithaca,14.11720219
+2405,Engineering,111944.0464,female,San Francisco,6
+1634,Administrative Support,46559.32766,female,Seattle,16.52836155
+3565,LMNOP Division Operators,51257.56312,female,Seattle,18.94
+1608,Administrative Support,43482.29506,female,Seattle,21.77560393
+2765,Finance,114876.7977,female,Austin,12.44563745
+5473,Warehouse Leadership,99791.39421,female,Ithaca,14.53505744
+3070,IT,114908.127,female,Chicago,20.09870359
+2859,Finance,96347.98069,female,Seattle,13.95832258
+5238,Warehouse Leadership,96563.89043,female,Ithaca,16.00504519
+2080,Call Center,58710.36,female,New York,3.677957271
+2872,Finance,94777.75762,female,Austin,16.2117036
+2313,Call Center,122667.7,female,New York,18.65378956
+2087,Call Center,58710.36,female,New York,5.382519972
+3063,IT,94860.15106,female,Chicago,12.56264633
+5322,Warehouse,74947.95845,female,Ithaca,4.177687924
+1738,Buyers,97243.81335,female,Chicago,26.44699628
+1621,Administrative Support,45104.04494,female,Seattle,25.49134393
+2714,Finance,90114.1455,female,Seattle,9.28093278
+2603,Finance,92451.65631,female,Austin,13.53303067
+5344,Warehouse,73867.01546,female,Ithaca,15.73631345
+2674,Finance,85809.26964,female,Austin,10.69205088
+2356,Call Center,170834.66,female,New York,19.99335116
+2547,Finance,111784.9219,female,Seattle,14.11888588
+2012,Buyers,132126.5297,female,Chicago,23.80307732
+3432,LMNOP Division Operators,,female,Seattle,14.03
+1962,Buyers,123592.4576,female,Chicago,2.124408448
+2819,Finance,105425.2694,female,Seattle,5.044875375
+1835,Buyers,110275.4205,female,Chicago,25.63905942
+5629,XYZ Division,51225.43608,female,Seattle,29.97
+2099,Call Center,69106.04,female,New York,2.202987466
+1760,Buyers,99388.75338,female,Chicago,2.48177666
+2779,Finance,112170.0529,female,Seattle,5.33506622
+1588,Administrative Support,39673.76213,female,Seattle,2.698676296
+10027,Administrative Support,39673.76213,female,Seattle,2.698676296
+2573,Finance,98889.01971,female,Seattle,2.811869175
+1755,Buyers,99263.86436,female,Austin,2.815467809
+3062,IT,119972.346,female,Chicago,4.150688965
+2761,Finance,115430.1885,female,Austin,5.476420922
+1347,ABC Division,62977.2,female,Pittsburgh,14.59
+2990,IT,143767.9029,female,Chicago,21.40404379
+1504,ABC Division,70959,female,Pittsburgh,11.33
+1781,Buyers,102335.9082,female,Austin,18.12646332
+1649,Administrative Support,49799.79468,female,Seattle,1.566208001
+2134,Call Center,78962.16,female,New York,31.0227149
+1807,Buyers,104779.3175,female,Chicago,13.05197686
+3479,LMNOP Division Operators,39194.26558,female,Seattle,21.06
+2292,Call Center,115577.28,female,New York,12.94134675
+2811,Finance,106843.8977,female,Seattle,0.806117483
+3007,IT,118713.5375,female,Chicago,7.955516055
+2535,Finance,116477.4709,female,Seattle,3.80130311
+2165,Call Center,87921.9,female,New York,22.65658538
+2517,Finance,89155.91666,female,Seattle,14.70061469
+5854,Sales Operations,78602.74355,female,Denver,3
+5012,Technicians,40874.32652,female,Ithaca,4
+10004,Administrative Support,40540.05796,female,Seattle,24.1417342
+1377,ABC Division,65422.75168,female,Pittsburgh,24.11
+5883,Sales Operations,57117.05741,female,Denver,1
+4903,Sales Operations,57117.05741,female,Denver,1
+5929,Sales Operations,57117.05741,female,Denver,1
+1711,Buyers,94112.04039,female,Chicago,21.34072974
+1628,Administrative Support,45425.63695,female,Austin,16.44051268
+2315,Call Center,123344.3,female,New York,13.30381493
+2346,Call Center,142924.58,female,New York,27.84040324
+3160,IT,124317.4906,female,Chicago,13.56986882
+5471,Warehouse Leadership,98925.88581,female,Ithaca,19.36533015
+2772,Finance,113239.66,female,Austin,0.659261884
+2803,Finance,107691.9074,female,Seattle,8.974335471
+1770,Buyers,101033.8756,female,Chicago,12.44905985
+2575,Finance,97978.06781,female,Seattle,13.84012111
+1638,Administrative Support,47973.59176,female,Seattle,10.85031036
+5208,Warehouse,51839.35565,female,Ithaca,9.646874722
+2856,Finance,96549.48205,female,Austin,6.759904693
+2089,Call Center,58710.36,female,New York,37.74644709
+4601,QRS Division,61907.69728,female,Austin,17.89
+3512,LMNOP Division Operators,54202.60757,female,Seattle,1.26
+3157,IT,117246.1399,female,Chicago,9.305906716
+4469,Production,110389.76,female,Austin,16.86
+2077,Call Center,56801.08,female,New York,1.796816357
+4888,Sales Support,43582,female,Ithaca,2
+14801,Sales Support,49706,female,Ithaca,2
+2502,Finance,93269.84697,female,Austin,5.926661863
+4795,Sales Support,53660,female,Chicago,22
+1611,Administrative Support,43969.8003,female,Seattle,37.33697895
+2174,Call Center,90361.77,female,New York,8.403137181
+1395,ABC Division,68148.496,female,Pittsburgh,13.83
+5056,Technicians,109318.592,female,Houston,7
+3048,IT,126202.5557,female,Chicago,19.34418674
+2702,Finance,125621.3151,female,Seattle,21.76098813
+1350,ABC Division,66220.6688,female,Pittsburgh,22.78
+4753,Research and Development,91273,female,Los Angeles,13.81
+3764,LMNOP Division Operators,49734.66717,female,Austin,0.22
+2016,Buyers,132510.6468,female,Chicago,12.28721352
+5099,Technicians,169401.1365,female,Los Angeles,5
+2644,Finance,78979.15,female,Seattle,21.08427664
+1645,Administrative Support,49059.75539,female,Seattle,8.613896028
+1828,Buyers,106890.4462,female,Chicago,10.77548737
+2826,Finance,103858.1575,female,Seattle,10.45591862
+5548,XYZ Division,63162.5568,female,Austin,18
+4789,Sales Support,45511,female,Denver,2.91
+1831,Buyers,109951.8756,female,Chicago,12.17122145
+3258,IT,89516.55144,female,Chicago,19.29074426
+3406,LMNOP Division Operators,50909.47953,female,Austin,7.57
+2650,Finance,75262.76,female,Seattle,5.930550984
+1761,Buyers,100030.2079,female,Chicago,6.201892138
+2774,Finance,,female,Seattle,7.049072755
+2801,Finance,108284.8875,female,Seattle,32.62818857
+4761,Research and Development,104052.2622,female,Los Angeles,20
+2831,Finance,103147.5774,female,Austin,20.48123011
+2219,Call Center,100612.29,female,New York,35.81806897
+3139,IT,128327.7176,female,Austin,21.89795304
+2104,Call Center,58710.36,female,New York,2.128127384
+2778,Finance,112537.879,female,Austin,3.637285276
+1625,Administrative Support,45258.12022,female,Seattle,7.89402586
+5206,Warehouse,59363.96882,female,Ithaca,17.85283676
+5202,Warehouse,85793.05074,female,Ithaca,9.981424977
+2957,HR,89283.78709,female,Los Angeles,8
+2509,Finance,125522.3337,female,Seattle,5.247316667
+4762,Research and Development,109828.5,female,Los Angeles,9
+5209,Warehouse,86615.78187,female,Ithaca,18.39783582
+2558,Finance,108043.1145,female,Seattle,25.08865467
+2514,Finance,89679.8966,female,Austin,5.192874852
+4706,Research and Development,51465.62499,female,Los Angeles,2
+3758,LMNOP Division Operators,83859.38878,female,Seattle,16.56
+2267,Call Center,112015.96,female,New York,10.67049013
+1613,Administrative Support,44331.75138,female,Seattle,23.83867823
+1423,ABC Division,99893,female,Pittsburgh,15.96
+1366,ABC Division,65065.73216,female,Pittsburgh,2.2
+3246,IT,133939.3963,female,Austin,10.49690871
+5524,XYZ Division,67785.444,female,Austin,7.79
+2211,Call Center,98244.08,female,New York,28.08887103
+1818,Buyers,105940.9348,female,Chicago,10.69506947
+2224,Call Center,101610.86,female,New York,12.40047673
+2704,Finance,125202.9386,female,Austin,2.237227377
+2980,IT,127440.4249,female,Chicago,12.35183901
+2938,Finance,76734.42,female,Seattle,23.71599847
+5140,Technicians,41121.99847,female,Houston,2
+4372,Production,68148.496,female,Austin,3.15
+5210,Warehouse,62319.16675,female,Ithaca,1.305423788
+5171,Warehouse,70611.7446,female,Ithaca,17.60481487
+5217,Warehouse Leadership,100118.9285,female,Ithaca,25.78157916
+2067,Buyers,190812.232,female,Chicago,22.4415191
+1639,Administrative Support,48095.95356,female,Austin,4.761591927
+10002,Administrative Support,40125.23859,female,Seattle,15.49468922
+4491,QRS Division,68935.47964,female,Austin,15.75
+4786,Sales Support,53660,female,Ithaca,3
+47856,Sales Support,50806,female,Ithaca,3
+1587,Administrative Support,39659.25098,female,Austin,18.98880321
+10025,Administrative Support,39659.25098,female,Austin,18.98880321
+2549,Finance,111031.4095,female,Seattle,16.24962548
+2919,Finance,89325.07802,female,Austin,13.1790492
+2659,Finance,163904.4459,female,Austin,4.055327083
+4869,Sales Support,49657,female,Santa Cruz,5.5
+1706,Buyers,92836.34069,female,Chicago,5.083951857
+2601,Finance,93127.57478,female,Seattle,7.922890693
+2005,Buyers,131103.7829,female,Austin,7.906855692
+2570,Finance,103312.6032,female,Seattle,16.95853334
+5482,Warehouse Leadership,101781.9731,female,Ithaca,30.44356507
+5364,Warehouse,86683.21181,female,Ithaca,22.29170086
+2100,Call Center,69256.42,female,New York,19.72522387
+5169,Warehouse,83635.43959,female,Ithaca,2.875888941
+2673,Finance,85809.26964,female,Seattle,23.68402362
+1648,Administrative Support,49671.35237,female,Seattle,5.268469702
+2641,Finance,85586.6193,female,Seattle,9.606471401
+1915,Buyers,116053.9859,female,Chicago,0.562738171
+5340,Warehouse,81795.39649,female,Ithaca,1.717769504
+2822,Finance,104493.3644,female,Austin,23.42805538
+1756,Buyers,99306.60127,female,Chicago,15.65151176
+2942,Finance,70334.99,female,Seattle,25.92269003
+3118,IT,145261.7199,female,Austin,0.819950337
+3483,LMNOP Division Operators,50519.0662,female,Seattle,14.31
+2800,Finance,108290.784,female,Seattle,25.51324965
+1987,Buyers,128070.8308,female,Chicago,8.90037094
+2835,Finance,102853.2003,female,Seattle,5.275728109
+2079,Call Center,57404.15,female,New York,18.23179712
+5102,Technicians,171168.6105,female,Los Angeles,21
+2287,Call Center,114577.44,female,New York,9.229983071
+2221,Call Center,100929.25,female,New York,20.70273075
+3517,LMNOP Division Operators,57540.30864,female,Seattle,29.19
+5335,Warehouse,80672.40665,female,Ithaca,3.432392743
+1958,Buyers,123036.7408,female,Chicago,9.348639756
+1904,Buyers,115060.5805,female,Chicago,3.672781848
+2544,Finance,112583.9321,female,Seattle,2.279106123
+2858,Finance,96418.0905,female,Seattle,22.70880282
+3522,LMNOP Division Operators,51701.57656,female,Seattle,28.14
+2978,HR,92346.06484,female,Los Angeles,4
+1773,Buyers,101399.1148,female,Chicago,6.979110523
+3197,IT,113344.548,female,Chicago,13.17419576
+2624,Finance,88088.7695,female,Seattle,17.25673069
+2258,Call Center,110242.46,female,New York,1.500989753
+5537,XYZ Division,67576.21424,female,Austin,16.7
+3751,LMNOP Division Operators,61774.67223,female,Seattle,19.04
+2988,IT,113165.4994,female,Austin,9.914787259
+1810,Buyers,105046.6603,female,Chicago,1.680025881
+3486,LMNOP Division Operators,48968.79684,female,Seattle,4.32
+2302,Call Center,119170.57,female,New York,15.73130803
+2348,Call Center,143238.49,female,New York,16.29769262
+1622,Administrative Support,45112.37831,female,Seattle,7.186491169
+3531,LMNOP Division Operators,62263.56734,female,Seattle,26.07
+3213,IT,123209.4015,female,Chicago,7.285084913
+1498,ABC Division,90556,female,Pittsburgh,9.56
+2113,Call Center,73769.24,female,New York,1.389861216
+2993,IT,114902.0859,female,Chicago,18.38549095
+2602,Finance,92767.27333,female,Seattle,0.935232525
+2098,Call Center,58710.36,female,New York,11.09637315
+3002,IT,109139.3817,female,Chicago,8.785457742
+4911,Sales Operations,96489.66885,female,Denver,1
+5891,Sales Operations,96489.66885,female,Denver,1
+5937,Sales Operations,96489.66885,female,Denver,1
+2342,Call Center,141555.38,female,New York,10.08668167
+2983,IT,125487.2435,female,Chicago,5.464452385
+2516,Finance,89679.8966,female,Austin,13.2128899
+1797,Buyers,103447.0842,female,Chicago,18.42946457
+2359,Call Center,233409.2,female,New York,38.18172401
+5688,XYZ Division,64284.1928,female,Seattle,4.44
+2724,Finance,88286.63039,female,Seattle,7.952365006
+1779,Buyers,102218.9083,female,Chicago,26.88064588
+4890,Sales Support,43582,female,Chicago,3
+1749,Buyers,98365.79044,female,Chicago,15.30239385
+5474,Warehouse,49974.99131,female,Ithaca,20.32632277
+1851,Buyers,111116.0545,female,Austin,15.42234921
+4371,Production,64882.92096,female,Austin,18.55
+1991,Buyers,128544.4442,female,Chicago,8.640827911
+2159,Call Center,85898.49,female,New York,17.37935075
+3190,IT,138254.8906,female,Chicago,7.080578051
+3562,LMNOP Division Operators,61806.31685,female,Austin,5.15
+3259,IT,100601.5474,female,Chicago,3.721272512
+2676,Finance,98056.57554,female,Seattle,13.4489718
+2613,Finance,90795.99162,female,Seattle,14.35584128
+1782,Buyers,102431.9852,female,Chicago,2.84712506
+5189,Warehouse,47240.92549,female,Ithaca,5.683060201
+1750,Buyers,98404.11647,female,Chicago,8.182363557
+3226,IT,155891.4184,female,Chicago,16.63042505
+2681,Finance,93269.84697,female,Austin,14.34540534
+5497,XYZ Division,73625.0112,female,Austin,22.38
+2109,Call Center,71723.15,female,New York,20.38568041
+2653,Finance,71322.45,female,Seattle,18.50608685
+3053,IT,127718.4079,female,Chicago,26.00920182
+2122,Call Center,75255.14,female,New York,9.388306997
+5502,XYZ Division,66561.23869,female,Austin,15.04
+1788,Buyers,102681.0308,female,Chicago,19.14755654
+3300,IT,117007.1614,female,Austin,12.17896449
+4487,QRS Division,64813.18272,female,Austin,6.25
+3010,IT,130617.7399,female,Chicago,3.523615144
+2712,Finance,,female,Seattle,7.543821187
+4865,Sales Support,43582,female,Denver,5
+1745,Buyers,98065.43375,female,Chicago,11.01611995
+2090,Call Center,58710.36,female,New York,13.97245714
+2141,Call Center,80818.46,female,New York,1.884066593
+2956,HR,88773.39737,female,Chicago,4
+3201,IT,128674.849,female,Chicago,18.74405583
+2520,Finance,89155.91666,female,Austin,8.731424252
+2157,Call Center,85146.27,female,New York,24.05397442
+2705,Finance,124884.3581,female,Seattle,16.8841081
+5226,Warehouse Leadership,95478.11527,female,Ithaca,10.92597782
+3136,IT,143823.6863,female,Chicago,21.23912926
+3302,IT,133136.5681,female,Chicago,17.36205951
+2257,Call Center,109746.18,female,New York,9.48696469
+3545,LMNOP Division Operators,60395.289,female,Seattle,15.16
+1391,ABC Division,66052.5216,female,Pittsburgh,11.05
+1586,Administrative Support,39659.25098,female,Seattle,12.18866819
+10023,Administrative Support,39659.25098,female,Seattle,12.18866819
+3476,LMNOP Division Operators,52421.44817,female,Seattle,12.22
+2894,Finance,92579.81479,female,Austin,6.603876789
+5263,Warehouse,102726.3683,female,Ithaca,19.1440546
+2700,Finance,126163.6853,female,Austin,10.57267512
+5323,Warehouse,70685.50555,female,Ithaca,8.46327556
+5343,Warehouse,85116.62811,female,Ithaca,18.13089171
+2569,Finance,103333.8543,female,Seattle,1.959349196
+5394,Warehouse,89509.41599,female,Ithaca,16.56673194
+1808,Buyers,104837.7523,female,Chicago,11.62112325
+1955,Buyers,122361.1918,female,Chicago,23.7613215
+1754,Buyers,99204.54256,female,Chicago,8.125876586
+1836,Buyers,110327.586,female,Chicago,7.712740583
+5014,Technicians,64828.02612,female,Ithaca,2
+3534,LMNOP Division Operators,66772.92132,female,Seattle,9.28
+3215,IT,95743.77033,female,Chicago,8.215100235
+2921,Finance,89148.68867,female,Seattle,14.91683486
+3098,IT,120301.5122,female,Austin,21.62821216
+1751,Buyers,98441.25708,female,Chicago,18.33578042
+1000,ABC Division,66452.94656,female,Pittsburgh,18.85
+2272,Call Center,113063.95,female,New York,25.88630974
+1417,ABC Division,60176.688,female,Pittsburgh,6.6
+1819,Buyers,106005.9721,female,Chicago,17.66682931
+2271,Call Center,112716.55,female,New York,18.21974943
+3125,IT,104659.7706,female,Austin,25.99667536
+2567,Finance,103748.221,female,Austin,16.87321084
+2484,Facility Services,45818.17229,female,San Francisco,7
+2494,Finance,88942.21789,female,Austin,13.52485458
+3003,IT,92529.93475,female,Chicago,18.19040967
+2820,Finance,105237.298,female,Seattle,21.18772658
+2153,Call Center,84417.9,female,New York,15.00574953
+2933,Finance,85390.47247,female,Seattle,19.70458558
+2561,Finance,106700.3794,female,Seattle,2.901566968
+3094,IT,99055.24578,female,Chicago,9.677524643
+5334,Warehouse,88462.72677,female,Ithaca,2.599420667
+1584,Administrative Support,39659.25098,female,Seattle,7.28416372
+10019,Administrative Support,39659.25098,female,Seattle,7.28416372
+10000,Administrative Support,39933.8575,female,Austin,0.767050939
+2092,Call Center,58710.36,female,New York,9.543281449
+1650,Administrative Support,50026.96743,female,Seattle,1.744655329
+2773,Finance,113174.3327,female,Austin,6.326279492
+1856,Buyers,111612.5803,female,Chicago,28.06003996
+2622,Finance,88422.56595,female,Seattle,10.86023696
+2771,Finance,113569.9108,female,Seattle,16.28601063
+2563,Finance,106235.1746,female,Seattle,16.28257112
+1495,ABC Division,97776,female,Pittsburgh,11.62
+2607,Finance,91528.12617,female,Seattle,7.657463665
+1780,Buyers,102265.1281,female,Chicago,16.79047206
+2638,Finance,85978.96597,female,Seattle,26.23728201
+1640,Administrative Support,48110.92474,female,Seattle,8.41364465
+3412,LMNOP Division Operators,58926.17266,female,Seattle,2.14
+3950,LMNOP Division Operators,49863.07268,female,Seattle,24.74
+1626,Administrative Support,45263.67396,female,Seattle,18.87961842
+2814,Finance,106450.2056,female,Seattle,16.79683827
+4897,Sales Operations,53777.01848,female,Miami,1.61
+5877,Sales Operations,53777.01848,female,Miami,1.61
+5923,Sales Operations,53777.01848,female,Miami,1.61
+3149,IT,135563.4134,female,Austin,27.43030531
+5013,Technicians,48086.77023,female,Denver,1.8
+3566,LMNOP Division Operators,66420.14137,female,Seattle,10.61
+2875,Finance,94541.49985,female,Seattle,11.06169444
+2495,Finance,93269.84697,female,Austin,24.91950151
+2491,Finance,164186.7999,female,Seattle,5.863685072
+2579,Finance,97090.8765,female,Seattle,14.33424498
+2619,Finance,88842.06054,female,Seattle,11.01841482
+4381,Production,152264.32,female,Austin,10.15
+4446,Production,60995.792,female,Austin,22.94
+2530,Finance,118610.4791,female,Seattle,12.52625318
+2528,Finance,118765.3384,female,Seattle,1.031417486
+5726,XYZ Division,65636.4812,female,Seattle,13.04
+2515,Finance,89679.8966,female,Seattle,21.30897962
+4444,Production,109314.4,female,Austin,8.4
+2493,Finance,88942.21789,female,Seattle,23.21616674
+3466,LMNOP Division Operators,49999.1819,female,Seattle,8.93
+3386,LMNOP Division Operators,54186.02555,female,Austin,17.08
+2837,Finance,99528.46258,female,Austin,3.994343558
+2719,Finance,89155.91666,female,Austin,20.23639092
+2818,Finance,105452.2718,female,Seattle,3.021295391
+1961,Buyers,123545.4832,female,Chicago,19.40929871
+2955,HR,102121,female,Los Angeles,3
+1777,Buyers,101965.6296,female,Chicago,7.534911181
+2625,Finance,88015.9928,female,Austin,13.70321913
+10022,Administrative Support,42357.00777,female,Seattle,25.23030678
+2846,Finance,98499.04451,female,Seattle,20.71163885
+3273,IT,117427.1685,female,Chicago,5.174726779
+1757,Buyers,99327.85799,female,Chicago,17.43304392
+1793,Buyers,103027.515,female,Chicago,8.253951005
+2207,Call Center,97524.35,female,New York,1.41726928
+3552,LMNOP Division Operators,61054.70693,female,Seattle,0.62
+2170,Call Center,89097.05,female,New York,6.757077646
+2511,Finance,89679.8966,female,Austin,16.46547442
+1365,ABC Division,62315.968,female,Pittsburgh,9.33
+2695,Finance,126547.2877,female,Seattle,4.392004171
+2295,Call Center,116686.62,female,New York,20.28524558
+3154,IT,125142.9447,female,Austin,15.87514319
+2958,HR,91857.23638,female,Chicago,18
+1708,Buyers,93601.03669,female,Chicago,16.209997
+2810,Finance,106919.2432,female,Austin,4.994246944
+1974,Buyers,125977.8133,female,Chicago,14.45431914
+3260,IT,140763.7585,female,Chicago,19.64580822
+2345,Call Center,142696.39,female,New York,14.43079172
+1752,Buyers,,female,Chicago,3.692477608
+5215,Warehouse,52981.97388,female,Ithaca,5.722287918
+2322,Call Center,124695.68,female,New York,12.63391289
+10014,Administrative Support,42282.42075,female,Seattle,6.31358064
+2953,HR,83180.3166,female,Chicago,8
+2660,Finance,159146.7096,female,Austin,14.84216459
+2829,Finance,103252.96,female,Austin,13.12842238
+2582,Finance,96451.87928,female,Austin,5.02235418
+2504,Finance,131162.1119,female,Seattle,18.59804043
+1966,Buyers,124408.3194,female,Chicago,16.56473108
+1606,Administrative Support,43389.89817,female,Seattle,2.688187207
+5073,Technicians,123147.337,female,Los Angeles,12
+5481,Warehouse Leadership,99926.88204,female,Ithaca,28.96077507
+2004,Buyers,130687.3272,female,Chicago,8.786449598
+3769,LMNOP Division Operators,59314.14556,female,Seattle,14.85
+2842,Finance,99035.43833,female,Austin,1.848213454
+2541,Finance,113800.7868,female,Austin,26.48108603
+3004,IT,102028.1162,female,Austin,24.16234317
+2129,Call Center,76599.41,male,New York,1.063150349
+3274,IT,111040.6099,male,Chicago,9.270792132
+2743,Finance,102696.9661,male,Seattle,12.24702681
+3859,LMNOP Division Operators,48132.54304,male,Austin,32.48
+3110,IT,118675.4037,male,Chicago,40.5624433
+2999,IT,120659.2684,male,Chicago,5.141801067
+2234,Call Center,104621.43,male,New York,15.22642947
+3234,IT,121023.0972,male,Chicago,7.546063339
+2469,Facility Services,34983.727,male,Santa Cruz,2.5
+1371,ABC Division,70061.376,male,Pittsburgh,12.55
+2692,Finance,111358.6449,male,Seattle,13.25468963
+3392,LMNOP Division Operators,75713.63941,male,Seattle,2.72
+3824,LMNOP Division Operators,67113.71835,male,Seattle,23.9
+2723,Finance,103549,male,Seattle,19.02292375
+4772,Research and Development,230741.2111,male,Los Angeles,11
+2770,Finance,98874.82234,male,Austin,16.43112422
+3102,IT,145173.0678,male,Austin,5.882415378
+1680,Administrative Support,45023.64184,male,Seattle,9.031665872
+5276,Warehouse Leadership,95554.42216,male,Ithaca,11.89527397
+3456,LMNOP Division Operators,56667.80852,male,Austin,35.17
+3231,IT,123046.5238,male,Chicago,15.24981103
+3762,LMNOP Division Operators,57346.91289,male,Seattle,7.41
+1725,Buyers,100427,male,Chicago,15.02546063
+4647,QRS Division,58857.216,male,Austin,27.86
+2374,Engineering,98819.68785,male,San Francisco,5.5
+5693,XYZ Division,64504.704,male,Austin,20.19
+2756,Finance,100910.028,male,Seattle,27.18895385
+2186,Call Center,93616.15,male,New York,7.533142879
+5728,XYZ Division,70452.096,male,Austin,1.23
+2173,Call Center,90207.47,male,New York,15.95647759
+5125,Technicians,186545.1647,male,New York,14.7
+3171,IT,119509.398,male,Chicago,26.13020955
+3076,IT,116189.7682,male,Chicago,9.225518588
+4850,Sales Support,59944,male,New York,3.71
+2881,Finance,112655.6482,male,Seattle,7.924781954
+3840,LMNOP Division Operators,32753.55756,male,Austin,20.93
+4249,Production,78469,male,Austin,18.3
+3009,IT,113072.4307,male,Chicago,4.301893772
+4015,LMNOP Division Operators,77453.68552,male,Seattle,17.69
+1880,Buyers,109855.9864,male,Chicago,25.03427278
+4607,QRS Division,53197.056,male,Austin,23.79
+5243,Warehouse Leadership,96200.95947,male,Ithaca,25.08820332
+3564,LMNOP Division Operators,62547.92433,male,Austin,9.98
+3983,LMNOP Division Operators,72912.96628,male,Austin,7.49
+3438,LMNOP Division Operators,51945.30015,male,Seattle,17.63
+4503,QRS Division,78309.6192,male,Austin,22.79
+3090,IT,89990.19546,male,Chicago,25.24179782
+1981,Buyers,127415.9741,male,Chicago,2.682354262
+5643,XYZ Division,60823.488,male,Seattle,25.08
+4033,LMNOP Division Operators,55788.27902,male,Seattle,5.98
+2886,Finance,110121.3515,male,Seattle,9.420650122
+3502,LMNOP Division Operators,67531.27311,male,Seattle,12.53
+3001,IT,140069.3665,male,Chicago,17.80265209
+3723,LMNOP Division Operators,59791.25587,male,Austin,9.19
+5700,XYZ Division,69254.592,male,Austin,18.15
+1681,Administrative Support,45337.4959,male,Seattle,3.979995961
+1719,Buyers,71813.17762,male,Chicago,14.09559536
+1718,Buyers,71629.66272,male,Chicago,0.440100333
+2962,HR,99936.71027,male,Los Angeles,28
+3845,LMNOP Division Operators,53879.31057,male,Seattle,12.13
+3816,LMNOP Division Operators,48405.14251,male,Seattle,10.01
+3785,LMNOP Division Operators,72635.98281,male,Seattle,9.05
+1492,ABC Division,62006.208,male,Pittsburgh,9.99
+3829,LMNOP Division Operators,66032.43605,male,Austin,14.59
+5295,Warehouse,91381.16958,male,Ithaca,8.017530207
+5657,XYZ Division,102704.64,male,Seattle,21.34
+4337,Production,101961,male,Austin,1.44
+4472,Production,57006.6816,male,Austin,18.23
+3777,LMNOP Division Operators,51486.981,male,Austin,15.65
+4452,Production,57366.7776,male,Austin,20.45
+5284,Warehouse,73424.13548,male,Ithaca,17.52719545
+5639,XYZ Division,68657.28,male,Seattle,2.46
+2912,Finance,102289.2706,male,Seattle,14.07361338
+4093,LMNOP Division Operators,76671.56398,male,Austin,32.21
+2767,Finance,99484.41159,male,Seattle,18.40598116
+4583,QRS Division,56803.5072,male,Austin,7.73
+5765,XYZ Division,68657.28,male,Seattle,11.89
+3495,LMNOP Division Operators,66549.81218,male,Austin,12.27
+4295,Production,80327,male,Austin,19.22
+1917,Buyers,116707.6677,male,Chicago,20.17006345
+3265,IT,106582.466,male,Chicago,2.793285516
+1935,Buyers,119124.358,male,Chicago,14.13653636
+3371,LMNOP Division Operators,64819.08815,male,Austin,8.02
+5709,XYZ Division,70975.872,male,Seattle,2.7
+1422,ABC Division,57299.4048,male,Pittsburgh,22.51
+3933,LMNOP Division Operators,69966.9132,male,Seattle,3.5
+4611,QRS Division,59947.008,male,Austin,16.17
+5756,XYZ Division,67301.76,male,Seattle,13.42
+3080,IT,88614.65792,male,Chicago,19.64966675
+5307,Warehouse,62519.63436,male,Ithaca,12.70040293
+4486,QRS Division,59775.936,male,Austin,15.42
+5743,XYZ Division,101249,male,Austin,11.7
+4051,LMNOP Division Operators,55053.63164,male,Seattle,18.91
+5296,Warehouse,74031.18965,male,Ithaca,0.988383226
+3898,LMNOP Division Operators,45730.68238,male,Seattle,23.24
+5766,XYZ Division,53735.616,male,Seattle,9.97
+3510,LMNOP Division Operators,65448.11373,male,Seattle,14.71
+3167,IT,133010.4556,male,Chicago,14.28138412
+2730,Finance,104195.9439,male,Seattle,15.81939379
+5696,XYZ Division,56291.136,male,Austin,11.06
+4250,Production,82440,male,Austin,18.84
+4476,Production,63428.93568,male,Austin,19.23
+3707,LMNOP Division Operators,82583.61855,male,Austin,5.59
+1462,ABC Division,73442,male,Pittsburgh,1.9
+5535,XYZ Division,57426.9696,male,Austin,16.2
+1800,Buyers,101433,male,Chicago,15.61623362
+3309,IT,112669.9836,male,Chicago,9.60703805
+2321,Call Center,124451.96,male,New York,25.55478847
+2913,Finance,101981.9708,male,Seattle,10.17686554
+1803,Buyers,102897,male,Chicago,22.28890091
+1483,ABC Division,98818,male,Pittsburgh,16.69
+3783,LMNOP Division Operators,54323.61076,male,Seattle,20.66
+2914,Finance,100033.6108,male,Austin,10.95359782
+2682,Finance,109569.458,male,Seattle,14.18448699
+4341,Production,82785,male,Austin,3.53
+3516,LMNOP Division Operators,59937.99608,male,Seattle,22.46
+2865,Finance,117565.794,male,Seattle,4.376803998
+1879,Buyers,109760.3032,male,Chicago,23.60325501
+2519,Finance,97513.90673,male,Austin,0.305160816
+3378,LMNOP Division Operators,37711.0624,male,Seattle,12.3
+2428,Engineering,146524.1512,male,Chicago,20.21
+4325,Production,103425,male,Austin,5.89
+4662,QRS Division,69290.88,male,Austin,17.53
+4499,QRS Division,60542.592,male,Austin,1.28
+4493,QRS Division,71275.776,male,Austin,9.76
+3313,IT,115803.7342,male,Chicago,19.34894942
+2301,Call Center,118382.8,male,New York,30.8222705
+2338,Call Center,133296.5,male,New York,8.296866061
+3253,IT,110414.5993,male,Chicago,23.91643572
+3006,IT,113968.5961,male,Chicago,18.27881564
+1438,ABC Division,71835.456,male,Pittsburgh,9.93
+2084,Call Center,61015.92,male,New York,15.83562377
+1376,ABC Division,66394.944,male,Pittsburgh,9.51
+2070,Call Center,51704.38,male,New York,3.184706441
+3749,LMNOP Division Operators,63755.69824,male,Seattle,17.17
+4657,QRS Division,69932.544,male,Austin,15.1
+4624,QRS Division,56010.24,male,Austin,8.52
+3380,LMNOP Division Operators,54302.93852,male,Seattle,29.71
+1824,Buyers,100342.0869,male,Chicago,5.26529811
+2189,Call Center,94699.47,male,New York,5.093209674
+1568,ABC Division,276993.024,male,Pittsburgh,21.16
+4310,Production,84039,male,Austin,23.52
+3146,IT,111753.0408,male,Chicago,19.7118474
+4447,Production,64443.2448,male,Austin,22.19
+3303,IT,128646.5451,male,Chicago,24.00095073
+1674,Administrative Support,44122.47356,male,Seattle,7.183476384
+3494,LMNOP Division Operators,61131.56648,male,Austin,11.84
+3964,LMNOP Division Operators,60021.8734,male,Seattle,3.37
+4641,QRS Division,70884.48,male,Austin,7.97
+5312,Warehouse,71381.76649,male,Ithaca,16.92302702
+2792,Finance,102241,male,Seattle,30.60760114
+3958,LMNOP Division Operators,44102.22869,male,Seattle,11.1
+3416,LMNOP Division Operators,52531.03439,male,Austin,18.32
+5250,Warehouse Leadership,93907.09689,male,Ithaca,20.6084856
+3841,LMNOP Division Operators,66850.8395,male,Austin,2.11
+3902,LMNOP Division Operators,52463.94516,male,Seattle,26.41
+2968,HR,111921.0009,male,Chicago,12
+3123,IT,117309.5279,male,Chicago,11.07175901
+5681,XYZ Division,66340.032,male,Seattle,6.85
+2744,Finance,102536.5198,male,Seattle,16.24505062
+4291,Production,103157,male,Austin,17.18
+3379,LMNOP Division Operators,57931.73104,male,Seattle,2.35
+4769,Research and Development,,male,Palo Alto,18.21
+4740,Research and Development,65026.9975,male,Los Angeles,11.03
+4581,QRS Division,132549.12,male,Austin,21.03
+1665,Administrative Support,43138.4008,male,Seattle,8.206834684
+2436,Engineering,130662.8473,male,Chicago,22.8
+2108,Call Center,71305.77,male,New York,13.9497429
+5648,XYZ Division,66534.336,male,Seattle,1.32
+3715,LMNOP Division Operators,68255.20927,male,Seattle,20.3
+1436,ABC Division,61801.7664,male,Pittsburgh,16.18
+5791,XYZ Division,192000,male,Seattle,18.4
+2225,Call Center,102473.85,male,New York,16.60247941
+2147,Call Center,82732.2,male,New York,24.27653436
+3430,LMNOP Division Operators,45928.7642,male,Seattle,20.69
+4518,QRS Division,67641.024,male,Austin,4.99
+3742,LMNOP Division Operators,64697.80266,male,Seattle,8.22
+5240,Warehouse Leadership,91229.23527,male,Ithaca,25.87827718
+1384,ABC Division,67045.44,male,Pittsburgh,6.42
+3509,LMNOP Division Operators,61784.98469,male,Seattle,3.25
+3431,LMNOP Division Operators,66319.16551,male,Austin,2.64
+4261,Production,103533,male,Austin,15.08
+4251,Production,72882,male,Austin,17.11
+1934,Buyers,118894.6193,male,Chicago,7.857943577
+2308,Call Center,120985.74,male,New York,32.71361193
+2876,Finance,115504.2423,male,Austin,15.72887543
+2488,Facility Services,60725.16184,male,New York,8
+2463,Facility Services,33069,male,Santa Cruz,1
+2452,Facility Services,25877.4,male,Houston,1
+2476,Facility Services,37081,male,San Francisco,1
+5028,Technicians,74803.91239,male,Santa Cruz,6.5
+4782,Research and Development,63612.70771,male,Los Angeles,8.98
+2966,HR,108310.9218,male,Los Angeles,21
+2275,Call Center,113414.02,male,New York,2.239501367
+4737,Research and Development,63670.44,male,Los Angeles,10
+3189,IT,121786.2625,male,Chicago,24.76051383
+2782,Finance,100073,male,Seattle,19.51694935
+2752,Finance,101460.0484,male,Seattle,15.62531245
+3481,LMNOP Division Operators,73763.72365,male,Austin,2.29
+4301,Production,102200,male,Austin,9.56
+3488,LMNOP Division Operators,72892.53355,male,Seattle,17.3
+3038,IT,112130.3095,male,Chicago,2.353913749
+3314,IT,152839.4864,male,Austin,14.047927
+3013,IT,133162.8736,male,Chicago,3.92427634
+2231,Call Center,104088.51,male,New York,11.38708637
+2725,Finance,100012,male,Austin,19.65216109
+3387,LMNOP Division Operators,63252.76846,male,Seattle,19.64
+3899,LMNOP Division Operators,43406.47462,male,Seattle,26.04
+5755,XYZ Division,55723.008,male,Austin,6.25
+3200,IT,120833.7177,male,Austin,17.44525278
+3759,LMNOP Division Operators,75399.52617,male,Seattle,6.23
+2731,Finance,104022.5634,male,Seattle,6.882286641
+3214,IT,138942.7669,male,Chicago,16.23085071
+3196,IT,115963.3834,male,Chicago,9.041408578
+3901,LMNOP Division Operators,73587.80378,male,Seattle,21.53
+3852,LMNOP Division Operators,67193.32045,male,Austin,12.75
+5498,XYZ Division,50607.744,male,Austin,20.75
+2754,Finance,101202.0662,male,Seattle,18.0298159
+4026,LMNOP Division Operators,61831.79186,male,Seattle,5.22
+2310,Call Center,121534.29,male,New York,11.72777609
+1448,ABC Division,78892,male,Pittsburgh,5.41
+4586,QRS Division,56504.448,male,Austin,6.84
+3708,LMNOP Division Operators,43292.58,male,Austin,21.74
+1430,ABC Division,62517.312,male,Pittsburgh,29.36
+1493,ABC Division,103768,male,Pittsburgh,12.52
+2671,Finance,101972,male,Austin,25.64774854
+1897,Buyers,112693.0865,male,Chicago,13.07369892
+4512,QRS Division,77053.76448,male,Austin,11.09
+3044,IT,144326.6738,male,Chicago,11.06447071
+4313,Production,100413,male,Austin,37.42
+5776,XYZ Division,131863.68,male,Austin,21.19
+3995,LMNOP Division Operators,49673.14225,male,Seattle,4.59
+1678,Administrative Support,44587.87904,male,Seattle,8.467240101
+4506,QRS Division,66261.888,male,Austin,4.03
+2328,Call Center,127626.56,male,New York,11.79058865
+1444,ABC Division,102651,male,Pittsburgh,2.86
+1420,ABC Division,109950.72,male,Pittsburgh,22.38
+2523,Finance,104302.2486,male,Seattle,13.9215324
+2193,Call Center,95233.65,male,New York,1.666403794
+5273,Warehouse Leadership,92076.10962,male,Ithaca,1.707967277
+3976,LMNOP Division Operators,55948.85107,male,Seattle,23.94
+5812,XYZ Division,176021.76,male,Seattle,11.18
+2862,Finance,101466,male,Seattle,15.65921587
+5745,XYZ Division,56605.824,male,Austin,12.49
+1660,Administrative Support,42457.08493,male,Seattle,4.213096478
+5285,Warehouse,95030.86986,male,Ithaca,17.92255095
+1354,ABC Division,68657.28,male,Pittsburgh,6.21
+2870,Finance,116294.274,male,Seattle,3.194748571
+3439,LMNOP Division Operators,59720.04355,male,Austin,8.17
+4652,QRS Division,67239.744,male,Austin,12.17
+3459,LMNOP Division Operators,81964.61403,male,Austin,4.34
+2353,Call Center,150988.18,male,New York,14.86683885
+3046,IT,121209.3685,male,Chicago,5.931049898
+2887,Finance,109663.2238,male,Austin,4.125236214
+3028,IT,,male,Chicago,3.490176461
+1425,ABC Division,61269.7536,male,Pittsburgh,11.33
+3452,LMNOP Division Operators,39778.04315,male,Seattle,5.82
+2385,Engineering,102063.4229,male,Los Angeles,3
+4522,QRS Division,71744.64,male,Austin,19.77
+2669,Finance,121622.3963,male,Seattle,10.94860506
+4330,Production,102315,male,Austin,19.02
+3241,IT,87774.809,male,Chicago,34.91403662
+3778,LMNOP Division Operators,68612.92593,male,Seattle,0.25
+5631,XYZ Division,146344.32,male,Austin,3.14
+1380,ABC Division,61092.72576,male,Pittsburgh,1.31
+4317,Production,79931,male,Austin,17.56
+4727,Research and Development,56870.8405,male,Los Angeles,1
+4749,Research and Development,81118.7,male,Los Angeles,5.31
+3275,IT,115158.451,male,Chicago,32.42805971
+2303,Call Center,119237.04,male,New York,3.794503737
+2447,Engineering,126744.272,male,Los Angeles,4.81
+24479,Engineering,196288.5041,male,Los Angeles,4.81
+1389,ABC Division,61662.3744,male,Pittsburgh,5.57
+4237,Production,77500.53485,male,Austin,6.14
+5783,XYZ Division,66360.96,male,Seattle,11.99
+2840,Finance,101359,male,Seattle,33.46241969
+1499,ABC Division,54560.352,male,Pittsburgh,16.4
+2997,IT,121987.5258,male,Austin,2.563619194
+2711,Finance,101295.4006,male,Seattle,11.27138729
+1992,Buyers,128729.3655,male,Austin,18.17715589
+2210,Call Center,97991.57,male,New York,13.07318304
+3799,LMNOP Division Operators,55625.36928,male,Seattle,19.84
+3800,LMNOP Division Operators,64980.32961,male,Seattle,4.08
+3256,IT,123625.3242,male,Chicago,5.333193728
+5781,XYZ Division,55366.5024,male,Seattle,19.79
+3443,LMNOP Division Operators,74030.50281,male,Seattle,10.58
+3286,IT,150513.7778,male,Chicago,8.783836674
+5302,Warehouse,65490.86086,male,Ithaca,18.74193331
+3965,LMNOP Division Operators,53099.63927,male,Seattle,18.8
+4266,Production,71373,male,Austin,14.67
+2542,Finance,98863.459,male,Seattle,15.58427665
+3173,IT,120026.1628,male,Chicago,18.57860688
+3980,LMNOP Division Operators,44232.64077,male,Austin,11.98
+4300,Production,70166,male,Austin,13.9
+3914,LMNOP Division Operators,56531.51346,male,Seattle,3.15
+4507,QRS Division,70917.12,male,Austin,15.89
+1896,Buyers,112295.0181,male,Chicago,18.48385226
+3294,IT,129438.836,male,Chicago,11.98704089
+3798,LMNOP Division Operators,62172.345,male,Seattle,4.55
+4290,Production,84174,male,Austin,4.55
+3454,LMNOP Division Operators,53707.67306,male,Seattle,2.59
+4608,QRS Division,60037.824,male,Austin,21.68
+1701,Administrative Support,54496.76511,male,Austin,3.385048487
+3289,IT,128855.6679,male,Chicago,15.44236306
+3775,LMNOP Division Operators,47484.34227,male,Austin,10.55
+2470,Facility Services,35075,male,Santa Cruz,4.2
+2716,Finance,100485.345,male,Austin,5.478188191
+4055,LMNOP Division Operators,68580.66494,male,Seattle,3.2
+1996,Buyers,129139.9463,male,Chicago,4.870393607
+2537,Finance,101231.2634,male,Austin,12.7769542
+1454,ABC Division,61703.26272,male,Pittsburgh,16.62
+5304,Warehouse,76419.47051,male,Ithaca,18.94907596
+1434,ABC Division,55540.7424,male,Pittsburgh,9.83
+5222,Warehouse,93850.81493,male,Ithaca,8.113509955
+3299,IT,112435.2594,male,Chicago,3.393687653
+3873,LMNOP Division Operators,58998.63025,male,Seattle,15.06
+5713,XYZ Division,66114.048,male,Austin,6.28
+5661,XYZ Division,52768.32,male,Seattle,3.76
+2863,Finance,100140,male,Seattle,21.33204612
+1488,ABC Division,60261.4848,male,Pittsburgh,16.76
+3792,LMNOP Division Operators,58581.53645,male,Seattle,17.24
+4585,QRS Division,137677.44,male,Austin,11.35
+3896,LMNOP Division Operators,59502.7276,male,Austin,21.46
+2317,Call Center,123723.03,male,New York,6.553508053
+1715,Buyers,,male,Chicago,0.752384027
+4505,QRS Division,64346.304,male,Austin,16.43
+3095,IT,120977.7276,male,Chicago,27.41820823
+2995,IT,121768.8577,male,Chicago,24.47408625
+2073,Call Center,55759.14,male,New York,5.219519445
+3921,LMNOP Division Operators,45618.10449,male,Seattle,23.85
+3237,IT,104684.2795,male,Chicago,25.73266112
+1693,Administrative Support,49441.8588,male,Austin,6.238336482
+3893,LMNOP Division Operators,62605.52826,male,Seattle,23.75
+3054,IT,122762.946,male,Chicago,12.94078211
+2263,Call Center,111628.16,male,New York,17.57622924
+2986,IT,123567.1963,male,Chicago,6.364812443
+2884,Finance,111728.1846,male,Austin,12.1424099
+4258,Production,101237,male,Austin,10.96
+3919,LMNOP Division Operators,45356.7612,male,Seattle,15.59
+1490,ABC Division,70130.4384,male,Pittsburgh,10.58
+4343,Production,99375,male,Austin,28.09
+3429,LMNOP Division Operators,72107.01225,male,Seattle,14.27
+1351,ABC Division,68657.28,male,Pittsburgh,11
+3151,IT,126413.2943,male,Austin,28.39071723
+5777,XYZ Division,68657.28,male,Seattle,22.39
+1459,ABC Division,60154.6176,male,Pittsburgh,19.25
+2626,Finance,100595,male,Seattle,7.005072372
+3413,LMNOP Division Operators,55431.8786,male,Seattle,14.22
+2791,Finance,101309,male,Seattle,6.029501465
+3553,LMNOP Division Operators,44228.45019,male,Seattle,33.08
+1970,Buyers,124969.4178,male,Chicago,3.253206706
+4747,Research and Development,77292.03,male,Los Angeles,7
+3235,IT,129414.9017,male,Chicago,0.479075901
+1687,Administrative Support,46876.92504,male,Seattle,11.71579219
+4453,Production,64066.8864,male,Austin,7.1
+4049,LMNOP Division Operators,36531.93141,male,Seattle,9.21
+2064,Buyers,182285.0241,male,Austin,19.3316745
+3316,IT,142441.5518,male,Chicago,23.32816207
+3183,IT,122258.8737,male,Chicago,10.27172376
+3786,LMNOP Division Operators,66056.71359,male,Austin,17.78
+2107,Call Center,70980.91,male,New York,14.06574986
+3236,IT,117419.0917,male,Chicago,5.095520625
+5308,Warehouse,96663.13553,male,Ithaca,26.01561572
+5754,XYZ Division,68657.28,male,Seattle,17.54
+3052,IT,135011.1699,male,Chicago,17.87740711
+4316,Production,102792,male,Austin,20.15
+5750,XYZ Division,59940.672,male,Seattle,2.17
+4598,QRS Division,148498.56,male,Austin,20.38
+1447,ABC Division,102083,male,Pittsburgh,4.93
+2769,Finance,99008.7091,male,Seattle,9.822321358
+1898,Buyers,113080.5399,male,Chicago,16.03763054
+3008,IT,110974.3907,male,Chicago,5.267309579
+5704,XYZ Division,68657.28,male,Seattle,6.67
+4035,LMNOP Division Operators,54648.43759,male,Seattle,21.81
+1907,Buyers,114330.4475,male,Chicago,16.98161975
+1914,Buyers,115237.5431,male,Chicago,10.71462711
+5684,XYZ Division,97405.44,male,Seattle,19.17
+1695,Administrative Support,49622.19557,male,Seattle,8.293197222
+3861,LMNOP Division Operators,63563.44837,male,Austin,14.67
+3727,LMNOP Division Operators,56250.04832,male,Seattle,16.46
+2710,Finance,108056.1377,male,Austin,4.951901138
+3864,LMNOP Division Operators,64567.87352,male,Seattle,2.05
+2160,Call Center,86425.48,male,New York,16.48118932
+3457,LMNOP Division Operators,79798.88797,male,Seattle,19.98
+3089,IT,112739.3945,male,Chicago,25.78786095
+2212,Call Center,98714,male,New York,1.863266873
+1473,ABC Division,149149.44,male,Pittsburgh,14.24
+2908,Finance,103275.4162,male,Seattle,19.32517462
+1889,Buyers,111391.0129,male,Austin,10.25191433
+2024,Buyers,135384.0193,male,Chicago,31.51569285
+5671,XYZ Division,,male,Seattle,12.99
+5711,XYZ Division,63776.064,male,Seattle,14.23
+1913,Buyers,115001.2946,male,Chicago,9.501019687
+1400,ABC Division,60084.9216,male,Pittsburgh,28.03
+3242,IT,128655.9836,male,Chicago,6.594856809
+5297,Warehouse,80548.56074,male,Ithaca,9.445950812
+1356,ABC Division,70072.3584,male,Pittsburgh,22.93
+2235,Call Center,104804.63,male,New York,5.120287569
+3464,LMNOP Division Operators,74899.34794,male,Seattle,29.81
+4264,Production,102232,male,Austin,17.98
+2008,Buyers,131522.517,male,Chicago,19.59330667
+2304,Call Center,119708.53,male,New York,7.757210165
+1428,ABC Division,60918.9504,male,Pittsburgh,8
+2775,Finance,98346.28286,male,Seattle,14.02912268
+3130,IT,117174.1115,male,Chicago,27.59523197
+2072,Call Center,55441.59,male,New York,16.32526381
+3132,IT,116468.679,male,Chicago,14.08336496
+3312,IT,119281.9767,male,Chicago,19.79524293
+2683,Finance,109415.1013,male,Seattle,1.400832373
+3403,LMNOP Division Operators,54335.78949,male,Seattle,15.87
+4279,Production,81288,male,Austin,17.36
+3754,LMNOP Division Operators,55801.6395,male,Seattle,7.46
+5642,XYZ Division,53279.424,male,Seattle,12.23
+5301,Warehouse,105961.5967,male,Ithaca,0.278228123
+1489,ABC Division,71326.464,male,Pittsburgh,20.83
+3227,IT,116443.9237,male,Austin,26.92937398
+3225,IT,121801.9653,male,Chicago,13.64945575
+2421,Engineering,138146.5592,male,San Francisco,4
+2118,Call Center,74701.99,male,New York,12.95806853
+4327,Production,102637,male,Austin,14.78
+5051,Technicians,91272.06752,male,Los Angeles,5
+2960,HR,98029.35688,male,Los Angeles,5
+4284,Production,83144,male,Austin,16.48
+3823,LMNOP Division Operators,55763.09325,male,Seattle,20.36
+3497,LMNOP Division Operators,35956.54588,male,Seattle,15.09
+1367,ABC Division,55563.9744,male,Pittsburgh,18.13
+5233,Warehouse,69032.87138,male,Ithaca,3.17092867
+3407,LMNOP Division Operators,65073.38269,male,Seattle,2.67
+5719,XYZ Division,63091.776,male,Seattle,26.86
+2206,Call Center,97484.74,male,New York,13.75618815
+1736,Buyers,101842,male,Chicago,34.68587193
+3774,LMNOP Division Operators,61179.42466,male,Seattle,13.74
+3720,LMNOP Division Operators,63895.42258,male,Seattle,1
+3971,LMNOP Division Operators,35349.78303,male,Seattle,22.4
+3251,IT,125871.3858,male,Chicago,22.17997685
+3394,LMNOP Division Operators,78272.66376,male,Austin,14.58
+2605,Finance,103871.9009,male,Seattle,22.5144178
+4623,QRS Division,137512.32,male,Austin,27.63
+5303,Warehouse,53185.09202,male,Ithaca,12.09639783
+1471,ABC Division,78348,male,Pittsburgh,9.61
+4501,QRS Division,101377,male,Austin,24.68
+3131,IT,107686.366,male,Chicago,4.562150879
+3209,IT,101412.3218,male,Austin,30.89691935
+1510,ABC Division,101532,male,Pittsburgh,10.89
+2795,Finance,101200,male,Seattle,14.53447483
+1877,Buyers,109278.7227,male,Chicago,17.80011916
+3490,LMNOP Division Operators,80881.91902,male,Seattle,6.33
+3395,LMNOP Division Operators,48080.76262,male,Austin,5.32
+4260,Production,103735,male,Austin,4.93
+2002,Buyers,130147.9853,male,Chicago,7.053606403
+2281,Call Center,113675.29,male,New York,10.16457086
+5234,Warehouse Leadership,95173.72403,male,Ithaca,5.333730158
+3284,IT,129822.3398,male,Chicago,20.88366098
+2662,Finance,69863.3838,male,Seattle,6.186783345
+3158,IT,108101.3156,male,Chicago,5.992119036
+5705,XYZ Division,54924.672,male,Seattle,7.35
+2223,Call Center,101289.53,male,New York,28.2887319
+3741,LMNOP Division Operators,57354.85593,male,Austin,2.75
+2082,Call Center,60597.03,male,New York,18.69141716
+4654,QRS Division,68234.496,male,Austin,4.39
+5660,XYZ Division,77555.6544,male,Austin,5.06
+4524,QRS Division,68931.84,male,Austin,6.82
+3238,IT,132802.8184,male,Chicago,0.51959738
+1658,Administrative Support,42169.26252,male,Seattle,12.35849841
+2264,Call Center,111807.02,male,New York,5.507594628
+2058,Buyers,170677.5707,male,Chicago,18.98184995
+3433,LMNOP Division Operators,54215.44981,male,Seattle,19.68
+1461,ABC Division,57255.264,male,Pittsburgh,13.38
+3019,IT,126836.1351,male,Austin,3.709959214
+1700,Administrative Support,54050.95641,male,Seattle,19.5379255
+1869,Buyers,107996.0243,male,Chicago,8.208077427
+3218,IT,86823.53111,male,Chicago,19.44788181
+3099,IT,130427.2233,male,Chicago,28.93287512
+4077,LMNOP Division Operators,57603.60416,male,Austin,17.75
+5280,Warehouse Leadership,95076.9763,male,Ithaca,1.123396312
+3837,LMNOP Division Operators,47068.92564,male,Austin,19.44
+4373,Production,61653.0816,male,Austin,9.73
+3414,LMNOP Division Operators,44890.55414,male,Seattle,13.81
+4642,QRS Division,70331.52,male,Austin,9.5
+3709,LMNOP Division Operators,62753.2054,male,Seattle,14.72
+3086,IT,128984.4469,male,Chicago,22.43850118
+3023,IT,116931.4014,male,Chicago,30.36997647
+3208,IT,108029.3969,male,Chicago,13.98004044
+2123,Call Center,75406.04,male,New York,20.08873804
+3884,LMNOP Division Operators,,male,Seattle,10.03
+3018,IT,116494.911,male,Chicago,13.93344371
+1863,Buyers,107032.0411,male,Chicago,2.026178936
+5794,XYZ Division,175501.44,male,Seattle,4.06
+3096,IT,100267.6653,male,Chicago,21.14394622
+2880,Finance,112773.3962,male,Seattle,29.27332042
+2282,Call Center,113871.37,male,New York,11.33033775
+1415,ABC Division,63012.1536,male,Pittsburgh,23.02
+3871,LMNOP Division Operators,66754.85444,male,Austin,16.92
+5789,XYZ Division,52014.336,male,Austin,2.79
+3539,LMNOP Division Operators,52865.8442,male,Seattle,2.16
+4620,QRS Division,53171.712,male,Austin,9.12
+3363,LMNOP Division Operators,73892.74013,male,Seattle,5.5
+5626,XYZ Division,134999.04,male,Seattle,16.45
+4238,Production,70850.6304,male,Austin,0.71
+3716,LMNOP Division Operators,61860.61942,male,Seattle,2.93
+2888,Finance,108857.8818,male,Austin,28.98900529
+4616,QRS Division,77846.96832,male,Austin,13.03
+3375,LMNOP Division Operators,45159.01323,male,Austin,10.94
+5651,XYZ Division,66390.72,male,Seattle,20.6
+4356,Production,74042,male,Austin,4.34
+3126,IT,119956.093,male,Chicago,11.16885928
+4636,QRS Division,71723.52,male,Austin,7.99
+3206,IT,128180.6776,male,Austin,15.35589533
+3843,LMNOP Division Operators,71253.25132,male,Seattle,22.49
+5632,XYZ Division,57290.112,male,Austin,19.06
+3501,LMNOP Division Operators,76077.774,male,Seattle,12.6
+4311,Production,103248,male,Austin,17.47
+3428,LMNOP Division Operators,51293.80463,male,Seattle,10.11
+3383,LMNOP Division Operators,65887.36973,male,Austin,5.16
+4650,QRS Division,56743.104,male,Austin,19.15
+3463,LMNOP Division Operators,47974.15635,male,Seattle,25.14
+3446,LMNOP Division Operators,53502.0101,male,Austin,25.7
+5795,XYZ Division,181607.04,male,Austin,32.55
+2920,Finance,98761.33347,male,Austin,4.856310379
+3788,LMNOP Division Operators,59025.11897,male,Austin,16.58
+2331,Call Center,130261.28,male,New York,5.702900126
+5646,XYZ Division,68657.28,male,Seattle,8.13
+3077,IT,143952.9155,male,Chicago,11.18636289
+3152,IT,107487.1598,male,Chicago,12.70939795
+2885,Finance,110793.3597,male,Seattle,23.38012297
+3844,LMNOP Division Operators,61314.4264,male,Seattle,6.67
+1894,Buyers,112031.8998,male,Austin,5.151147286
+5710,XYZ Division,61754.88,male,Seattle,4.03
+1494,ABC Division,99265,male,Pittsburgh,26.62
+5641,XYZ Division,56263.68,male,Seattle,9.09
+3069,IT,137514.2411,male,Chicago,20.15553358
+3753,LMNOP Division Operators,70687.8104,male,Austin,9.59
+1429,ABC Division,63616.1856,male,Pittsburgh,5.01
+2055,Buyers,160689.9395,male,Chicago,21.24765253
+3794,LMNOP Division Operators,61513.15319,male,Seattle,4.87
+1717,Buyers,70264.01961,male,Chicago,0.80189933
+3771,LMNOP Division Operators,77483.56412,male,Austin,0.93
+5701,XYZ Division,68657.28,male,Seattle,6.48
+3250,IT,116376.0692,male,Austin,21.51133253
+1911,Buyers,114812.3721,male,Chicago,9.381397318
+5757,XYZ Division,54337.536,male,Seattle,22.29
+1861,Buyers,106802.4949,male,Chicago,4.572125671
+5675,XYZ Division,64405.44,male,Austin,6.97
+1455,ABC Division,64445.568,male,Pittsburgh,7.7
+1446,ABC Division,108210.432,male,Pittsburgh,9.31
+5640,XYZ Division,71189.184,male,Seattle,5.46
+5737,XYZ Division,64158.336,male,Seattle,10.52
+2019,Buyers,134267.1082,male,Austin,1.931072899
+1426,ABC Division,56246.9952,male,Pittsburgh,14.72
+1825,Buyers,100575.4047,male,Chicago,9.289872611
+3766,LMNOP Division Operators,66745.98818,male,Seattle,10.52
+5300,Warehouse,68388.22789,male,Ithaca,17.22325724
+1927,Buyers,118404.3218,male,Chicago,28.5607257
+4328,Production,73929,male,Austin,5.84
+5630,XYZ Division,56145.408,male,Seattle,0.42
+1474,ABC Division,152782.08,male,Pittsburgh,8.55
+5260,Warehouse,78202.7995,male,Ithaca,14.94124338
+2687,Finance,100076,male,Seattle,26.01554437
+1696,Administrative Support,49853.08936,male,Seattle,12.83574751
+3903,LMNOP Division Operators,53731.99817,male,Austin,22.21
+5731,XYZ Division,52487.424,male,Austin,8.39
+3503,LMNOP Division Operators,69275.97219,male,Austin,8.05
+2166,Call Center,87923,male,New York,9.401577167
+5761,XYZ Division,61729.536,male,Seattle,13.09
+2059,Buyers,174446.4005,male,Chicago,18.27051709
+3493,LMNOP Division Operators,61262.11894,male,Austin,18.82
+4770,Research and Development,220105.9249,male,Palo Alto,10.31
+4594,QRS Division,77293.30752,male,Austin,14.43
+3747,LMNOP Division Operators,41634.32135,male,Seattle,17.97
+2334,Call Center,132168.71,male,New York,20.09620473
+3304,IT,108857.6379,male,Chicago,10.39140567
+5227,Warehouse Leadership,95094.19451,male,Ithaca,19.54494761
+2627,Finance,102561,male,Seattle,26.7668595
+1482,ABC Division,71366.592,male,Pittsburgh,13.59
+1876,Buyers,109240.788,male,Chicago,10.37920087
+5647,XYZ Division,70471.68,male,Austin,20.75
+3996,LMNOP Division Operators,,male,Seattle,16.95
+2226,Call Center,102586.82,male,New York,4.30284019
+4057,LMNOP Division Operators,62129.53284,male,Seattle,4.31
+1571,ABC Division,215618.304,male,Pittsburgh,30.96
+4003,LMNOP Division Operators,64309.50551,male,Seattle,11.24
+1939,Buyers,119507.4337,male,Chicago,15.93842009
+2533,Finance,102732.1923,male,Seattle,2.150943202
+2277,Call Center,113520.97,male,New York,9.11175828
+1669,Administrative Support,43515.69044,male,Seattle,16.29853863
+3793,LMNOP Division Operators,64496.03575,male,Seattle,3.76
+1401,ABC Division,59322.912,male,Pittsburgh,9.82
+4017,LMNOP Division Operators,66623.3881,male,Seattle,15.17
+2337,Call Center,133162.09,male,New York,14.28783402
+1402,ABC Division,56941.632,male,Pittsburgh,16.14
+2915,Finance,99610.3814,male,Seattle,8.661345639
+5520,XYZ Division,57546.0864,male,Austin,12.52
+2126,Call Center,76188.11,male,New York,34.46541752
+3055,IT,128664.6555,male,Chicago,14.82225132
+3821,LMNOP Division Operators,53712.37877,male,Austin,16.75
+5286,Warehouse,65328.65314,male,Ithaca,4.625205813
+2783,Finance,101508,male,Austin,23.73666017
+2269,Call Center,112308.18,male,New York,16.37888682
+2734,Finance,103659.9404,male,Seattle,2.304703595
+3993,LMNOP Division Operators,81374.95165,male,Seattle,34.57
+4034,LMNOP Division Operators,59751.88931,male,Austin,11.76
+1721,Buyers,84186.1817,male,Chicago,25.19336696
+3073,IT,135118.6164,male,Chicago,19.96914704
+3133,IT,87679.32865,male,Chicago,15.66073954
+3987,LMNOP Division Operators,56229.30999,male,Seattle,13.37
+3233,IT,111578.9607,male,Chicago,22.71275668
+4303,Production,81938,male,Austin,2.13
+3773,LMNOP Division Operators,61764.07775,male,Seattle,9.53
+2434,Engineering,127880.5959,male,Chicago,2
+5022,Technicians,98884.9793,male,New York,10
+1686,Administrative Support,46228.42115,male,Austin,28.01545533
+3087,IT,127558.6164,male,Chicago,6.626957404
+5221,Warehouse,77822.14324,male,Ithaca,9.241580387
+3024,IT,99115.61732,male,Chicago,11.00684763
+4021,LMNOP Division Operators,60206.79325,male,Austin,20.57
+3892,LMNOP Division Operators,42909.15847,male,Seattle,23.23
+4333,Production,72367,male,Austin,25.73
+3718,LMNOP Division Operators,40461.55481,male,Seattle,10.32
+4615,QRS Division,144261.12,male,Austin,26.04
+3106,IT,127809.2816,male,Chicago,2.840368499
+3199,IT,120799.6338,male,Chicago,20.88460662
+3856,LMNOP Division Operators,47020.53002,male,Seattle,19.24
+3518,LMNOP Division Operators,55714.92427,male,Seattle,4.18
+4273,Production,78451,male,Austin,25.19
+1427,ABC Division,59095.2384,male,Pittsburgh,3.65
+5690,XYZ Division,49600.32,male,Austin,2.97
+4285,Production,81823,male,Austin,6.33
+1892,Buyers,111769.0679,male,Chicago,19.0376623
+1849,Buyers,104633.6088,male,Chicago,3.62738677
+2467,Facility Services,34628.665,male,Santa Cruz,2
+1732,Buyers,103917,male,Chicago,10.2034382
+1443,ABC Division,58467.9744,male,Pittsburgh,3.03
+5634,XYZ Division,77912.50368,male,Austin,2.49
+4471,Production,68982.144,male,Austin,15.28
+1452,ABC Division,103757,male,Pittsburgh,5.08
+5739,XYZ Division,132512.64,male,Austin,6.91
+3807,LMNOP Division Operators,36768.07583,male,Austin,1.16
+2460,Facility Services,31460.14893,male,Miami,10
+2458,Facility Services,30664.07634,male,Santa Cruz,6
+2895,Finance,104837.8086,male,Austin,11.18330722
+1481,ABC Division,55245.696,male,Pittsburgh,4.14
+2274,Call Center,113336.87,male,New York,18.51062126
+4350,Production,103007,male,Austin,3.34
+4262,Production,73744,male,Austin,3.67
+1657,Administrative Support,42140.49527,male,Seattle,11.75003604
+3441,LMNOP Division Operators,87160.50858,male,Seattle,24.77
+2133,Call Center,,male,New York,7.911835357
+1355,ABC Division,98571.96096,male,Pittsburgh,7.98
+2323,Call Center,124880.95,male,New York,7.716601108
+4470,Production,70406.8992,male,Austin,16.48
+3411,LMNOP Division Operators,56061.47749,male,Seattle,12.08
+2172,Call Center,90121.11,male,New York,25.59893598
+1460,ABC Division,106928.448,male,Pittsburgh,8.71
+2477,Facility Services,37081,male,San Francisco,1
+4297,Production,85063,male,Austin,1.06
+1902,Buyers,113439.713,male,Chicago,4.142287537
+3369,LMNOP Division Operators,52626.99275,male,Austin,1.29
+4779,Research and Development,228843.5,male,Palo Alto,15.5
+2471,Facility Services,35075,male,Santa Cruz,2
+3116,IT,110319.6984,male,Austin,6.900691478
+2585,Finance,101465,male,Seattle,2.547680293
+2608,Finance,103745.1016,male,Seattle,11.19178044
+1336,ABC Division,60754.0032,male,Pittsburgh,20.5
+4648,QRS Division,54749.376,male,Austin,11.47
+5311,Warehouse,99159.67043,male,Ithaca,9.1628
+2768,Finance,99182.50651,male,Seattle,27.94400455
+5734,XYZ Division,71738.304,male,Seattle,6.19
+1664,Administrative Support,42991.21315,male,Seattle,7.286938469
+5279,Warehouse Leadership,93274.16796,male,Ithaca,11.90225949
+3372,LMNOP Division Operators,67600.3038,male,Seattle,2.62
+1737,Buyers,101923,male,Austin,33.64555283
+5656,XYZ Division,69444.672,male,Seattle,19.48
+2209,Call Center,97964.73,male,New York,6.859919412
+1891,Buyers,111642.1751,male,Chicago,0.717089798
+4750,Research and Development,84022.73614,male,Los Angeles,14
+2417,Engineering,115597.7638,male,Houston,4
+5635,XYZ Division,67109.76,male,Austin,24.75
+5663,XYZ Division,100009,male,Seattle,16.94
+3319,IT,101229.5095,male,Austin,37.41434245
+2879,Finance,113120.9774,male,Seattle,5.49381134
+3103,IT,111415.9306,male,Chicago,13.07165555
+3202,IT,120895.6825,male,Chicago,15.26433665
+1477,ABC Division,60767.9424,male,Pittsburgh,17.63
+4306,Production,100720,male,Austin,24.41
+1393,ABC Division,71028.672,male,Pittsburgh,9.53
+5092,Technicians,219414.5658,male,Los Angeles,19.5
+3974,LMNOP Division Operators,63216.54048,male,Austin,10.03
+3865,LMNOP Division Operators,55866.81321,male,Seattle,7.55
+2454,Facility Services,27081,male,Miami,3
+2483,Facility Services,40120,male,San Francisco,4
+4632,QRS Division,102696.96,male,Austin,8.28
+3936,LMNOP Division Operators,52618.6019,male,Seattle,1.99
+2634,Finance,100134,male,Austin,3.29716184
+2906,Finance,103358.6005,male,Austin,13.06388313
+5305,Warehouse,63497.42354,male,Ithaca,14.63369818
+4826,Sales Support,56775,male,Santa Cruz,1.21
+5265,Warehouse,75791.07492,male,Ithaca,0.94526929
+3832,LMNOP Division Operators,69068.68969,male,Austin,24.64
+4751,Research and Development,84138.97444,male,Los Angeles,9
+1726,Buyers,103379,male,Austin,4.282341995
+4367,Production,63797.3952,male,Austin,8.56
+2713,Finance,100806.5974,male,Austin,23.19188101
+3409,LMNOP Division Operators,55074.39697,male,Seattle,19.87
+1885,Buyers,110674.7094,male,Austin,4.051720769
+5760,XYZ Division,71459.52,male,Austin,30.31
+3820,LMNOP Division Operators,40541.53088,male,Seattle,18.58
+4271,Production,103230,male,Austin,18.64
+4521,QRS Division,70080,male,Austin,18.59
+3436,LMNOP Division Operators,63249.14915,male,Seattle,2.13
+4515,QRS Division,58352.448,male,Austin,6.04
+4599,QRS Division,,male,Austin,24.21
+4634,QRS Division,69645.312,male,Austin,25.28
+1928,Buyers,118601.2435,male,Chicago,4.548402647
+2751,Finance,101650.8365,male,Austin,8.539566259
+4336,Production,77323,male,Austin,2.12
+3064,IT,118855.811,male,Austin,0.343274486
+2485,Facility Services,62877.14697,male,San Francisco,5.6
+2152,Call Center,83677.79,male,New York,11.52718659
+2891,Finance,105364.4121,male,Seattle,17.92215362
+4724,Research and Development,65630.12958,male,Los Angeles,7.77
+4349,Production,83101,male,Austin,28.38
+3211,IT,107857.1811,male,Chicago,5.90285237
+2749,Finance,102067.3596,male,Austin,21.2582206
+2329,Call Center,128011.62,male,New York,13.28442146
+2684,Finance,113626.1212,male,Seattle,19.44364604
+4621,QRS Division,142439.04,male,Austin,7.64
+2349,Call Center,143564.15,male,New York,15.36208925
+2164,Call Center,87865.96,male,New York,19.90087092
+2324,Call Center,125084.02,male,New York,2.613486025
+4362,Production,101238,male,Austin,11.58
+4326,Production,98339,male,Austin,2.85
+3222,IT,127488.4383,male,Chicago,12.64640004
+4353,Production,101745,male,Austin,11.79
+3402,LMNOP Division Operators,59559.09849,male,Seattle,20.07
+5814,XYZ Division,102749,male,Austin,10.45
+2755,Finance,101125.4817,male,Seattle,5.759518803
+3075,IT,120099.1185,male,Chicago,22.98621814
+4245,Production,76810,male,Austin,22.91
+3440,LMNOP Division Operators,62507.16583,male,Seattle,23.05
+3868,LMNOP Division Operators,33228.16612,male,Seattle,3.3
+2245,Call Center,107653.26,male,New York,14.3161261
+3317,IT,136247.041,male,Austin,19.82862503
+33089,IT,126731.7779,male,Austin,16.10581819
+5780,XYZ Division,60510.912,male,Seattle,6.29
+3419,LMNOP Division Operators,48697.41373,male,Seattle,29.23
+3228,IT,90496.27446,male,Chicago,10.76481875
+1379,ABC Division,60391.584,male,Pittsburgh,9.54
+3736,LMNOP Division Operators,66271.77837,male,Austin,15.46
+5699,XYZ Division,52462.08,male,Seattle,6.45
+1388,ABC Division,68657.28,male,Pittsburgh,19.28
+4604,QRS Division,55889.856,male,Austin,1.13
+2162,Call Center,87285.99,male,New York,4.066767211
+2785,Finance,101031,male,Austin,4.352594924
+5788,XYZ Division,64352.64,male,Austin,26.92
+2031,Buyers,136649.5226,male,Chicago,18.88815569
+2715,Finance,100955.6244,male,Seattle,0.586075426
+1445,ABC Division,55886.8992,male,Pittsburgh,15.69
+3455,LMNOP Division Operators,63004.79797,male,Austin,4.18
+3187,IT,124370.5607,male,Chicago,17.32948934
+4289,Production,101368,male,Austin,9.14
+3941,LMNOP Division Operators,83582.40351,male,Seattle,15.03
+5775,XYZ Division,53385.024,male,Seattle,10.63
+4286,Production,100639,male,Austin,14.2
+2459,Facility Services,31093,male,Los Angeles,2.5
+5224,Warehouse Leadership,93863.41216,male,Ithaca,20.52271749
+3450,LMNOP Division Operators,77356.33987,male,Austin,20.61
+2945,HR,63949.94789,male,Houston,16.8
+2432,Engineering,123796.8892,male,Miami,15.81
+2433,Engineering,123875.0135,male,Los Angeles,2.8
+5853,Sales Operations,77516.02439,male,Denver,12.81
+5834,Sales Operations,61796.7647,male,New York,2.71
+5873,Sales Operations,41121.99847,male,Miami,1.61
+5848,Sales Operations,89459.65546,male,New York,10
+5855,Sales Operations,80240.55519,male,Chicago,3
+5839,Sales Operations,58601.23882,male,Miami,2
+5866,Sales Operations,99825.54298,male,Miami,9
+5829,Sales Operations,45802.62706,male,Los Angeles,1.8
+4799008,Sales,116779.8596,male,Chicago,4.91
+4799012,Sales,,male,Chicago,4.91
+4799022,Sales,105265.9378,male,Chicago,4.91
+4799038,Sales,80511.87708,male,Chicago,4.91
+4799042,Sales,103794.8507,male,Chicago,4.91
+4799044,Sales,83849.98526,male,Chicago,4.91
+4799052,Sales,101323.4376,male,Chicago,4.91
+4799058,Sales,111726.9091,male,Chicago,4.91
+4799064,Sales,132085.0468,male,Chicago,4.91
+4799066,Sales,103866.2382,male,Chicago,4.91
+4799070,Sales,112720.047,male,Chicago,4.91
+4799074,Sales,127739.8506,male,Chicago,4.91
+4799076,Sales,122199.9707,male,Chicago,4.91
+4799080,Sales,125719.4284,male,Chicago,4.91
+4799102,Sales,103777.3175,male,Chicago,4.91
+4799104,Sales,92875.92712,male,Chicago,4.91
+4799114,Sales,109735.416,male,Chicago,4.91
+4799120,Sales,126921.1993,male,Chicago,4.91
+4799124,Sales,91459.27091,male,Chicago,4.91
+4799132,Sales,127589.8897,male,Chicago,4.91
+4799134,Sales,128724.7629,male,Chicago,4.91
+4799136,Sales,134686.8658,male,Chicago,4.91
+4799138,Sales,117598.7888,male,Chicago,4.91
+4799140,Sales,101320.8909,male,Chicago,4.91
+4799146,Sales,157172.5783,male,Chicago,4.91
+4799148,Sales,127710.6718,male,Chicago,4.91
+4799156,Sales,127391.7922,male,Chicago,4.91
+4799158,Sales,127394.4282,male,Chicago,4.91
+4799166,Sales,133037.2156,male,Chicago,4.91
+4799182,Sales,109197.9606,male,Chicago,4.91
+4799184,Sales,114493.1007,male,Chicago,4.91
+4799186,Sales,107420.9861,male,Chicago,4.91
+4799190,Sales,104180.093,male,Chicago,4.91
+4799194,Sales,129991.4356,male,Chicago,4.91
+4799000,Sales,101740.5264,male,Chicago,4.91
+4799002,Sales,106759.0407,male,Chicago,4.91
+4799006,Sales,101763.1256,male,Chicago,4.91
+4799014,Sales,131172.2166,male,Chicago,4.91
+4799016,Sales,128748.7222,male,Chicago,4.91
+4799018,Sales,111181.7825,male,Chicago,4.91
+4799020,Sales,153656.9532,male,Chicago,4.91
+4799026,Sales,124870.2352,male,Chicago,4.91
+4799028,Sales,115352.4045,male,Chicago,4.91
+4799032,Sales,134556.8202,male,Chicago,4.91
+4799034,Sales,109374.5295,male,Chicago,4.91
+4799036,Sales,108157.9703,male,Chicago,4.91
+4799040,Sales,100946.2803,male,Chicago,4.91
+4799046,Sales,128739.3005,male,Chicago,4.91
+4799048,Sales,120649.8442,male,Chicago,4.91
+4799050,Sales,121130.9766,male,Chicago,4.91
+4799054,Sales,103452.9277,male,Chicago,4.91
+4799056,Sales,129292.9715,male,Chicago,4.91
+4799060,Sales,122187.8892,male,Chicago,4.91
+4799062,Sales,137884.1963,male,Chicago,4.91
+4799068,Sales,113689.4547,male,Chicago,4.91
+4799072,Sales,128389.8001,male,Chicago,4.91
+4799078,Sales,153492.2956,male,Chicago,4.91
+4799082,Sales,101296.8783,male,Chicago,4.91
+4799084,Sales,110139.3298,male,Chicago,4.91
+4799086,Sales,136422.8363,male,Chicago,4.91
+4799088,Sales,140163.0075,male,Chicago,4.91
+4799090,Sales,92242.00868,male,Chicago,4.91
+4799092,Sales,135602.4504,male,Chicago,4.91
+4799094,Sales,120324.5794,male,Chicago,4.91
+4799096,Sales,,male,Chicago,4.91
+4799098,Sales,127367.7947,male,Chicago,4.91
+4799100,Sales,140584.2203,male,Chicago,4.91
+4799106,Sales,115440.7001,male,Chicago,4.91
+4799108,Sales,111582.1174,male,Chicago,4.91
+4799110,Sales,121328.3344,male,Chicago,4.91
+4799112,Sales,108968.814,male,Chicago,4.91
+4799116,Sales,134912.1947,male,Chicago,4.91
+4799118,Sales,119343.4703,male,Chicago,4.91
+4799122,Sales,161416.3185,male,Chicago,4.91
+4799126,Sales,135872.2295,male,Chicago,4.91
+4799128,Sales,115275.4852,male,Chicago,4.91
+4799130,Sales,113945.2821,male,Chicago,4.91
+4799142,Sales,102707.6497,male,Chicago,4.91
+4799144,Sales,115370.4085,male,Chicago,4.91
+4799150,Sales,136594.0613,male,Chicago,4.91
+4799152,Sales,118390.295,male,Chicago,4.91
+4799154,Sales,101537.2229,male,Chicago,4.91
+4799160,Sales,95522.55064,male,Chicago,4.91
+4799162,Sales,122558.3351,male,Chicago,4.91
+4799164,Sales,126432.4396,male,Chicago,4.91
+4799168,Sales,115599.8158,male,Chicago,4.91
+4799170,Sales,123567.3064,male,Chicago,4.91
+4799172,Sales,116848.9274,male,Chicago,4.91
+4799174,Sales,107419.2417,male,Chicago,4.91
+4799176,Sales,132730.1796,male,Chicago,4.91
+4799178,Sales,143197.1962,male,Chicago,4.91
+4799180,Sales,107552.2349,male,Chicago,4.91
+4799188,Sales,106026.9948,male,Chicago,4.91
+4799192,Sales,115744.7321,male,Chicago,4.91
+5849,Sales Operations,123532.5977,male,San Francisco,17
+5856,Sales Operations,121106.9764,male,Miami,11
+5852,Sales Operations,134931.0369,male,San Francisco,17
+5860,Sales Operations,125966.2808,male,Miami,15
+5841,Sales Operations,84485.0773,male,New York,10.7
+5859,Sales Operations,83531.66164,male,Houston,2.3
+5843,Sales Operations,87255.07984,male,Miami,5.1
+5830,Sales Operations,49266.36645,male,Denver,2.1
+5871,Sales Operations,92574.11824,male,Miami,15
+2468,Facility Services,34640.701,male,Santa Cruz,1
+2457,Facility Services,30090,male,New York,2
+2430,Engineering,123700.4445,male,Los Angeles,18
+4510,QRS Division,70612.608,male,Austin,21.79
+4481,QRS Division,54381.888,male,Austin,19.9
+4588,QRS Division,58955.2128,male,Austin,6.03
+3174,IT,154630.3709,male,Chicago,15.91318318
+3245,IT,109816.319,male,Chicago,2.642061229
+3721,LMNOP Division Operators,54834.67676,male,Seattle,6.75
+1842,Buyers,103904.2928,male,Chicago,0.950887373
+2214,Call Center,99236.03,male,New York,8.482095423
+2925,Finance,100906,male,Austin,16.4147247
+5716,XYZ Division,154677.12,male,Seattle,26.53
+3298,IT,104892.862,male,Chicago,12.48635771
+5707,XYZ Division,68657.28,male,Seattle,10.85
+3016,IT,121171.3519,male,Austin,21.20379088
+3505,LMNOP Division Operators,46253.21625,male,Austin,22.46
+4366,Production,75540,male,Austin,1.98
+4302,Production,70277,male,Austin,10.5
+4582,QRS Division,143998.08,male,Austin,12.8
+2350,Call Center,146249.77,male,New York,17.14718859
+3263,IT,113405.2419,male,Austin,5.793622809
+5633,XYZ Division,64071.744,male,Seattle,23.51
+3217,IT,112917.355,male,Chicago,1.363512928
+2035,Buyers,139222.9412,male,Austin,20.10811283
+1924,Buyers,117729.5077,male,Chicago,20.9313826
+4344,Production,102111,male,Austin,10.53
+2926,Finance,103791,male,Seattle,23.15038138
+2787,Finance,103768,male,Seattle,12.75207878
+4614,QRS Division,133407.36,male,Austin,12.24
+2340,Call Center,137206.84,male,New York,22.98657552
+1340,ABC Division,68657.28,male,Pittsburgh,8.66
+2490,Finance,142771.1304,male,Seattle,14.06910349
+2388,Engineering,114038.5336,male,New York,10.5
+5040,Technicians,82872.53022,male,San Francisco,9.7
+4241,Production,55652.256,male,Austin,2.57
+5274,Warehouse Leadership,,male,Ithaca,3.406558427
+2382,Engineering,100175.3146,male,Denver,4
+2728,Finance,104624.2658,male,Seattle,9.526521097
+4448,Production,63165.4848,male,Austin,9.3
+4644,QRS Division,56962.752,male,Austin,4.31
+5662,XYZ Division,68103.552,male,Seattle,17.77
+3791,LMNOP Division Operators,51966.84068,male,Austin,11.77
+3977,LMNOP Division Operators,62052.9628,male,Seattle,20.83
+3283,IT,141071.4624,male,Chicago,15.52180283
+3475,LMNOP Division Operators,71065.98182,male,Seattle,17.97
+5787,XYZ Division,56301.696,male,Seattle,7.59
+2897,Finance,104526.9446,male,Seattle,4.360839552
+4308,Production,77321,male,Austin,16.36
+1735,Buyers,100888,male,Chicago,33.83560091
+3015,IT,105004.9291,male,Chicago,22.26780242
+4603,QRS Division,55693.44,male,Austin,17.21
+3244,IT,133899.5662,male,Chicago,14.51492755
+4509,QRS Division,54164.352,male,Austin,20.34
+3540,LMNOP Division Operators,47689.75516,male,Austin,12.73
+1456,ABC Division,75457,male,Pittsburgh,14.42
+2066,Buyers,190115.8562,male,Austin,27.17240437
+3449,LMNOP Division Operators,47728.24703,male,Seattle,19.07
+4629,QRS Division,142028.16,male,Austin,6.34
+3368,LMNOP Division Operators,57455.59467,male,Austin,9.86
+4595,QRS Division,100650,male,Austin,29.28
+4589,QRS Division,67058.112,male,Austin,29.2
+3999,LMNOP Division Operators,53377.67678,male,Seattle,14.83
+4649,QRS Division,101213,male,Austin,5.84
+2633,Finance,102967,male,Seattle,34.34897383
+5680,XYZ Division,59338.752,male,Austin,15.87
+1916,Buyers,116402.2995,male,Chicago,28.01136624
+1995,Buyers,128990.7812,male,Chicago,19.27334239
+5744,XYZ Division,68466.816,male,Seattle,25.95
+1912,Buyers,114972.3561,male,Austin,9.215145367
+1865,Buyers,107431.6561,male,Chicago,28.83272043
+1994,Buyers,128970.253,male,Austin,6.036215681
+2797,Finance,102952,male,Austin,8.89681108
+3870,LMNOP Division Operators,50390.95598,male,Seattle,27.87
+5283,Warehouse,81513.75417,male,Ithaca,16.06862822
+3254,IT,131070.0585,male,Chicago,11.3893988
+3112,IT,123661.4052,male,Chicago,19.2109702
+4252,Production,77892,male,Austin,9.96
+2907,Finance,103300.1471,male,Seattle,31.25675446
+3166,IT,143011.7694,male,Chicago,1.22367245
+4517,QRS Division,58352.448,male,Austin,3.64
+5289,Warehouse,80853.26939,male,Ithaca,19.17611369
+4028,LMNOP Division Operators,63278.29196,male,Austin,25.38
+4755,Research and Development,93699.57827,male,Palo Alto,12
+3067,IT,103720.2809,male,Chicago,16.89895684
+3100,IT,128262.9702,male,Chicago,12.85787829
+3071,IT,101776.0541,male,Chicago,14.97317093
+5115,Technicians,176210.2841,male,Miami,16.71
+2244,Call Center,107174.5,male,New York,9.167847706
+4666,QRS Division,100899,male,Austin,8.99
+2015,Buyers,132499.5695,male,Chicago,6.199067905
+4312,Production,100789,male,Austin,6.49
+4485,QRS Division,51919.296,male,Austin,23.67
+1973,Buyers,125803.2022,male,Austin,16.63447575
+1723,Buyers,84811.58652,male,Austin,10.27807985
+3514,LMNOP Division Operators,55347.20527,male,Austin,10.74
+1673,Administrative Support,44016.61449,male,Seattle,5.940191859
+5218,Warehouse Leadership,101463.4622,male,Ithaca,23.93791856
+1480,ABC Division,,male,Pittsburgh,11.32
+5269,Warehouse Leadership,98551.09618,male,Ithaca,11.94024205
+1888,Buyers,111321.5606,male,Chicago,4.231175687
+5796,XYZ Division,161568,male,Austin,5.62
+4846,Sales Support,49657,male,Denver,1.11
+2427,Engineering,146359.2171,male,New York,21.4
+5790,XYZ Division,55617.408,male,Austin,6.46
+5742,XYZ Division,102537,male,Austin,2.24
+4288,Production,99462,male,Austin,4.3
+3021,IT,130131.6721,male,Chicago,21.02099281
+2200,Call Center,96117.32,male,New York,6.245538114
+4259,Production,83154,male,Austin,8.72
+4597,QRS Division,66333.696,male,Austin,1.62
+1441,ABC Division,79985,male,Pittsburgh,19.13
+1845,Buyers,104165.615,male,Chicago,1.261592993
+3851,LMNOP Division Operators,46635.87041,male,Seattle,21.96
+1440,ABC Division,77695.55904,male,Pittsburgh,15
+1404,ABC Division,68657.28,male,Pittsburgh,23.52
+2462,Facility Services,32366.9,male,Santa Cruz,7
+3210,IT,105878.0222,male,Chicago,9.899932851
+3050,IT,132145.0114,male,Chicago,21.99750849
+2546,Finance,97248.69369,male,Austin,19.57196743
+1397,ABC Division,68657.28,male,Pittsburgh,3.17
+3752,LMNOP Division Operators,45638.09298,male,Seattle,3.38
+2156,Call Center,84638.35,male,New York,21.84381546
+5067,Technicians,114692.572,male,Los Angeles,5
+4351,Production,73697,male,Austin,29.26
+2195,Call Center,95511.65,male,New York,3.345495446
+5768,XYZ Division,101856,male,Austin,2.52
+2182,Call Center,92544.7,male,New York,8.283747926
+4466,Production,64589.6064,male,Austin,14.32
+3029,IT,115535.5672,male,Chicago,19.62752142
+5127,Technicians,188360.8768,male,Los Angeles,11.2
+5708,XYZ Division,61824.576,male,Seattle,15
+4705,Research and Development,56183.8386,male,Ithaca,1
+2961,HR,117073.8841,male,Los Angeles,1.8
+4927,Sales Operations,126149.2963,male,Denver,11
+5907,Sales Operations,126149.2963,male,Denver,11
+5953,Sales Operations,126149.2963,male,Denver,11
+4923,Sales Operations,162668.8849,male,Chicago,11
+5903,Sales Operations,162668.8849,male,Chicago,11
+5949,Sales Operations,162668.8849,male,Chicago,11
+2412,Engineering,135697.4728,male,Denver,7.91
+2413,Engineering,135979.0066,male,Houston,6.5
+4877,Sales Support,58337,male,New York,6
+4894,Sales Support,47814,male,New York,6.6
+4892,Sales Support,45511,male,Denver,1.8
+4857,Sales Support,44859,male,New York,3.71
+4851,Sales Support,44859,male,Houston,4.6
+4870,Sales Support,46272,male,Miami,1.8
+4797,Sales Support,46272,male,Denver,1.21
+4817,Sales Support,44859,male,Houston,2.5
+4841,Sales Support,50806,male,Denver,3.3
+4882,Sales Support,50806,male,Miami,2.71
+4902,Sales Operations,56930.85202,male,Santa Cruz,4
+5882,Sales Operations,56930.85202,male,Santa Cruz,4
+5928,Sales Operations,56930.85202,male,Santa Cruz,4
+4838,Sales Support,43582,male,New York,2.91
+4840,Sales Support,55959,male,Chicago,1.21
+4845,Sales Support,58248,male,San Francisco,1.21
+4811,Sales Support,44859,male,Denver,2.5
+4796,Sales Support,55959,male,Denver,2
+2426,Engineering,146180.1069,male,Chicago,22.21
+2410,Engineering,135018.4506,male,Los Angeles,16.3
+2429,Engineering,133535.1846,male,New York,4.81
+2376,Engineering,,male,Miami,2.1
+2446,Engineering,123914.2834,male,Chicago,15.11
+24469,Engineering,123468.692,male,Chicago,15.11
+2448,Engineering,134362.2347,male,San Francisco,32.5
+2383,Engineering,119202.2519,male,New York,9.9
+2422,Engineering,121044.1087,male,Chicago,2.71
+2442,Engineering,162084.7449,male,New York,3
+2449,Engineering,138317.9782,male,Houston,20.3
+2394,Engineering,145200.5383,male,Los Angeles,9.81
+4928,Sales Operations,173662.0823,male,New York,11
+5908,Sales Operations,173662.0823,male,New York,11
+5954,Sales Operations,173662.0823,male,New York,11
+2404,Engineering,132771.2551,male,San Francisco,10.7
+2407,Engineering,155733.7625,male,New York,13.61
+2435,Engineering,153890.2492,male,Denver,20.21
+2440,Engineering,149107.0573,male,New York,19.61
+2437,Engineering,132412.8081,male,San Francisco,4.7
+2439,Engineering,136271.0983,male,Houston,19
+2438,Engineering,135285.165,male,San Francisco,17.9
+5111,Technicians,242395.9968,male,Palo Alto,25
+5064,Technicians,135130.2246,male,Miami,8.81
+5062,Technicians,112196.0188,male,Los Angeles,8.61
+5084,Technicians,175964.2079,male,New York,11.9
+5109,Technicians,207293.231,male,New York,22
+5132,Technicians,196354.254,male,New York,23.61
+5134,Technicians,202606,male,New York,16
+5101,Technicians,169830.5302,male,New York,10.9
+5100,Technicians,169448.1208,male,Palo Alto,17
+5020,Technicians,82045.44675,male,Chicago,8.81
+5058,Technicians,153541.3714,male,Miami,8.11
+5110,Technicians,174469.1388,male,New York,14.7
+5065,Technicians,135446.7598,male,Los Angeles,7.6
+5124,Technicians,186221.948,male,New York,17
+5133,Technicians,234323.145,male,Palo Alto,21
+5116,Technicians,176276.8739,male,New York,21
+5015,Technicians,65967.09843,male,Miami,3.1
+5083,Technicians,203907.1893,male,Palo Alto,12
+5103,Technicians,171507.985,male,Palo Alto,20.4
+5137,Technicians,208287.6502,male,Palo Alto,19.61
+5129,Technicians,190044.9295,male,Palo Alto,6
+5048,Technicians,104062.34,male,Miami,7.5
+5119,Technicians,215663.256,male,Palo Alto,18
+5096,Technicians,229055.498,male,Palo Alto,24.61
+5095,Technicians,228063.4616,male,Palo Alto,21.9
+5104,Technicians,203949.7835,male,New York,11.2
+5144,Technicians,174308.8106,male,Los Angeles,12.81
+5138,Technicians,210036.5374,male,Palo Alto,20.9
+5148,Technicians,183969.6852,male,New York,13.4
+5072,Technicians,120669.88,male,Houston,14.5
+5078,Technicians,134753.8728,male,Los Angeles,11.9
+5149,Technicians,184984.1778,male,Palo Alto,10.5
+5107,Technicians,173611.276,male,San Francisco,13.11
+5074,Technicians,123233.7125,male,Chicago,10.99
+5123,Technicians,,male,New York,20
+5120,Technicians,182207.3308,male,Los Angeles,12.4
+4864,Sales Support,53127,male,Santa Cruz,3.5
+5113,Technicians,175857.2124,male,San Francisco,11.31
+5108,Technicians,174254.9983,male,Los Angeles,24
+4930,Sales Operations,99168.23729,male,Los Angeles,18
+5910,Sales Operations,99168.23729,male,Los Angeles,18
+5956,Sales Operations,99168.23729,male,Los Angeles,18
+4931,Sales Operations,99825.54298,male,Houston,17.4
+5911,Sales Operations,99825.54298,male,Houston,17.4
+5957,Sales Operations,99825.54298,male,Houston,17.4
+4912,Sales Operations,70016.78929,male,Los Angeles,2.91
+5892,Sales Operations,70016.78929,male,Los Angeles,2.91
+5938,Sales Operations,70016.78929,male,Los Angeles,2.91
+4908,Sales Operations,72659.46471,male,Denver,4
+5888,Sales Operations,72659.46471,male,Denver,4
+5934,Sales Operations,72659.46471,male,Denver,4
+4904,Sales Operations,79793.41581,male,Denver,4.1
+5884,Sales Operations,79793.41581,male,Denver,4.1
+5930,Sales Operations,79793.41581,male,Denver,4.1
+5881,Sales Operations,66996.51357,male,Denver,2.91
+4901,Sales Operations,66996.51357,male,Denver,2.91
+5927,Sales Operations,66996.51357,male,Denver,2.91
+4929,Sales Operations,134836.44,male,San Francisco,18
+5909,Sales Operations,134836.44,male,San Francisco,18
+5955,Sales Operations,134836.44,male,San Francisco,18
+4917,Sales Operations,108521.5231,male,New York,9
+5897,Sales Operations,108521.5231,male,New York,9
+5943,Sales Operations,108521.5231,male,New York,9
+2450,Facility Services,28627.35125,male,Miami,3.1
+2478,Facility Services,44915.55234,male,San Francisco,2.91
+2378,Engineering,125214.0985,male,San Francisco,1.9
+4813,Sales Support,48308,male,Los Angeles,1.4
+4836,Sales Support,48308,male,New York,1.9
+4816,Sales Support,56775,male,New York,2.8
+4843,Sales Support,44859,male,Los Angeles,3
+4855,Sales Support,47346,male,Houston,3.21
+4859,Sales Support,55959,male,Los Angeles,9.61
+4833,Sales Support,53127,male,Miami,3
+4879,Sales Support,53660,male,Santa Cruz,5
+4853,Sales Support,49657,male,Houston,1
+24449,Engineering,284000,male,New York,5.1
+4835,Sales Support,58337,male,Houston,1.5
+4880,Sales Support,51465,male,Chicago,2.3
+4820,Sales Support,49706,male,Miami,1.4
+4828,Sales Support,59944,male,Santa Cruz,1.4
+4856,Sales Support,59944,male,Los Angeles,2.5
+4842,Sales Support,58337,male,Santa Cruz,1.4
+4884,Sales Support,50806,male,New York,6
+2482,Facility Services,39157.12,male,Los Angeles,7.2
+2489,Facility Services,72214.54079,male,Miami,5.81
+2473,Facility Services,35556.44,male,Santa Cruz,0.7
+2403,Engineering,110918.4319,male,Miami,11.4
+2395,Engineering,125126.3245,male,Houston,7.41
+2443,Engineering,107148.8044,male,Miami,14.2
+2444,Engineering,107251.4167,male,New York,5.1
+2397,Engineering,106133.0092,male,Denver,12.9
+2379,Engineering,113835.5268,male,Chicago,14.31
+2375,Engineering,100310,male,Santa Cruz,2.21
+2387,Engineering,122195.3069,male,New York,6.2
+2390,Engineering,104163.0232,male,Miami,9.5
+2380,Engineering,114013.7079,male,Miami,19.8
+2381,Engineering,114625.9617,male,Los Angeles,14.9
+2392,Engineering,114648.0285,male,San Francisco,2.8
+2398,Engineering,126368.4745,male,Denver,6.1
+5097,Technicians,166774.969,male,Palo Alto,24.21
+5143,Technicians,170104.8733,male,New York,15
+5077,Technicians,129699.2073,male,Houston,10.31
+5036,Technicians,80575.27626,male,San Francisco,9.7
+5021,Technicians,82303.21334,male,Santa Cruz,4.7
+5047,Technicians,121227.3377,male,Chicago,11.61
+5059,Technicians,111068.3647,male,Houston,13.22
+5026,Technicians,101181.6214,male,Houston,15
+5054,Technicians,98723.86386,male,New York,11
+5016,Technicians,,male,Houston,5
+5106,Technicians,173473.3322,male,Chicago,15.5
+5114,Technicians,209050.6648,male,Palo Alto,17.11
+5090,Technicians,187923.8172,male,Chicago,20
+5031,Technicians,78811.65748,male,Houston,11
+5038,Technicians,81753.51916,male,Denver,9
+5142,Technicians,82535.4732,male,Denver,9.5
+5037,Technicians,81714.45702,male,Denver,8.81
+5041,Technicians,83420.78726,male,Santa Cruz,14
+5025,Technicians,72299.31952,male,Santa Cruz,7
+5117,Technicians,179923.6408,male,New York,18.21
+5019,Technicians,68025.47384,male,Denver,5
+5070,Technicians,141765.6368,male,Chicago,14.61
+5018,Technicians,79899.16958,male,Los Angeles,5
+5145,Technicians,174768.4935,male,Palo Alto,21
+5146,Technicians,175164.4052,male,New York,21
+5053,Technicians,93075.46152,male,Chicago,5.31
+5029,Technicians,74825.87652,male,Los Angeles,6
+5105,Technicians,204072.5679,male,Los Angeles,17
+5130,Technicians,192108.3199,male,Los Angeles,18.21
+4812,Sales Support,48308,male,New York,3
+5055,Technicians,100409.0057,male,Los Angeles,11
+2424,Engineering,122349.3095,male,Los Angeles,3.41
+4715,Research and Development,50804.6965,male,Los Angeles,4
+2464,Facility Services,33961.58,male,San Francisco,0.21
+2487,Facility Services,60654.21918,male,Los Angeles,8.5
+5131,Technicians,230471.046,male,New York,18
+2425,Engineering,122446.0833,male,San Francisco,1.9
+2409,Engineering,134347.8584,male,San Francisco,2.91
+2391,Engineering,104406.188,male,Chicago,4.6
+2419,Engineering,162358.007,male,New York,18.4
+5050,Technicians,90900.3855,male,Miami,6
+5061,Technicians,111281.7451,male,New York,9.65
+5086,Technicians,212388.9337,male,Palo Alto,16
+5088,Technicians,214549.9988,male,Palo Alto,16.4
+2373,Engineering,153550.8635,male,Miami,11
+4717,Research and Development,52207.52521,male,Los Angeles,10.4
+4745,Research and Development,88265.75385,male,Los Angeles,2
+2481,Facility Services,38869.52934,male,New York,9.31
+4924,Sales Operations,167226.2595,male,Denver,12
+5904,Sales Operations,167226.2595,male,Denver,12
+5950,Sales Operations,167226.2595,male,Denver,12
+4934,Sales Operations,100018.6492,male,Los Angeles,2.3
+5914,Sales Operations,100018.6492,male,Los Angeles,2.3
+5960,Sales Operations,100018.6492,male,Los Angeles,2.3
+4938,Sales Operations,94910.52838,male,Chicago,10
+5918,Sales Operations,94910.52838,male,Chicago,10
+5964,Sales Operations,94910.52838,male,Chicago,10
+4910,Sales Operations,80566.32966,male,Denver,3
+5890,Sales Operations,80566.32966,male,Denver,3
+5936,Sales Operations,80566.32966,male,Denver,3
+4933,Sales Operations,99979.1452,male,New York,6
+5913,Sales Operations,99979.1452,male,New York,6
+5959,Sales Operations,99979.1452,male,New York,6
+4940,Sales Operations,99795.06002,male,Los Angeles,11
+5920,Sales Operations,99795.06002,male,Los Angeles,11
+5966,Sales Operations,99795.06002,male,Los Angeles,11
+4916,Sales Operations,91264.95249,male,New York,11
+5896,Sales Operations,91264.95249,male,New York,11
+5942,Sales Operations,91264.95249,male,New York,11
+4742,Research and Development,79610.90041,male,Los Angeles,15
+4726,Research and Development,55706.62,male,Los Angeles,4.2
+4736,Research and Development,61778.57043,male,Palo Alto,4.41
+4725,Research and Development,65736.67787,male,Los Angeles,4.81
+4784,Research and Development,87526.92081,male,Los Angeles,10.7
+4752,Research and Development,86290.9,male,Los Angeles,10
+4707,Research and Development,61772.19887,male,Ithaca,4.6
+1352,ABC Division,,male,Pittsburgh,14.49
+3779,LMNOP Division Operators,49543.88958,male,Seattle,5.4
+4239,Production,78091.03104,male,Austin,2.08
+4027,LMNOP Division Operators,81739.6112,male,Austin,11.26
+3724,LMNOP Division Operators,56739.04624,male,Seattle,7.3
+1722,Buyers,84287.87388,male,Chicago,34.43015166
+4053,LMNOP Division Operators,54314.3036,male,Seattle,10.39
+2538,Finance,99871.06934,male,Seattle,29.00482183
+5676,XYZ Division,66564.48,male,Seattle,31.62
+2279,Call Center,113597.67,male,New York,5.577196898
+3506,LMNOP Division Operators,79612.493,male,Seattle,9.92
+3030,IT,117092.6837,male,Chicago,35.47346134
+3359,LMNOP Division Operators,61330.79601,male,Austin,5.99
+5816,XYZ Division,156658.56,male,Austin,14.37
+2249,Call Center,108130.37,male,New York,22.54300169
+33087,IT,113251.834,male,Austin,16.10581819
+330872,IT,107577.9859,male,Austin,16.10581819
+3270,IT,109241.7135,male,Chicago,10.22206653
+3714,LMNOP Division Operators,48185.71378,male,Seattle,0.86
+1811,Buyers,97227.9022,male,Chicago,10.35068982
+3819,LMNOP Division Operators,75621.72668,male,Seattle,2.14
+5219,Warehouse Leadership,100902.3721,male,Ithaca,0.755405273
+2254,Call Center,109540.07,male,New York,11.50138662
+3796,LMNOP Division Operators,54407.86375,male,Seattle,12.15
+3756,LMNOP Division Operators,45327.46187,male,Seattle,1.11
+1953,Buyers,121778.0253,male,Chicago,12.52930719
+5057,Technicians,109794.8525,male,Houston,8
+3806,LMNOP Division Operators,72242.33975,male,Seattle,3.33
+3384,LMNOP Division Operators,67639.20845,male,Seattle,14.11
+4504,QRS Division,55598.4,male,Austin,2.92
+4450,Production,66027.6672,male,Austin,1.46
+1390,ABC Division,68657.28,male,Pittsburgh,22.76
+2176,Call Center,90989.47,male,New York,5.508275473
+3519,LMNOP Division Operators,57123.71619,male,Austin,1.13
+3072,IT,103854.5715,male,Chicago,2.542289021
+2584,Finance,101763,male,Seattle,11.82784127
+2259,Call Center,110463.46,male,New York,17.22710915
+1385,ABC Division,68817.408,male,Pittsburgh,14.36
+2248,Call Center,107919.75,male,New York,2.185154291
+3817,LMNOP Division Operators,60797.74614,male,Seattle,19.9
+1458,ABC Division,68713.2864,male,Pittsburgh,18.34
+3465,LMNOP Division Operators,62945.95855,male,Austin,0.66
+3390,LMNOP Division Operators,53553.58308,male,Seattle,10.33
+3790,LMNOP Division Operators,45738.6129,male,Seattle,10.92
+3082,IT,126569.4679,male,Chicago,2.068220667
+1968,Buyers,124544.3679,male,Chicago,11.77364682
+3137,IT,119305.1709,male,Chicago,4.548647848
+3124,IT,119160.8252,male,Chicago,6.254999701
+5069,Technicians,119164.8236,male,Los Angeles,13
+5886,Sales Operations,70315.75517,male,Denver,1.8
+4906,Sales Operations,70315.75517,male,Denver,1.8
+5932,Sales Operations,70315.75517,male,Denver,1.8
+5649,XYZ Division,64538.496,male,Austin,10.89
+4729,Research and Development,69279.09323,male,Los Angeles,1
+1405,ABC Division,68657.28,male,Pittsburgh,6.78
+4468,Production,71138.7072,male,Austin,7.69
+3057,IT,128611.7513,male,Chicago,4.914465139
+3031,IT,116883.7171,male,Austin,3.109198317
+4602,QRS Division,138234.24,male,Austin,2.05
+1509,ABC Division,101243,male,Pittsburgh,19.77
+2179,Call Center,91268.77,male,New York,20.14381493
+3801,LMNOP Division Operators,69699.86939,male,Austin,4.26
+1346,ABC Division,71703.2448,male,Pittsburgh,7.27
+3291,IT,95022.73546,male,Chicago,26.32011612
+3761,LMNOP Division Operators,58591.17301,male,Austin,5.96
+1874,Buyers,108897.2582,male,Chicago,15.62863702
+4384,Production,97812.65472,male,Austin,11.02
+3959,LMNOP Division Operators,72199.69317,male,Seattle,8.35
+1670,Administrative Support,43580.34838,male,Seattle,19.0044699
+1370,ABC Division,71642.8416,male,Pittsburgh,24.01
+5687,XYZ Division,71859.84,male,Austin,23.3
+4593,QRS Division,71624.256,male,Austin,24.28
+2991,IT,129409.2814,male,Chicago,0.729158356
+1662,Administrative Support,42474.43841,male,Seattle,17.36556881
+4380,Production,64194.6624,male,Austin,1.11
+3059,IT,135091.7908,male,Austin,2.026376191
+1933,Buyers,118871.7165,male,Chicago,18.7882682
+4610,QRS Division,,male,Austin,21.56
+3909,LMNOP Division Operators,68835.4766,male,Seattle,14.52
+1342,ABC Division,71268.8064,male,Pittsburgh,7.22
+2135,Call Center,78994.87,male,New York,3.799953309
+4031,LMNOP Division Operators,46660.03436,male,Seattle,11.37
+1392,ABC Division,60540.2688,male,Pittsburgh,16.96
+3966,LMNOP Division Operators,61363.95134,male,Austin,1.66
+3107,IT,122946.4282,male,Chicago,10.91937568
+2018,Buyers,133735.6066,male,Chicago,8.466639119
+3482,LMNOP Division Operators,84060.38692,male,Seattle,21.37
+1502,ABC Division,101597,male,Pittsburgh,11.84
+3981,LMNOP Division Operators,60830.70654,male,Seattle,10.57
+3074,IT,113292.1927,male,Chicago,15.7436213
+2071,Call Center,55409.03,male,New York,23.61140218
+3744,LMNOP Division Operators,71492.44106,male,Seattle,6.05
+3770,LMNOP Division Operators,58571.26906,male,Seattle,2.34
+1663,Administrative Support,42692.81944,male,Seattle,9.120872246
+1682,Administrative Support,45445.89704,male,Seattle,10.49107783
+5504,XYZ Division,71195.52,male,Austin,15.33
+4256,Production,100018,male,Austin,2
+3399,LMNOP Division Operators,45136.21088,male,Austin,20.38
+4022,LMNOP Division Operators,68127.94561,male,Austin,10.39
+2347,Call Center,143094.36,male,New York,14.97782072
+2216,Call Center,99423.14,male,New York,1.114944808
+2555,Finance,102191,male,Austin,23.67239483
+1697,Administrative Support,50002.18326,male,Seattle,10.8422349
+1353,ABC Division,68657.28,male,Pittsburgh,19.1
+1847,Buyers,104271.9082,male,Chicago,21.06021373
+2587,Finance,118784.011,male,Seattle,8.224512135
+1383,ABC Division,71339.136,male,Pittsburgh,9.7
+4287,Production,76864,male,Austin,3.09
+1414,ABC Division,59987.3472,male,Pittsburgh,6.5
+1694,Administrative Support,49618.31511,male,Austin,13.71174678
+3885,LMNOP Division Operators,53223.31937,male,Seattle,1.28
+2892,Finance,104993.0382,male,Seattle,3.856641106
+3257,IT,121531.148,male,Chicago,14.58272315
+1727,Buyers,103806,male,Chicago,7.948557661
+1905,Buyers,114006.4302,male,Chicago,2.626505497
+1468,ABC Division,78213.0624,male,Pittsburgh,11.92
+1676,Administrative Support,44450.49661,male,Seattle,6.948730943
+5093,Technicians,192556.9578,male,New York,14
+2332,Call Center,131273.34,male,New York,14.28944834
+2237,Call Center,104932.63,male,New York,8.62744252
+5748,XYZ Division,103398,male,Austin,11.26
+2586,Finance,118826.5062,male,Seattle,2.811346154
+4321,Production,71396,male,Austin,20.76
+4718,Research and Development,52576.09636,male,Los Angeles,7
+2158,Call Center,85462.54,male,New York,6.149470308
+5256,Warehouse Leadership,97501.59853,male,Ithaca,13.28064264
+1437,ABC Division,70373.952,male,Pittsburgh,21.61
+4375,Production,104208.192,male,Austin,2.79
+4318,Production,73635,male,Austin,18.47
+4275,Production,81255,male,Austin,16.08
+4516,QRS Division,101770,male,Austin,13.31
+2946,HR,102092,male,Chicago,23.9
+4778,Research and Development,216144,male,Palo Alto,11.7
+5669,XYZ Division,68223.936,male,Seattle,15.8
+2786,Finance,101663,male,Seattle,10.99263546
+4329,Production,70007,male,Austin,8.99
+3834,LMNOP Division Operators,48956.14596,male,Seattle,17.2
+2781,Finance,101790,male,Austin,13.3167012
+2916,Finance,99016.55797,male,Seattle,12.45812262
+1364,ABC Division,51277.248,male,Pittsburgh,0.73
+1999,Buyers,129872.0879,male,Austin,16.23719569
+5659,XYZ Division,55047.168,male,Seattle,11.19
+3782,LMNOP Division Operators,61840.18154,male,Seattle,14.28
+4314,Production,103058,male,Austin,12.63
+1484,ABC Division,62319.37536,male,Pittsburgh,16.8
+4050,LMNOP Division Operators,68122.00587,male,Austin,13.62
+1339,ABC Division,77110.26048,male,Pittsburgh,18.41
+1475,ABC Division,148864.32,male,Pittsburgh,6.5
+1439,ABC Division,103734,male,Pittsburgh,5.12
+1381,ABC Division,68657.28,male,Pittsburgh,8.05
+5282,Warehouse,,male,Ithaca,4.687313506
+1976,Buyers,126162.9503,male,Chicago,4.987066979
+3780,LMNOP Division Operators,52462.14348,male,Seattle,24.81
+3471,LMNOP Division Operators,47536.49088,male,Seattle,14.69
+4332,Production,83840,male,Austin,22.86
+5480,Warehouse Leadership,99164.24729,male,Ithaca,28.7078238
+5652,XYZ Division,69617.856,male,Seattle,8.59
+1946,Buyers,120076.2216,male,Chicago,6.677550575
+4293,Production,100440,male,Austin,3.37
+1378,ABC Division,68657.28,male,Pittsburgh,1.68
+2753,Finance,101256.2421,male,Austin,31.95890774
+3280,IT,109230.6139,male,Chicago,24.18668445
+1411,ABC Division,68657.28,male,Pittsburgh,14.24
+4591,QRS Division,56849.1264,male,Austin,6
+4627,QRS Division,77284.26816,male,Austin,7.84
+1503,ABC Division,79345,male,Pittsburgh,7.04
+4639,QRS Division,64255.488,male,Austin,8.72
+5248,Warehouse Leadership,95466.13516,male,Ithaca,10.21064218
+4667,QRS Division,55382.976,male,Austin,17.56
+1881,Buyers,109989.6155,male,Austin,4.962170506
+4036,LMNOP Division Operators,54251.35396,male,Austin,5.21
+4335,Production,100660,male,Austin,28.67
+4348,Production,101340,male,Austin,15.21
+3802,LMNOP Division Operators,52643.57467,male,Austin,16.48
+3282,IT,108082.9441,male,Chicago,24.23890413
+4062,LMNOP Division Operators,46770.18511,male,Seattle,12.61
+4309,Production,83138,male,Austin,24.67
+3460,LMNOP Division Operators,52978.83336,male,Austin,2.25
+1799,Buyers,100880,male,Chicago,13.91890478
+4037,LMNOP Division Operators,68840.67172,male,Seattle,24.64
+3499,LMNOP Division Operators,77830.61935,male,Austin,12.19
+3508,LMNOP Division Operators,50840.49159,male,Seattle,12.88
+1457,ABC Division,66980.1792,male,Pittsburgh,24.43
+3389,LMNOP Division Operators,72638.35122,male,Seattle,0.84
+5786,XYZ Division,68490.048,male,Seattle,10.15
+3266,IT,131687.315,male,Chicago,23.44598092
+3421,LMNOP Division Operators,50463.40587,male,Seattle,20.45
+3370,LMNOP Division Operators,66227.2791,male,Seattle,10.74
+5235,Warehouse Leadership,99941.73388,male,Ithaca,1.781896655
+2227,Call Center,102644.82,male,New York,11.70373575
+1410,ABC Division,70146.7008,male,Pittsburgh,31.78
+3923,LMNOP Division Operators,68822.42719,male,Seattle,9.75
+4282,Production,72448,male,Austin,11.06
+3862,LMNOP Division Operators,64217.35211,male,Seattle,4.05
+4519,QRS Division,51815.808,male,Austin,3.08
+3391,LMNOP Division Operators,67112.9755,male,Seattle,13.59
+3763,LMNOP Division Operators,75426.19758,male,Austin,17.39
+2909,Finance,102960.1617,male,Seattle,2.072604131
+3472,LMNOP Division Operators,60764.03315,male,Austin,14.16
+5220,Warehouse Leadership,99924.87229,male,Ithaca,20.45839159
+4622,QRS Division,138556.8,male,Austin,7.15
+4379,Production,148598.4,male,Austin,35.24
+3079,IT,130187.3427,male,Chicago,3.303427473
+4319,Production,103229,male,Austin,20.37
+1802,Buyers,100891,male,Chicago,31.75204799
+3812,LMNOP Division Operators,45640.86721,male,Austin,6.65
+4257,Production,103230,male,Austin,17.78
+4267,Production,100799,male,Austin,2.01
+3230,IT,115337.1374,male,Chicago,1.2765025
+2839,Finance,100166,male,Austin,8.849340575
+5245,Warehouse Leadership,94874.11869,male,Ithaca,16.59875629
+4281,Production,101754,male,Austin,13.43
+3398,LMNOP Division Operators,63319.36023,male,Seattle,1.91
+3083,IT,96600.37061,male,Austin,8.211807792
+5736,XYZ Division,57159.168,male,Austin,14.89
+4278,Production,70835,male,Austin,3.01
+1360,ABC Division,57094.9632,male,Pittsburgh,16.52
+4075,LMNOP Division Operators,75795.46489,male,Austin,37.2
+2720,Finance,97477.92269,male,Austin,21.31535475
+3385,LMNOP Division Operators,55520.87385,male,Austin,29.02
+5278,Warehouse Leadership,95854.4316,male,Ithaca,13.54655043
+1728,Buyers,101083,male,Chicago,14.59236166
+5759,XYZ Division,69292.608,male,Seattle,4.83
+4298,Production,70060,male,Austin,2.75
+3853,LMNOP Division Operators,71510.69418,male,Seattle,5.27
+3376,LMNOP Division Operators,72897.14928,male,Seattle,6.15
+3043,IT,141063.1745,male,Austin,9.137586474
+2336,Call Center,132980.27,male,New York,14.64297146
+4605,QRS Division,64432.896,male,Austin,10.81
+2000,Buyers,130036.7903,male,Chicago,16.34489404
+4347,Production,102675,male,Austin,6.92
+3827,LMNOP Division Operators,73917.67494,male,Seattle,9.52
+1451,ABC Division,68863.872,male,Pittsburgh,8.9
+4032,LMNOP Division Operators,70273.30438,male,Seattle,2.82
+1948,Buyers,120920.4413,male,Austin,14.71416183
+3424,LMNOP Division Operators,54148.37336,male,Seattle,19.52
+5252,Warehouse Leadership,93391.42223,male,Ithaca,2.570113144
+4063,LMNOP Division Operators,78684.27594,male,Austin,17.88
+4665,QRS Division,69221.76,male,Austin,12.01
+3354,LMNOP Division Operators,57114.11389,male,Seattle,12.11
+2027,Buyers,135491.2017,male,Chicago,16.76413248
+5298,Warehouse,96389.66989,male,Ithaca,6.223515521
+1886,Buyers,111121.6902,male,Chicago,8.790977292
+3396,LMNOP Division Operators,53665.6555,male,Seattle,15.71
+4334,Production,102057,male,Austin,20.6
+3900,LMNOP Division Operators,59974.64949,male,Seattle,1.89
+3906,LMNOP Division Operators,50016.52571,male,Seattle,0.68
+4625,QRS Division,62356.8,male,Austin,7.53
+2890,Finance,105895.6241,male,Seattle,20.64346103
+1854,Buyers,105479.337,male,Chicago,9.966286641
+1478,ABC Division,99802,male,Pittsburgh,5.41
+1866,Buyers,,male,Chicago,18.88502882
+4578,QRS Division,68217.6,male,Austin,5.59
+1937,Buyers,119277.04,male,Chicago,9.395647244
+5655,XYZ Division,55349.184,male,Seattle,30.39
+2068,Buyers,215391.9346,male,Chicago,29.85452614
+2726,Finance,102603,male,Austin,37.11165349
+2020,Buyers,134578.9899,male,Chicago,1.022827493
+1903,Buyers,113810.4176,male,Chicago,7.789304234
+2665,Finance,103213.9774,male,Austin,4.827637836
+1453,ABC Division,61732.0704,male,Pittsburgh,7.51
+1716,Buyers,70125.13539,male,Chicago,7.629726597
+1839,Buyers,103648.799,male,Chicago,10.86111061
+3205,IT,104365.1145,male,Chicago,5.947977778
+3297,IT,117276.5604,male,Chicago,20.66164513
+1731,Buyers,100292,male,Chicago,17.59334751
+3288,IT,117296.2135,male,Austin,7.67160919
+1442,ABC Division,100022,male,Pittsburgh,9.69
+4743,Research and Development,81162.39447,male,Los Angeles,5.1
+3437,LMNOP Division Operators,64538.92165,male,Seattle,14.33
+5832,Sales Operations,48708.52848,male,Santa Cruz,16
+5732,XYZ Division,100832,male,Seattle,15.65
+2670,Finance,119610.5259,male,Seattle,17.57967692
+1858,Buyers,106437.7365,male,Chicago,20.28086538
+1450,ABC Division,55515.1872,male,Pittsburgh,1.87
+4651,QRS Division,71457.408,male,Austin,14.32
+3521,LMNOP Division Operators,75092.62476,male,Seattle,33.95
+4305,Production,77786,male,Austin,2.71
+4046,LMNOP Division Operators,57678.94085,male,Seattle,9.89
+4018,LMNOP Division Operators,63930.59261,male,Seattle,18.04
+3287,IT,125531.2485,male,Chicago,10.50213336
+4474,Production,58630.5984,male,Austin,19.52
+1335,ABC Division,62863.00416,male,Pittsburgh,14.68
+3377,LMNOP Division Operators,68722.63038,male,Seattle,20.92
+1689,Administrative Support,47632.07084,male,Austin,14.83595578
+3925,LMNOP Division Operators,70495.44632,male,Seattle,18.86
+3992,LMNOP Division Operators,61357.57311,male,Seattle,13.75
+3418,LMNOP Division Operators,53378.1401,male,Austin,2.24
+4008,LMNOP Division Operators,45397.18908,male,Seattle,6.17
+5257,Warehouse,66572.6865,male,Ithaca,16.48886484
+3755,LMNOP Division Operators,49380.62047,male,Seattle,13.99
+4277,Production,98826,male,Austin,7.85
+5715,XYZ Division,52052.352,male,Austin,0.77
+4827,Sales Support,50806,male,Los Angeles,1.4
+3277,IT,129994.0394,male,Austin,20.13596363
+4631,QRS Division,66065.472,male,Austin,16.46
+3221,IT,138606.9013,male,Chicago,20.5914108
+5879,Sales Operations,61530.37546,male,Denver,4
+4899,Sales Operations,61530.37546,male,Denver,4
+5925,Sales Operations,61530.37546,male,Denver,4
+3451,LMNOP Division Operators,56698.55122,male,Seattle,11.33
+3276,IT,99261.99831,male,Chicago,5.322135322
+4020,LMNOP Division Operators,52387.90466,male,Seattle,13.82
+2451,Facility Services,25075,male,Miami,0
+5625,XYZ Division,66560.64,male,Seattle,6.42
+4781,Research and Development,295565,male,Palo Alto,21.4
+5870,Sales Operations,90547.8159,male,New York,11
+2285,Call Center,114476.81,male,New York,32.41063782
+2545,Finance,97294.46328,male,Seattle,9.935557374
+4719,Research and Development,62803.70766,male,Los Angeles,7.91
+2320,Call Center,124415.8,male,New York,24.27050355
+4913,Sales Operations,103379.7147,male,Los Angeles,3.91
+5893,Sales Operations,,male,Los Angeles,3.91
+5939,Sales Operations,103379.7147,male,Los Angeles,3.91
+5686,XYZ Division,66562.56,male,Austin,17.21
+1720,Buyers,77913.17782,male,Chicago,9.879394356
+2480,Facility Services,38114,male,Chicago,3
+2472,Facility Services,35264.66898,male,Los Angeles,12
+1815,Buyers,98497.4302,male,Chicago,19.13754014
+1801,Buyers,101717,male,Chicago,8.704202028
+2441,Engineering,149767.094,male,Denver,11
+4320,Production,72117,male,Austin,4.42
+4628,QRS Division,67184.64,male,Austin,22.84
+3229,IT,129220.2796,male,Chicago,4.060762399
+4270,Production,77117,male,Austin,2.17
+4618,QRS Division,133265.28,male,Austin,12.09
+3212,IT,112092.9265,male,Chicago,24.10955897
+4655,QRS Division,57630.144,male,Austin,16.18
+2689,Finance,111815.0619,male,Seattle,6.038383731
+2232,Call Center,104324.47,male,New York,7.859841174
+2794,Finance,103087,male,Seattle,10.13280447
+5738,XYZ Division,67391.808,male,Seattle,4.16
+1971,Buyers,124973.4811,male,Chicago,10.04646432
+1941,Buyers,119655.111,male,Chicago,11.60531837
+5268,Warehouse,74957.08454,male,Ithaca,21.70298683
+1724,Buyers,100180,male,Chicago,44.00009428
+3956,LMNOP Division Operators,57287.31362,male,Austin,3.25
+1683,Administrative Support,45470.18267,male,Seattle,15.81504502
+1449,ABC Division,79450,male,Pittsburgh,5.77
+2721,Finance,101172,male,Austin,18.13240982
+1372,ABC Division,57650.208,male,Pittsburgh,22.18
+4304,Production,77243,male,Austin,0.9
+4844,Sales Support,58337,male,Houston,9
+4004,LMNOP Division Operators,50050.40775,male,Seattle,3.63
+5499,XYZ Division,56410.6752,male,Austin,8.42
+5653,XYZ Division,54783.168,male,Austin,19.56
+4315,Production,101086,male,Austin,0.83
+4492,QRS Division,65558.592,male,Austin,16.5
+1486,ABC Division,98149.37088,male,Pittsburgh,7.68
+4776,Research and Development,188764.6,male,Los Angeles,15
+3772,LMNOP Division Operators,57023.77916,male,Seattle,0.9
+2083,Call Center,60607.24,male,New York,18.57249212
+33088,IT,125120.1397,male,Austin,16.10581819
+330883,IT,124907.8583,male,Austin,16.10581819
+2729,Finance,104578.5383,male,Austin,5.611684589
+1853,Buyers,105223.7955,male,Chicago,12.61672357
+1923,Buyers,117669.3585,male,Chicago,19.71980249
+2240,Call Center,106448.97,male,New York,12.36200974
+3891,LMNOP Division Operators,39910.43378,male,Seattle,10.54
+5555,XYZ Division,71560.896,male,Austin,18.89
+5779,XYZ Division,68657.28,male,Seattle,2.31
+1867,Buyers,107618.6929,male,Chicago,2.545690824
+5785,XYZ Division,149425.92,male,Austin,6.71
+3887,LMNOP Division Operators,44184.83036,male,Seattle,28.83
+5638,XYZ Division,65148.864,male,Seattle,12.91
+1733,Buyers,103930,male,Chicago,16.64264974
+4323,Production,74556,male,Austin,27.73
+3978,LMNOP Division Operators,,male,Seattle,6.07
+4080,LMNOP Division Operators,66667.24393,male,Austin,7.2
+1814,Buyers,98262.7741,male,Chicago,18.0714391
+1931,Buyers,118693.0274,male,Chicago,21.9762316
+2672,Finance,101200,male,Austin,14.23932938
+2218,Call Center,99541.31,male,New York,20.30322259
+2187,Call Center,93899.52,male,New York,6.163332187
+3839,LMNOP Division Operators,60905.23851,male,Seattle,24.93
+3364,LMNOP Division Operators,78088.4459,male,Seattle,10.02
+3400,LMNOP Division Operators,44830.00311,male,Austin,13.84
+4255,Production,98020,male,Austin,15.19
+3381,LMNOP Division Operators,50760.43996,male,Seattle,22.05
+3373,LMNOP Division Operators,54298.21181,male,Austin,13.1
+3831,LMNOP Division Operators,56115.70262,male,Austin,4.23
+1375,ABC Division,64898.592,male,Pittsburgh,30.06
+2746,Finance,102505.065,male,Austin,15.24863464
+3915,LMNOP Division Operators,54003.71454,male,Austin,16.18
+4494,QRS Division,71543.04,male,Austin,20.4
+5291,Warehouse,59105.23439,male,Ithaca,17.26931744
+2298,Call Center,117583.22,male,New York,22.58741538
+1511,ABC Division,82651,male,Pittsburgh,14.09
+3918,LMNOP Division Operators,65721.81593,male,Seattle,13.67
+1416,ABC Division,77620.98432,male,Pittsburgh,2.85
+1666,Administrative Support,43167.53773,male,Seattle,8.527223874
+1827,Buyers,101310.4569,male,Chicago,7.90384006
+1804,Buyers,102855,male,Chicago,8.699776613
+2902,Finance,104163.5785,male,Seattle,15.35356268
+1569,ABC Division,259623.936,male,Pittsburgh,26.19
+5679,XYZ Division,64451.904,male,Seattle,5.35
+3219,IT,99275.7683,male,Chicago,20.0428783
+4006,LMNOP Division Operators,58139.13327,male,Seattle,14.98
+3916,LMNOP Division Operators,64700.04086,male,Seattle,12.7
+5869,Sales Operations,84223.18726,male,Miami,2
+1969,Buyers,124701.0292,male,Chicago,22.517919
+5695,XYZ Division,71792.64,male,Austin,12.58
+1487,ABC Division,66726.528,male,Pittsburgh,24.68
+4626,QRS Division,132800.64,male,Austin,2.13
+3525,LMNOP Division Operators,72304.50322,male,Austin,20.65
+1692,Administrative Support,49127.59826,male,Seattle,20.89741596
+4307,Production,70442,male,Austin,19.53
+3828,LMNOP Division Operators,58377.18482,male,Austin,18.41
+1659,Administrative Support,42172.11847,male,Seattle,12.96309465
+3491,LMNOP Division Operators,80326.52693,male,Seattle,8.04
+5751,XYZ Division,68657.28,male,Seattle,11.55
+1688,Administrative Support,47323.14861,male,Seattle,6.897825747
+1513,ABC Division,101965,male,Pittsburgh,12.46
+1884,Buyers,110434.8051,male,Chicago,1.665777517
+1993,Buyers,128884.2992,male,Chicago,16.50033731
+4294,Production,83359,male,Austin,15.36
+1677,Administrative Support,44524.24597,male,Seattle,4.664618246
+3388,LMNOP Division Operators,62990.47183,male,Seattle,15.92
+1872,Buyers,108772.6473,male,Austin,4.965896266
+3295,IT,116560.0793,male,Chicago,8.837204934
+3804,LMNOP Division Operators,48244.11764,male,Austin,5.59
+4274,Production,79369,male,Austin,9.85
+3405,LMNOP Division Operators,58689.88485,male,Austin,15.87
+1685,Administrative Support,45969.27413,male,Seattle,8.960266366
+3037,IT,136777.2005,male,Austin,12.25959891
+5683,XYZ Division,64346.304,male,Seattle,2.46
+1840,Buyers,103668.0822,male,Chicago,3.422456087
+2096,Call Center,68235.48,male,New York,3.845269854
+2177,Call Center,91100.06,male,New York,25.91920258
+3458,LMNOP Division Operators,54783.28976,male,Seattle,13.46
+3179,IT,94296.86412,male,Chicago,5.748179247
+3975,LMNOP Division Operators,67213.26748,male,Seattle,3.08
+1949,Buyers,121003.7828,male,Chicago,11.42408687
+2796,Finance,100608,male,Seattle,0.793965904
+4600,QRS Division,64443.456,male,Austin,1.85
+2140,Call Center,80750.27,male,New York,21.66894687
+5784,XYZ Division,68657.28,male,Seattle,12.33
+2898,Finance,104431.6713,male,Seattle,12.71759682
+5306,Warehouse,88247.56134,male,Ithaca,26.26724128
+1730,Buyers,102077,male,Austin,14.86793193
+5793,XYZ Division,174055.68,male,Seattle,6.42
+3175,IT,,male,Austin,3.139289604
+1344,ABC Division,62192.064,male,Pittsburgh,6.29
+4489,QRS Division,59026.176,male,Austin,20.15
+4370,Production,141248.64,male,Austin,9.08
+4763,Research and Development,122199.96,male,Los Angeles,8.25
+3049,IT,112081.9445,male,Chicago,19.35221547
+3306,IT,98249.47367,male,Chicago,22.69674337
+5782,XYZ Division,139021.44,male,Austin,17.59
+5769,XYZ Division,59761.152,male,Seattle,15.64
+4043,LMNOP Division Operators,57007.4003,male,Seattle,2.72
+5666,XYZ Division,71596.8,male,Seattle,8.45
+3223,IT,134991.8271,male,Chicago,5.832002619
+4635,QRS Division,62627.136,male,Austin,6.32
+2861,Finance,102441,male,Seattle,27.11687494
+5673,XYZ Division,69940.992,male,Seattle,25.34
+1690,Administrative Support,47850.52687,male,Seattle,36.14364687
+2128,Call Center,76418.19,male,New York,14.35313014
+1656,Administrative Support,41891.85406,male,Austin,20.65202384
+1476,ABC Division,70239.6288,male,Pittsburgh,4.6
+2265,Call Center,111853.3,male,New York,9.421323693
+4502,QRS Division,71607.36,male,Austin,32.98
+3058,IT,111479.3096,male,Austin,12.76664276
+2658,Finance,146115.8599,male,Austin,28.42419614
+1500,ABC Division,63473.54112,male,Pittsburgh,24.79
+3453,LMNOP Division Operators,63393.7925,male,Seattle,7.15
+4508,QRS Division,77528.9472,male,Austin,5.3
+4254,Production,84709,male,Austin,3.24
+2860,Finance,103126,male,Seattle,14.18932892
+2718,Finance,99520.48206,male,Austin,18.60032341
+4299,Production,99994,male,Austin,16.7
+2745,Finance,102514.06,male,Austin,0.522702473
+2992,IT,95557.24868,male,Chicago,2.228371107
+3444,LMNOP Division Operators,59779.09021,male,Seattle,0.83
+3805,LMNOP Division Operators,71156.67844,male,Seattle,10.22
+1394,ABC Division,66939.84,male,Pittsburgh,11.21
+2112,Call Center,72806.59,male,New York,16.17149615
+2236,Call Center,104931.04,male,New York,9.652664825
+5774,XYZ Division,71894.592,male,Seattle,12.62
+3860,LMNOP Division Operators,37800.3908,male,Seattle,5.72
+5767,XYZ Division,69421.44,male,Seattle,9.99
+5694,XYZ Division,71043.456,male,Seattle,3.04
+5299,Warehouse,70350.24398,male,Ithaca,24.88606348
+4283,Production,100443,male,Austin,11.62
+1572,ABC Division,254645.952,male,Pittsburgh,32.22
+2589,Finance,115893.0472,male,Seattle,16.28747073
+1435,ABC Division,103010,male,Pittsburgh,19.29
+1860,Buyers,106617.5471,male,Austin,1.002496338
+5628,XYZ Division,101223,male,Seattle,21.25
+1910,Buyers,114700.2294,male,Chicago,13.26147734
+3895,LMNOP Division Operators,,male,Austin,9.37
+5717,XYZ Division,139459.2,male,Austin,14.33
+1734,Buyers,100781,male,Chicago,8.005378792
+4007,LMNOP Division Operators,64929.97955,male,Seattle,0.73
+1398,ABC Division,70175.424,male,Pittsburgh,14.3
+3825,LMNOP Division Operators,53515.21869,male,Seattle,6.94
+2181,Call Center,92049.17,male,New York,3.727914437
+4920,Sales Operations,78602.74355,male,Denver,3
+5900,Sales Operations,78602.74355,male,Denver,3
+5946,Sales Operations,78602.74355,male,Denver,3
+2149,Call Center,82871.67,male,New York,23.76444422
+3967,LMNOP Division Operators,67342.43822,male,Seattle,1.94
+5052,Technicians,93038.56209,male,Houston,7
+4269,Production,100139,male,Austin,7.67
+5837,Sales Operations,57117.05741,male,Denver,1
+4011,LMNOP Division Operators,64394.31692,male,Austin,34.75
+5242,Warehouse Leadership,96439.64518,male,Ithaca,11.8855697
+5668,XYZ Division,70291.584,male,Austin,6.93
+1399,ABC Division,68657.28,male,Pittsburgh,23.19
+4579,QRS Division,136452.48,male,Austin,2.39
+1977,Buyers,126896.3545,male,Chicago,2.38888206
+2727,Finance,104627.7175,male,Seattle,2.081568437
+4777,Research and Development,199960.966,male,Los Angeles,13.61
+5281,Warehouse,63489.94609,male,Ithaca,23.39971032
+1882,Buyers,110080.5506,male,Austin,9.929636962
+1919,Buyers,117325.365,male,Chicago,18.2229899
+4248,Production,103537,male,Austin,12.08
+1512,ABC Division,103215,male,Pittsburgh,14.95
+3040,IT,131858.435,male,Chicago,6.94943509
+4030,LMNOP Division Operators,59111.96869,male,Seattle,11.18
+3480,LMNOP Division Operators,71775.73028,male,Seattle,9.83
+1507,ABC Division,81503,male,Pittsburgh,11.2
+4646,QRS Division,100058.88,male,Austin,16.63
+1942,Buyers,119661.5413,male,Chicago,8.063435353
+2994,IT,104086.49,male,Chicago,20.54591858
+3056,IT,106020.2642,male,Austin,18.55500185
+2950,HR,100507,male,Santa Cruz,29
+3857,LMNOP Division Operators,47982.35605,male,Seattle,8.62
+3285,IT,140545.9867,male,Chicago,12.78710325
+3272,IT,118199.3404,male,Austin,18.77605132
+3367,LMNOP Division Operators,57616.03782,male,Austin,21.55
+3803,LMNOP Division Operators,69881.58355,male,Austin,3.57
+3204,IT,124896.6378,male,Chicago,16.88366427
+5654,XYZ Division,55387.2,male,Seattle,7.2
+1932,Buyers,118762.7373,male,Chicago,1.484748295
+2311,Call Center,121875.25,male,New York,11.24519309
+2521,Finance,101934,male,Seattle,17.63831924
+2116,Call Center,74189.06,male,New York,8.251033193
+3140,IT,133624.2991,male,Chicago,12.57732942
+4292,Production,80354,male,Austin,6.65
+5723,XYZ Division,103977,male,Seattle,18.03
+3930,LMNOP Division Operators,50813.60004,male,Seattle,4.08
+4025,LMNOP Division Operators,68088.17525,male,Seattle,11.19
+4606,QRS Division,55699.776,male,Austin,10.19
+4731,Research and Development,59019.61911,male,Los Angeles,11.44
+3850,LMNOP Division Operators,48900.67753,male,Seattle,15.46
+1421,ABC Division,97954,male,Pittsburgh,18.37
+1472,ABC Division,61578.7392,male,Pittsburgh,1.17
+4331,Production,72058,male,Austin,1.35
+3988,LMNOP Division Operators,75482.27617,male,Austin,18.67
+2936,Finance,48586,male,Seattle,22.4295959
+3855,LMNOP Division Operators,69467.51403,male,Seattle,8.42
+3487,LMNOP Division Operators,57695.92557,male,Austin,4.21
+5229,Warehouse,81204.45736,male,Ithaca,7.338701993
+5075,Technicians,,male,Los Angeles,8.78
+1675,Administrative Support,44272.41032,male,Seattle,18.28676035
+3854,LMNOP Division Operators,49443.73686,male,Seattle,8.62
+1957,Buyers,122636.7473,male,Chicago,20.67805309
+1899,Buyers,113101.163,male,Chicago,17.28340611
+4496,QRS Division,103768,male,Austin,9.12
+3445,LMNOP Division Operators,61221.72704,male,Austin,2.28
+4058,LMNOP Division Operators,57322.72717,male,Seattle,13.38
+4276,Production,101752,male,Austin,10.65
+1838,Buyers,103464.7764,male,Chicago,4.539216047
+5677,XYZ Division,69974.4,male,Austin,2.59
+1878,Buyers,109591.6116,male,Austin,10.33957702
+3946,LMNOP Division Operators,53188.69627,male,Seattle,1.52
+3366,LMNOP Division Operators,56849.09595,male,Seattle,5.36
+4498,QRS Division,66247.104,male,Austin,27.03
+4166,LMNOP Division Operators,55740.74135,male,Austin,12.39
+2124,Call Center,75865.24,male,New York,14.8983358
+3935,LMNOP Division Operators,54518.5428,male,Seattle,18.35
+3169,IT,124121.2297,male,Chicago,22.27789022
+4596,QRS Division,143160.96,male,Austin,27.2
+5773,XYZ Division,64511.04,male,Austin,26.39
+2330,Call Center,128251,male,New York,5.184926961
+4265,Production,71150,male,Austin,9.59
+1943,Buyers,119920.5547,male,Chicago,14.32371122
+1668,Administrative Support,43505.36786,male,Seattle,17.94282936
+2167,Call Center,88160.38,male,New York,10.59328792
+5264,Warehouse,70443.70565,male,Ithaca,13.58519866
+3022,IT,131315.1601,male,Austin,4.357107981
+3185,IT,118792.1258,male,Chicago,21.17622271
+2130,Call Center,77454.83,male,New York,22.68755998
+4012,LMNOP Division Operators,33877.62436,male,Seattle,16.41
+3808,LMNOP Division Operators,40088.48189,male,Austin,7.84
+3872,LMNOP Division Operators,55323.74016,male,Austin,14.48
+4352,Production,103531,male,Austin,1.2
+4246,Production,101354,male,Austin,13.97
+3835,LMNOP Division Operators,69909.49078,male,Austin,20.36
+2732,Finance,103952.5087,male,Austin,17.1286765
+3886,LMNOP Division Operators,70470.5874,male,Austin,7.98
+1925,Buyers,117935.9883,male,Chicago,19.18280235
+4449,Production,55357.2096,male,Austin,4.98
+1947,Buyers,120434.4324,male,Chicago,7.422432298
+2766,Finance,99638.56449,male,Seattle,3.407099462
+5691,XYZ Division,68657.28,male,Seattle,22.49
+1940,Buyers,119525.8033,male,Chicago,3.738766138
+2384,Engineering,111609.5497,male,San Francisco,23
+2120,Call Center,74979.93,male,New York,20.63360693
+2145,Call Center,81422.48,male,New York,13.8138065
+4467,Production,103468.8,male,Austin,10.58
+3193,IT,98187.68146,male,Chicago,4.113127544
+5658,XYZ Division,54012.288,male,Austin,5.55
+3986,LMNOP Division Operators,56539.07977,male,Seattle,4.15
+2686,Finance,113087.6495,male,Seattle,12.63865182
+4244,Production,79391,male,Austin,21.81
+5644,XYZ Division,63469.824,male,Seattle,5.78
+3448,LMNOP Division Operators,53551.85593,male,Seattle,18.69
+3113,IT,126166.3858,male,Chicago,15.80804599
+5636,XYZ Division,64489.92,male,Seattle,17.81
+2911,Finance,102651.0735,male,Seattle,18.27100374
+5752,XYZ Division,64255.488,male,Seattle,12.22
+5678,XYZ Division,57158.3232,male,Seattle,25.9
+4236,Production,77791.37626,male,Austin,21.58
+3760,LMNOP Division Operators,69838.89794,male,Seattle,13.33
+1343,ABC Division,77559.96864,male,Pittsburgh,4.24
+3550,LMNOP Division Operators,65523.95781,male,Seattle,13.32
+5275,Warehouse Leadership,96384.06348,male,Ithaca,17.68849811
+3447,LMNOP Division Operators,61317.41139,male,Seattle,9.81
+1918,Buyers,117315.7459,male,Chicago,7.349516199
+5230,Warehouse,86067.0853,male,Ithaca,3.520248744
+3866,LMNOP Division Operators,48214.27088,male,Seattle,4.81
+5778,XYZ Division,56823.36,male,Seattle,18.42
+4525,QRS Division,61520.448,male,Austin,11.55
+3826,LMNOP Division Operators,71209.88285,male,Seattle,6.37
+2878,Finance,,male,Austin,2.577227986
+5288,Warehouse,64072.57602,male,Ithaca,1.507861001
+1900,Buyers,113307.3118,male,Chicago,0.321214742
+2111,Call Center,72727.28,male,New York,3.533392295
+5239,Warehouse Leadership,93379.53719,male,Ithaca,3.4304093
+2114,Call Center,73977.13,male,New York,9.894653837
+3255,IT,112115.4808,male,Chicago,12.58875669
+4497,QRS Division,59218.7904,male,Austin,10.97
+3170,IT,140008.9938,male,Chicago,6.962485589
+4514,QRS Division,66857.472,male,Austin,13.07
+3164,IT,121244.7101,male,Chicago,7.221240291
+2869,Finance,116517.1808,male,Seattle,7.589864946
+2014,Buyers,132195.4927,male,Chicago,15.92501384
+2784,Finance,102637,male,Seattle,20.39606585
+5689,XYZ Division,63260.736,male,Seattle,5.16
+5670,XYZ Division,68206.08,male,Austin,14.78
+1491,ABC Division,100559,male,Pittsburgh,17.37
+3515,LMNOP Division Operators,64374.67105,male,Austin,7.15
+3034,IT,112310.6738,male,Chicago,12.11820688
+1679,Administrative Support,44652.193,male,Seattle,9.694908008
+3904,LMNOP Division Operators,79233.73053,male,Seattle,21.94
+3039,IT,118443.8451,male,Chicago,7.193581923
+2030,Buyers,136423.199,male,Chicago,2.723013121
+3489,LMNOP Division Operators,68454.65963,male,Seattle,23.82
+5764,XYZ Division,68657.28,male,Seattle,20.93
+2691,Finance,111480.2994,male,Seattle,5.747954979
+4357,Production,104000,male,Austin,13.66
+1883,Buyers,110358.4058,male,Chicago,14.03520637
+3426,LMNOP Division Operators,56035.42727,male,Seattle,11.77
+1338,ABC Division,68329.536,male,Pittsburgh,25.67
+4759,Research and Development,99031.82404,male,Los Angeles,14.2
+2238,Call Center,105183.19,male,New York,9.597766352
+2748,Finance,102299.6304,male,Seattle,0.774917068
+2312,Call Center,122057.24,male,New York,13.47971923
+5698,XYZ Division,65632.512,male,Seattle,13.53
+2137,Call Center,79854.1,male,New York,9.645451707
+5060,Technicians,111216.4326,male,Miami,7
+5122,Technicians,184513.6823,male,Palo Alto,13
+3422,LMNOP Division Operators,52817.46395,male,Seattle,2.71
+4296,Production,103303,male,Austin,18.65
+2283,Call Center,114261.2,male,New York,19.73159749
+2062,Buyers,177452.2972,male,Chicago,20.9749051
+3092,IT,111555.8852,male,Chicago,6.974123002
+1936,Buyers,119227.0302,male,Austin,2.358462887
+5232,Warehouse,75348.1452,male,Ithaca,9.028797097
+5753,XYZ Division,55856.064,male,Seattle,22.29
+1432,ABC Division,81120,male,Pittsburgh,15.74
+3948,LMNOP Division Operators,61188.44523,male,Seattle,29.38
+3047,IT,121811.2776,male,Chicago,0.377375467
+2138,Call Center,80196.11,male,New York,1.415712758
+3005,IT,108054.1377,male,Chicago,3.469661468
+2021,Buyers,134788.231,male,Chicago,22.54286727
+3484,LMNOP Division Operators,61928.02978,male,Seattle,31.51
+3281,IT,114531.4651,male,Chicago,6.557249183
+2056,Buyers,161980.4983,male,Chicago,25.41899904
+4756,Research and Development,115489.8144,male,Los Angeles,4
+5290,Warehouse,59219.3938,male,Ithaca,28.29785561
+1671,Administrative Support,,male,Seattle,6.132943356
+1672,Administrative Support,43750.00866,male,Austin,29.7967561
+4775,Research and Development,218688.6489,male,Los Angeles,13
+3135,IT,121300.8963,male,Chicago,30.44834025
+4324,Production,102686,male,Austin,15.19
+1997,Buyers,129280.1359,male,Chicago,2.267016211
+4358,Production,97978,male,Austin,9.82
+4479,Production,62737.55136,male,Austin,32.52
+1368,ABC Division,68657.28,male,Pittsburgh,7.97
+5645,XYZ Division,69379.2,male,Austin,1.54
+1930,Buyers,118686.2006,male,Chicago,8.048234829
+4577,QRS Division,142565.76,male,Austin,7.72
+3178,IT,121938.0338,male,Austin,6.228645965
+4640,QRS Division,102014,male,Austin,29.6
+3078,IT,121780.0805,male,Chicago,3.803047135
+4523,QRS Division,59218.7904,male,Austin,30.96
+2882,Finance,112483.8173,male,Seattle,20.06170554
+1921,Buyers,117397.0112,male,Chicago,10.50702316
+2309,Call Center,121080.97,male,New York,5.762423828
+4243,Production,80990,male,Austin,4.61
+1570,ABC Division,242577.984,male,Pittsburgh,25.57
+1431,ABC Division,62124.22656,male,Pittsburgh,2.99
+3492,LMNOP Division Operators,54516.73938,male,Seattle,14.83
+4837,Sales Support,41282,male,Denver,2.71
+3014,IT,113024.8207,male,Chicago,9.762624461
+1826,Buyers,101052.5307,male,Austin,17.50222513
+2115,Call Center,74110.52,male,New York,14.98951858
+4774,Research and Development,181041.5,male,Los Angeles,11
+5770,XYZ Division,71225.088,male,Seattle,15.77
+1406,ABC Division,69727.68,male,Pittsburgh,19.1
+2722,Finance,103449,male,Seattle,25.48419561
+2121,Call Center,75199.41,male,New York,2.742934527
+3875,LMNOP Division Operators,58515.05428,male,Seattle,2.9
+4513,QRS Division,59214.144,male,Austin,18.18
+1348,ABC Division,109412.16,male,Pittsburgh,5.96
+1373,ABC Division,65769.792,male,Pittsburgh,7.06
+3442,LMNOP Division Operators,49455.46453,male,Seattle,21.95
+1846,Buyers,104242.7498,male,Chicago,14.74642503
+4633,QRS Division,62230.08,male,Austin,3.41
+3991,LMNOP Division Operators,75266.85926,male,Seattle,13.93
+3115,IT,107580.9839,male,Chicago,12.85642964
+4376,Production,97884.9696,male,Austin,9.31
+4592,QRS Division,68166.912,male,Austin,28.93
+3404,LMNOP Division Operators,47930.10177,male,Seattle,22.67
+4242,Production,56035.584,male,Austin,0.49
+3748,LMNOP Division Operators,56850.37343,male,Seattle,20.47
+2190,Call Center,94729.13,male,New York,20.45154384
+3026,IT,120250.7197,male,Chicago,14.80715752
+1374,ABC Division,61536.9216,male,Pittsburgh,5.22
+5730,XYZ Division,62354.688,male,Seattle,16.95
+2142,Call Center,80864.69,male,New York,6.823967373
+3797,LMNOP Division Operators,67571.94952,male,Seattle,10.53
+2194,Call Center,95323.78,male,New York,5.789209181
+2065,Buyers,189395.642,male,Austin,21.93816842
+4045,LMNOP Division Operators,55978.42876,male,Seattle,22.86
+2935,Finance,44452,male,Seattle,22.24663229
+1862,Buyers,106841.7497,male,Chicago,26.27157237
+1729,Buyers,100605,male,Chicago,3.09959246
+3434,LMNOP Division Operators,49048.58055,male,Seattle,16
+2034,Buyers,138058.8046,male,Chicago,5.918159774
+5714,XYZ Division,77630.02368,male,Seattle,12.38
+2131,Call Center,77770.44,male,New York,14.64156787
+3876,LMNOP Division Operators,58508.88025,male,Seattle,8.48
+3957,LMNOP Division Operators,,male,Austin,14.7
+4019,LMNOP Division Operators,53670.67532,male,Austin,9.37
+4830,Sales Support,44859,male,New York,2
+3877,LMNOP Division Operators,61324.72637,male,Seattle,5.07
+5722,XYZ Division,100376,male,Austin,13.01
+5246,Warehouse Leadership,94883.05394,male,Ithaca,8.607259783
+3842,LMNOP Division Operators,59138.42249,male,Austin,17.22
+2001,Buyers,130068.1478,male,Chicago,6.314298019
+5665,XYZ Division,68756.16,male,Seattle,0.64
+1337,ABC Division,78050.35392,male,Pittsburgh,5.66
+5674,XYZ Division,54571.968,male,Seattle,3.29
+5845,Sales Operations,96489.66885,male,Denver,1
+4495,QRS Division,100904,male,Austin,11.12
+5310,Warehouse,56238.84917,male,Ithaca,16.09573244
+1345,ABC Division,77078.62272,male,Pittsburgh,20.47
+3813,LMNOP Division Operators,91993.83234,male,Seattle,7.12
+3863,LMNOP Division Operators,64491.0966,male,Austin,11.77
+3397,LMNOP Division Operators,55145.9644,male,Austin,2.13
+3787,LMNOP Division Operators,61526.80892,male,Seattle,21.29
+5828,XYZ Division,56067.84,male,Seattle,46.14
+4240,Production,68343.8976,male,Austin,0.7
+1848,Buyers,104458.4211,male,Chicago,4.649491091
+1684,Administrative Support,45506.87235,male,Seattle,6.851344695
+2341,Call Center,139007.39,male,New York,9.447939057
+3822,LMNOP Division Operators,71498.62871,male,Seattle,4.83
+4339,Production,100421,male,Austin,10.82
+5258,Warehouse,71049.26521,male,Ithaca,30.40642045
+2757,Finance,100837.1371,male,Seattle,1.577580007
+5762,XYZ Division,52732.416,male,Austin,6.95
+3943,LMNOP Division Operators,47926.46248,male,Seattle,29.84
+5792,XYZ Division,166936.32,male,Austin,6.72
+1699,Administrative Support,53555.81041,male,Austin,24.72062954
+1972,Buyers,125383.4606,male,Chicago,9.87738607
+3882,LMNOP Division Operators,62623.28616,male,Seattle,0.72
+2250,Call Center,108530.78,male,New York,2.099704799
+4660,QRS Division,56299.584,male,Austin,19.63
+3239,IT,101279.0699,male,Chicago,33.41451645
+3507,LMNOP Division Operators,85145.81757,male,Austin,9.49
+2294,Call Center,116357.08,male,New York,3.608767641
+5236,Warehouse Leadership,95391.29608,male,Ithaca,16.7622249
+4040,LMNOP Division Operators,72669.31972,male,Seattle,3.01
+4342,Production,82750,male,Austin,23.91
+3462,LMNOP Division Operators,65821.96509,male,Austin,23.38
+1890,Buyers,111584.8831,male,Chicago,2.089269331
+2296,Call Center,117032.4,male,New York,24.42920186
+2270,Call Center,112472.34,male,New York,14.36903781
+1412,ABC Division,71013.2544,male,Pittsburgh,1.88
+2127,Call Center,76383.9,male,New York,13.38723904
+2354,Call Center,152678.26,male,New York,13.2675087
+3425,LMNOP Division Operators,61822.6522,male,Austin,1.81
+2445,Engineering,123872.9044,male,San Francisco,12.9
+1821,Buyers,99538.8463,male,Austin,5.697175728
+3568,LMNOP Division Operators,67737.02576,male,Austin,6.46
+5309,Warehouse,90010.4792,male,Ithaca,11.65197208
+3814,LMNOP Division Operators,54235.4682,male,Austin,20.5
+3470,LMNOP Division Operators,52469.87864,male,Seattle,3.71
+2326,Call Center,126853.75,male,New York,15.02289704
+3874,LMNOP Division Operators,46950.64327,male,Seattle,27.06
+1926,Buyers,118253.3135,male,Chicago,25.71919979
+3356,LMNOP Division Operators,41876.3763,male,Seattle,1.99
+1496,ABC Division,70109.952,male,Pittsburgh,17.61
+2996,IT,129554.46,male,Chicago,10.37306827
+3922,LMNOP Division Operators,64184.33866,male,Seattle,7.96
+2750,Finance,101896.4871,male,Seattle,8.487231453
+4263,Production,103152,male,Austin,11.37
+3818,LMNOP Division Operators,62849.14229,male,Austin,31.16
+5479,Warehouse Leadership,100207.918,male,Ithaca,22.289084
+3292,IT,119809.634,male,Austin,25.14617417
+4234,Production,60798.144,male,Austin,13.99
+3897,LMNOP Division Operators,62777.2295,male,Austin,14.59
+2518,Finance,98538.15358,male,Seattle,35.3162587
+4061,LMNOP Division Operators,,male,Seattle,22.92
+3838,LMNOP Division Operators,69062.24368,male,Austin,3.03
+1844,Buyers,104059.0506,male,Chicago,20.50227219
+4709,Research and Development,62061.99119,male,Ithaca,1.9
+2416,Engineering,125447.7762,male,San Francisco,31
+2747,Finance,102325.381,male,Seattle,36.27609495
+5712,XYZ Division,59340.864,male,Seattle,2.67
+3878,LMNOP Division Operators,63387.45933,male,Seattle,20.27
+3427,LMNOP Division Operators,69467.1699,male,Seattle,7.83
+4584,QRS Division,66576,male,Austin,11.71
+4247,Production,71276,male,Austin,5.83
+3811,LMNOP Division Operators,61309.221,male,Seattle,17.23
+4645,QRS Division,68265.6,male,Austin,30.03
+3913,LMNOP Division Operators,36698.19964,male,Seattle,6.87
+3781,LMNOP Division Operators,58570.35639,male,Austin,6.26
+5735,XYZ Division,68716.032,male,Seattle,34.26
+1812,Buyers,97263.171,male,Chicago,12.76352706
+2291,Call Center,115529.45,male,New York,10.85569441
+2588,Finance,116696.5036,male,Austin,9.533608107
+4383,Production,101298,male,Austin,28.23
+3271,IT,129231.0949,male,Chicago,2.261693334
+4771,Research and Development,222500.4536,male,Los Angeles,10.56
+3168,IT,101248.2728,male,Chicago,10.33213456
+2838,Finance,102697,male,Austin,34.97592225
+3880,LMNOP Division Operators,57710.40201,male,Seattle,15.15
+1567,ABC Division,297946.176,male,Pittsburgh,20.24
+2205,Call Center,97398.56,male,New York,9.121511811
+2085,Call Center,61019.13,male,New York,12.53956855
+2896,Finance,104787.2346,male,Seattle,11.50077723
+5249,Warehouse Leadership,96635.38558,male,Ithaca,3.719065304
+2119,Call Center,74968.57,male,New York,11.41082877
+3468,LMNOP Division Operators,76402.10317,male,Seattle,20.02
+3784,LMNOP Division Operators,48674.159,male,Austin,9.83
+3188,IT,108530.7141,male,Chicago,17.81059942
+3408,LMNOP Division Operators,68699.76502,male,Austin,16.07
+2688,Finance,111985.9356,male,Austin,23.67396172
+2339,Call Center,134512.74,male,New York,1.745958157
+1469,ABC Division,85021,male,Pittsburgh,13.02
+2290,Call Center,115450.11,male,New York,30.25605622
+3121,IT,134292.7479,male,Chicago,7.260656453
+2297,Call Center,117072.94,male,New York,10.25838127
+1998,Buyers,129494.8332,male,Chicago,21.56163393
+3809,LMNOP Division Operators,72198.07436,male,Seattle,5.06
+5314,Warehouse,86790.98801,male,Ithaca,3.567631641
+1691,Administrative Support,48723.26547,male,Seattle,7.498889504
+5747,XYZ Division,62622.912,male,Austin,21.6
+2003,Buyers,130487.7192,male,Austin,5.923306857
+2910,Finance,102773.1733,male,Seattle,27.18981219
+4070,LMNOP Division Operators,65305.11764,male,Seattle,2.89
+4066,LMNOP Division Operators,54245.36208,male,Seattle,12.33
+1829,Buyers,101587.8062,male,Chicago,29.07967826
+5261,Warehouse,90047.40521,male,Ithaca,2.163901233
+4637,QRS Division,52115.712,male,Austin,13.02
+4580,QRS Division,100739,male,Austin,3.26
+3393,LMNOP Division Operators,51581.6497,male,Austin,17.71
+2456,Facility Services,29087,male,Miami,1
+2465,Facility Services,34102,male,Los Angeles,3
+1859,Buyers,106467.376,male,Chicago,15.67015549
+4338,Production,78706,male,Austin,23.42
+5727,XYZ Division,55663.872,male,Seattle,21.86
+3278,IT,107602.113,male,Austin,22.63210029
+3969,LMNOP Division Operators,68158.02716,male,Seattle,3.96
+4272,Production,77424,male,Austin,5
+3296,IT,149388.8429,male,Chicago,19.91855584
+5664,XYZ Division,51241.344,male,Seattle,17.8
+5685,XYZ Division,71892.48,male,Seattle,1.18
+1868,Buyers,,male,Chicago,2.651505487
+5292,Warehouse,67633.15314,male,Ithaca,21.80571461
+5637,XYZ Division,63904.896,male,Austin,27.11
+4233,Production,63122.27328,male,Austin,3.63
+3520,LMNOP Division Operators,74765.25719,male,Austin,11.65
+3305,IT,119389.697,male,Chicago,13.61495782
+2453,Facility Services,27081,male,Los Angeles,0
+5815,XYZ Division,177772.8,male,Seattle,30.49
+1386,ABC Division,62854.176,male,Pittsburgh,4.7
+1667,Administrative Support,43446.40012,male,Seattle,0.716528723
+3374,LMNOP Division Operators,52797.80868,male,Seattle,7.55
+4044,LMNOP Division Operators,79058.13456,male,Seattle,14.17
+4767,Research and Development,192986.0766,male,Los Angeles,15.9
+4765,Research and Development,128384,male,Los Angeles,14.5
+1895,Buyers,112227.9101,male,Chicago,26.95305915
+5720,XYZ Division,70785.792,male,Seattle,33.23
+4346,Production,97698,male,Austin,16.14
+3867,LMNOP Division Operators,64127.12484,male,Seattle,15.6
+3830,LMNOP Division Operators,43583.39882,male,Seattle,8.35
+4520,QRS Division,77049.2448,male,Austin,4.69
+5772,XYZ Division,68327.424,male,Seattle,18.21
+3997,LMNOP Division Operators,54103.4256,male,Seattle,1.02
+4617,QRS Division,57067.0848,male,Austin,26.79
+3033,IT,137957.4362,male,Austin,12.85126163
+1479,ABC Division,77276,male,Pittsburgh,0.48
+3848,LMNOP Division Operators,55014.07979,male,Seattle,11.47
+5228,Warehouse,59137.94718,male,Ithaca,18.0161519
+2171,Call Center,89824.99,male,New York,21.55062743
+2289,Call Center,115217.04,male,New York,11.56458957
+3382,LMNOP Division Operators,62026.64754,male,Seattle,11.97
+1857,Buyers,106375.61,male,Chicago,19.53309712
+2934,Finance,51896,male,Seattle,20.8820706
+1433,ABC Division,101444,male,Pittsburgh,19.21
+3768,LMNOP Division Operators,70412.16018,male,Seattle,11.79
+5223,Warehouse,75457.30575,male,Ithaca,18.39208235
+4653,QRS Division,100824,male,Austin,17.56
+2351,Call Center,147826.01,male,New York,11.26299094
+5287,Warehouse,80131.13755,male,Ithaca,10.62066471
+2717,Finance,99221.77493,male,Austin,6.881566911
+3719,LMNOP Division Operators,71043.9655,male,Seattle,17.11
+5667,XYZ Division,70433.088,male,Seattle,15.91
+4163,LMNOP Division Operators,74862.77882,male,Seattle,10.99
+3739,LMNOP Division Operators,54169.97146,male,Seattle,33.76
+2253,Call Center,109389.21,male,New York,18.21312675
+5478,Warehouse Leadership,98992.88679,male,Ithaca,20.14035482
+5703,XYZ Division,69053.952,male,Seattle,9.16
+5692,XYZ Division,68657.28,male,Seattle,4.09
+3423,LMNOP Division Operators,57396.76835,male,Seattle,14.7
+3207,IT,117868.6649,male,Chicago,4.222719472
+1929,Buyers,118659.7777,male,Chicago,17.56620742
+4010,LMNOP Division Operators,41714.53057,male,Seattle,25.46
+4056,LMNOP Division Operators,57568.55159,male,Seattle,11.29
+2213,Call Center,98726.54,male,New York,5.020991671
+3947,LMNOP Division Operators,32274.4842,male,Austin,30.56
+4475,Production,65266.12224,male,Austin,21.83
+3240,IT,133693.4222,male,Chicago,6.915347894
+3216,IT,116341.9213,male,Chicago,3.670905565
+1850,Buyers,104964.1001,male,Chicago,25.72876967
+5253,Warehouse Leadership,97409.61148,male,Ithaca,25.97472613
+2733,Finance,103664.3507,male,Seattle,11.16815409
+5831,Sales Operations,53777.01848,male,Miami,1.61
+1901,Buyers,113410.8406,male,Chicago,1.247692304
+5244,Warehouse Leadership,94532.91816,male,Ithaca,5.067613547
+4345,Production,98607,male,Austin,23.75
+2247,Call Center,107843.76,male,New York,18.75809754
+4587,QRS Division,55399.4496,male,Austin,6.51
+2183,Call Center,92928.52,male,New York,24.4530413
+1661,Administrative Support,42457.70711,male,Austin,5.042166435
+5718,XYZ Division,,male,Austin,2.49
+3093,IT,145973.5277,male,Austin,15.13202914
+5706,XYZ Division,54724.032,male,Seattle,19.97
+4280,Production,100305,male,Austin,2.42
+2554,Finance,101736,male,Austin,10.47277488
+5552,XYZ Division,57911.04,male,Austin,2.86
+3962,LMNOP Division Operators,42995.44939,male,Seattle,14.5
+4734,Research and Development,61164.58555,male,Los Angeles,2
+1920,Buyers,117383.8164,male,Austin,17.35123201
+4232,Production,63434.976,male,Austin,19.53
+2685,Finance,113524.732,male,Seattle,5.324219549
+2060,Buyers,176140.2246,male,Austin,19.05126316
+4013,LMNOP Division Operators,54630.67763,male,Austin,5.99
+2168,Call Center,88747.37,male,New York,17.35227076
+4643,QRS Division,57100.032,male,Austin,25.2
+2883,Finance,112328.6605,male,Austin,28.80024991
+1843,Buyers,104029.0811,male,Chicago,18.97163355
+4253,Production,103156,male,Austin,14.59
+1363,ABC Division,64724.352,male,Pittsburgh,17.02
+4619,QRS Division,148220.16,male,Austin,27.83
+3849,LMNOP Division Operators,70309.88448,male,Seattle,8.68
+3810,LMNOP Division Operators,57705.88513,male,Austin,9.02
+1470,ABC Division,103315,male,Pittsburgh,12.68
+2903,Finance,104107.6676,male,Seattle,10.26330897
+1864,Buyers,107169.4147,male,Chicago,5.966090456
+2017,Buyers,132690.1395,male,Austin,3.926272517
+3142,IT,118805.9006,male,Chicago,11.55702205
+4473,Production,62333.31456,male,Austin,14.56
+1805,Buyers,103347,male,Austin,11.63403427
+3745,LMNOP Division Operators,59278.12654,male,Seattle,7.15
+1945,Buyers,120014.0149,male,Chicago,12.89355222
+4656,QRS Division,101896,male,Austin,27.36
+5758,XYZ Division,136634.88,male,Austin,15.53
+3220,IT,133519.6814,male,Chicago,7.669365369
+4612,QRS Division,55066.176,male,Austin,5.25
+5817,XYZ Division,163597.44,male,Austin,13.28
+2299,Call Center,117666.41,male,New York,9.872562378
+2877,Finance,114992.2286,male,Austin,20.3724963
+2352,Call Center,148054.17,male,New York,20.35744396
+1505,ABC Division,103997,male,Pittsburgh,3.67
+2479,Facility Services,37987.81191,male,San Francisco,4
+2609,Finance,103384.6839,male,Seattle,17.54886666
+3162,IT,130400.1518,male,Chicago,23.21098417
+5241,Warehouse Leadership,94310.10996,male,Ithaca,19.6608115
+2486,Facility Services,53888.23977,male,Santa Cruz,6
+2889,Finance,105906.3788,male,Seattle,16.90638385
+3279,IT,96842.75746,male,Chicago,11.18034809
+3415,LMNOP Division Operators,62060.09296,male,Seattle,12.07
+1906,Buyers,114088.256,male,Chicago,19.91062526
+2333,Call Center,131515.24,male,New York,12.35313191
+4773,Research and Development,205027.9886,male,Los Angeles,9.31
+5771,XYZ Division,67558.656,male,Seattle,9.26
+5724,XYZ Division,51389.184,male,Austin,12.12
+4744,Research and Development,73875.274,male,Los Angeles,3
+4002,LMNOP Division Operators,65492.69869,male,Austin,3.27
+3554,LMNOP Division Operators,62946.20449,male,Austin,14.63
+4354,Production,,male,Austin,6.13
+3795,LMNOP Division Operators,58962.22783,male,Austin,19.42
+2284,Call Center,114309.89,male,New York,24.51097519
+4443,Production,77053.76448,male,Austin,6.22
+3435,LMNOP Division Operators,59765.22223,male,Seattle,32.22
+3961,LMNOP Division Operators,50673.69617,male,Seattle,4.19
+4663,QRS Division,71180.736,male,Austin,5.78
+3757,LMNOP Division Operators,60870.65715,male,Seattle,18.16
+5672,XYZ Division,61100.16,male,Seattle,8.05
+3232,IT,135065.002,male,Chicago,22.77751698
+2086,Call Center,61116.73,male,New York,23.27606501
+2094,Call Center,66674.59,male,New York,24.70775489
+3247,IT,102985.2716,male,Chicago,7.304431982
+5272,Warehouse Leadership,96555.96015,male,Ithaca,25.31817018
+3705,LMNOP Division Operators,55191.31506,male,Austin,12.78
+3910,LMNOP Division Operators,59897.06296,male,Seattle,1.57
+3722,LMNOP Division Operators,47269.2625,male,Seattle,26.99
+2690,Finance,111812.0241,male,Austin,0.530182001
+1485,ABC Division,101808,male,Pittsburgh,8.06
+2199,Call Center,96095.19,male,New York,18.202661
+3970,LMNOP Division Operators,55613.5363,male,Seattle,21.76
+3776,LMNOP Division Operators,61834.14681,male,Austin,4.21
+3264,IT,105845.9453,male,Chicago,7.760791499
+4658,QRS Division,58929.024,male,Austin,15.83
+2243,Call Center,107081.94,male,New York,20.44102222
+1698,Administrative Support,50973.38502,male,Seattle,4.07151371
+3290,IT,129630.3088,male,Chicago,21.32408119
+5697,XYZ Division,59600.64,male,Seattle,13.82
+3846,LMNOP Division Operators,49721.18474,male,Seattle,4.17
+5270,Warehouse,75402.10579,male,Ithaca,15.75352387
+2948,HR,103803,male,Santa Cruz,33
+3879,LMNOP Division Operators,53668.88089,male,Austin,14.42
+3963,LMNOP Division Operators,59488.24492,male,Seattle,5.25
+4659,QRS Division,77562.22848,male,Austin,23.32
+4613,QRS Division,133848.96,male,Austin,13.79
+2233,Call Center,104496.76,male,New York,21.94566784
+2854,Finance,103557,male,Seattle,25.59996997
+1893,Buyers,111981.6439,male,Chicago,21.87084819
+3836,LMNOP Division Operators,66644.4964,male,Seattle,16.31
+4511,QRS Division,100652,male,Austin,17.3
+4340,Production,98840,male,Austin,6.71

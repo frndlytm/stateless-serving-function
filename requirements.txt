@@ -1,0 +1,6 @@
+cachetools
+flask-pydantic
+functions-framework==3.*
+mlflow
+pandas
+scikit-learn
